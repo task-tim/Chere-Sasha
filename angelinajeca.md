@@ -6,6 +6,12 @@ Une liste
 * 2
 * 3
 
+
+Une autre liste
+
+1. owo
+1. owo
+
 1 | 2
 ------------ | -------------
 idk what to write | i still dont know
