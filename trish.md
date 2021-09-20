@@ -10,7 +10,7 @@ https://tim-montmorency.com/
 *liste :*
 * Item 1
 * Item 2
-   *Item 2a
+   * Item 2a
   
 variable x | variable y
 ---------- | ----------
