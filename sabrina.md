@@ -5,6 +5,7 @@
 *Cours 04*
 
 [felix le chat] https://www.behance.net/gallery/55389655/gif-Collection-Two
+
 *liste :*
 * 1
 * 2
@@ -25,8 +26,5 @@
 | un | Tableau|
 | abc | xyz |
 
-1. First item
-2. Second item
-3. Third item
 
 ![donut](https://purepng.com/public/uploads/large/purepng.com-donutdonutdoughnutsweetsnack-1411527416158xueuy.png)
