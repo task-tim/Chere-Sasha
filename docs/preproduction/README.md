@@ -32,10 +32,10 @@
 ![Exemple de cartographie 3](medias/Temps.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer comment la vie d'une personne peut changer au fil du temps et les sentiments négatifs ne sont que temporaires.
+Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourer de parents non suportifs peut changer au fil du temps et les sentiments négatifs ne sont que temporaires. 
 
 ## Synopsis
-Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha éprouve des moments difficiles tandis que, pendant sa vie d'adulte, Sasha est épanoui. 
+Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle . Cependant, Sasha porte mieux mentalement qu'avant. 
 
 Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
