@@ -27,9 +27,9 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Exemple de cartographie 1](medias/mind_map.png)
+![Exemple de cartographie 2](medias/mind_map_3.png)
+![Exemple de cartographie 3](medias/Temps.PNG)
 
 ## Intention de départ
 Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
