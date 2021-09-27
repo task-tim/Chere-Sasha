@@ -32,12 +32,12 @@
 ![Exemple de cartographie 3](medias/Temps.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Par ce projet, nous souhaitons exposer comment la vie d'une personne peut changer au fil du temps et les sentiments négatifs ne sont que temporaires.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha éprouve des moments difficiles tandis que, pendant sa vie d'adulte, Sasha est épanoui. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
