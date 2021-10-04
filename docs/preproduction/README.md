@@ -49,8 +49,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 > Moodboard chambre adulte
 ![Moodboard adulte](medias/moodboard_adulte.jpg)
 * https://lasonotheque.org/detail-0645-defile-a-londres.html
-
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+* https://lasonotheque.org/detail-0080-appartement-parisien-fenetre-fermee.html
 
 ## Scénario, scénarimage ou document audio/visuel
 
