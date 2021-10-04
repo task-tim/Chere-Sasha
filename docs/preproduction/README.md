@@ -29,7 +29,7 @@
 
 ![Exemple de cartographie 1](medias/mind_map.png)
 ![Exemple de cartographie 2](medias/mind_map_3.png)
-![Exemple de cartographie 3](medias/Temps.PNG)
+![Exemple de cartographie 3](medias/Temps.png)
 
 ## Intention de départ
 Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourer de parents non suportifs peut changer au fil du temps et les sentiments négatifs ne sont que temporaires. 
