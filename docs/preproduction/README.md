@@ -40,9 +40,15 @@ Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha
 Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+> Moodboard chambre adolescent
+![Moodboard adolescent](medias/moodboard_ado.jpg)
+* https://lasonotheque.org/detail-1111-message-1.html
+* https://lasonotheque.org/detail-0452-iphone-sonnerie-marimba.html
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+
+> Moodboard chambre adulte
+![Moodboard adulte](medias/moodboard_adulte.jpg)
+* https://lasonotheque.org/detail-0645-defile-a-londres.html
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
