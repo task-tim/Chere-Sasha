@@ -25,14 +25,13 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
-![Exemple de cartographie 1](medias/mind_map.png)
-![Exemple de cartographie 2](medias/mind_map_3.png)
-![Exemple de cartographie 3](medias/Temps.png)
+![Cartographie 1](medias/mind_map.png)
+![Cartographie 2](medias/mind_map_3.png)
+![Cartographie 3](medias/Temps.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourer de parents non suportifs peut changer au fil du temps et les sentiments négatifs ne sont que temporaires. 
+Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourer de parents non suportifs peut changer au fil du temps. Aussi, on veux exposer comment une personne en soi peut changer au cours du temps, mais cette personnne n'a pas de contrôle sur le changement de convictions des personnes autour d'elle. 
 
 ## Synopsis
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle . Cependant, Sasha porte mieux mentalement qu'avant. 
@@ -41,21 +40,42 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 ## Tableau d'ambiance (*moodboard*)
 > Moodboard chambre adolescent
-![Moodboard adolescent](medias/moodboard_ado.jpg)
-* https://lasonotheque.org/detail-1111-message-1.html
-* https://lasonotheque.org/detail-0452-iphone-sonnerie-marimba.html
-
+![Chambre adolescent](medias/AMBIANCE_CHAMBRE_ADO.png)
+Lit adolescent
+![Lit adolescent](medias/LIT_ADO.png)
+Journal adolescent
+![Journal adolescent](medias/JOURNAL_ADOLESCENT.png)
+Poubelle adolescent
+![Poubelle adolescent](medias/POUBELLE_ADO.png)
+Ambiance sonore adolescent
+![Ambiance sonore adolescent](medias/)
 
 > Moodboard chambre adulte
-![Moodboard adulte](medias/moodboard_adulte.jpg)
-* https://lasonotheque.org/detail-0645-defile-a-londres.html
-* https://lasonotheque.org/detail-0080-appartement-parisien-fenetre-fermee.html
+![Chambre adulte](medias/AMBIANCE_CHAMBRE_ADULTE.png)
+Lit adulte
+![Lit adulte](medias/LIT_ADULTE.png)
+Journal adulte
+![Journal adulte](medias/JOURNAL_ADULTE.png)
+Boite de souvenir adulte
+![Boite de souvenir adulte](medias/BOITE_SOUVENIR_ADULTE.png)
+Plante adulte
+![Plante adulte](medias/PLANTE_ADULTE.png)
+Ambiance sonore adulte
+![Ambiance sonore adulte](medias/ambiance_sonore_adulte.png)
+* Ville: https://artlist.io/sfx/track/70925/the-recordist---city-street,-ac-whirring,-traffic-rumble
+* Radio: https://www.youtube.com/watch?v=Erf2iFHG44M
+* Ventilateur: https://lasonotheque.org/detail-0078-ventilateur.html
+* Amis: https://artlist.io/sfx/track/42040/ambiences-vol-1---crowded-cafeteria,-people-talking,-eating
+* Défilé: https://www.youtube.com/watch?v=S-kRJQFq55g
+* Électroménager: https://artlist.io/sfx/track/70073/rooms-presence---industrial-kitchen,-fridge-section,-humming-loudly-
 
 ## Scénario, scénarimage ou document audio/visuel
 
-**SCÈNE 01 ADOLESCENTE**
+**SCÈNE INTRODUCTION**
 
-Le public entre dans la chambre. Un lit est au milieu de la pièce, celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha.
+Les deux sections de la chambre sont allumés, de plus les lumières par dessus les 6 objects sont allumés. Le public entre dans la chambre. Un lit est au milieu de la pièce, celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha. Après quelques temps, toutes les lumières s'éteignent.
+
+**SCÈNE 01 ADOLESCENTE**
 
 La section adolescente de la chambre s’illumine. Le public est amené à observer les deux sections pendant une minute. Après, le téléphone fait un son de notification et s’illumine. Cet événement amène le public à se rapprocher de la table de chevet de la section gauche (côté adolescente) et interagir avec l’appareil. 
 
@@ -63,18 +83,35 @@ Sur l’appareil, on voit apparaître des notifications de messages textes en te
 
 S'il répond: Le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
 
+PÈRE: Sasha! Comme ça j'ai appris que t'es lesbienne! C'est un péché, tu va etre puni pour tes tors. Essaye pas de t'expliquer, pourquoi tu peux pas être normale comme les autres! T'est plus ma fille, j'ai honte de t'avoir eu... C'est tu a cause de la maniere que je t'ai élever? Sasha, je suis.
+
+L'appel se termine, on entend la ligne qui se coupe.
+
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
+
+PÈRE : Sasha comment ça tu répond pas, je sais que tu m'entend! Comme ça j'ai appris que t'es lesbienne! C'est un péché, tu va etre puni pour tes tors. Essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu peux pas être normale comme les autres tabarnack!
+
+Le message vocal se termine, on entend la ligne qui se coupe.
 
 **SCÈNE 02 ADOLESCENTE**
 
 Soudainement, la poubelle dans la chambre de Sasha se fait renverser.
 Le public est invité à observer les ordures (pansements, devoirs froissés, examen coulé, messages haineux sur papiers froissés) se trouvant sur le plancher. Après quelques secondes, une vidéo est déclenchée et projetée sur le mur de la pièce. 
 
-Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et de son professeur.
+Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
+
+CAMARADE 1 : Eille c'est la lesbienne!
+Les cammarades commence a rire et des chuchotement incompréensible peuvent être entendu.
+CAMARADE 2 : Ah peut-tu sortir des toilettes, je ne suis pas confortable.
+CAMARADE 3 : Oh comme c'est domage, tu est tellement belle.
+CAMARADE 4 : Ark je pensait qu'elle avait un oeuil sur moi.
+PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent.
 
 **SCÈNE 03 ADOLESCENTE**
 
 Lorsque la vidéo termine, la lampe sur la table à chevet s’allume et illumine le journal intime de Sasha. Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
+
+SASHA ADO : Chère Sasha, ajourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il ma demandait si j'avais besoin d'aide. C'est gentil de sa part, mais j'ose pas aller le voir, c'est pas comme si il peut empêcher toute la classe de se moquer de moi. Ils ont lancer mon sac-à-dos dans les toilettes, heureusement mon lunch a été épargnié. Mes parents étaient trop occupé pour remarquer quoi que ce soit. Aussi, la fille que j'aimai, ma insulter. Personne est de mon bord, si seulement j'étais normale.
 
 **SCÈNE 04 ADULTE**
 
@@ -84,14 +121,47 @@ Le côté adolescent s’éteint et la lumière du côté adulte illumine le cô
 
 Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
 
+SASHA ADULTE : Chère Sasha, demain j'ai un deuxième rendez-vous avec la fille que j'ai rencontré en ligne. J'ai pas encore choisie mon habit, mais j'ai hâte de la voir. Ajourd'hui, c'est le cinquième anniversaire de mon déménagement, c'est bien d'être libre. La jeune Sasha serait fier de moi.
+
 **SCÈNE 06 ADULTE**
 
 Le téléphone reçoit un appel téléphonique du père de Sasha et le public a le choix de soit répondre au téléphone ou ignorer l’appel:
 
 S'il répond: Le père de Sasha lui parle avec un ton passif agressif.
 
+PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passe la voir. On peut mettre nos différence de côté pendant une journée. Tu devrait te forcer pour nous pardonner, on ta tous donner. Je t'aime, mais je ne peux pas accepter ton mode de vie.
+
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et lui demande de venir lui rendre visite de temps en temps et de ne pas le blâmer pour ses convictions.
 
+PÈRE : Ah ta pas appris comment décrocher le téléphone. Ça serait bien que tu vienne nous visiter de temps en temps. Tu sais c'est pas de notre faute, tu devrait pas nous blamer pour nos convictions. Quand t'aura fini cette phase, tu va nous comprendre. Viens bientôt nous rendre visite.
+
+**SCÈNE CONCLUSION**
+
+Toutes les lumières s'éteignent, une projection commence, on y voit une interface de message cellulaire. Sasha adolescent commence à parler et Sasha adulte lui répond.
+
+Pour chaque dialogue, un nouveau message va apparaitre à l'écran.
+
+SASHA ADO : Salut, comment ça va?
+
+SASHA ADULTE : Ça va mieux.
+
+SASHA ADO : Habite tu encore avec nos parents?
+
+SASHA ADULTE : Non, j'ai enfin déménager.
+
+SASHA ADO : Est-ce que maman et papa ont fini par m'accepter?
+
+SASHA ADULTE : Pas vraiment, mais ils nous tolerent.
+
+SASHA ADO : Es-tu heureuse?
+
+SASHA ADULTE : Ya des journées qui sont plus difficile, mais on va y arriver.
+
+SASHA ADO : On es-tu bien dans notre peau?
+
+SASHA ADULTE : Ça ma pris du temps à m'accepter, mais je suis fier de qui je suis.
+
+Le projecteur s'éteind lentement après la dernière phrase.
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
