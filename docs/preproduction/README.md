@@ -48,7 +48,46 @@ Journal adolescent
 Poubelle adolescent
 ![Poubelle adolescent](medias/POUBELLE_ADO.png)
 Ambiance sonore adolescent
-![Ambiance sonore adolescent](medias/)
+![Ambiance sonore adolescent](medias/moodboard_ado.png)
+
+* Lumières néons (« bzz ») 
+https://sound-effects.bbcrewind.co.uk/search?q=07014122
+https://sound-effects.bbcrewind.co.uk/search?q=07069067
+
+* Pluie et tonnerre: 
+https://sound-effects.bbcrewind.co.uk/search?q=NHU05032134
+https://sound-effects.bbcrewind.co.uk/search?q=NHU05044027
+
+* Vent:
+https://sound-effects.bbcrewind.co.uk/search?q=NHU05044027
+
+* Notifications de téléphone:
+https://sound-effects.bbcrewind.co.uk/search?q=07042244
+
+* Respiration forte/personne qui pleure:
+https://sound-effects.bbcrewind.co.uk/search?q=07071016
+https://sound-effects.bbcrewind.co.uk/search?q=07034123
+
+* musique triste:
+https://youtu.be/WGURnJV01J0
+
+* Automobile: 
+https://sound-effects.bbcrewind.co.uk/search?q=0009017
+
+* Train:
+https://sound-effects.bbcrewind.co.uk/search?q=07006092
+
+* son dans la maison:
+https://sound-effects.bbcrewind.co.uk/search?q=07027238 (mircro ondes)
+
+*Laveuse et sécheuse:
+https://sound-effects.bbcrewind.co.uk/search?q=07027234
+https://sound-effects.bbcrewind.co.uk/search?q=07040177
+
+
+
+
+
 
 > Moodboard chambre adulte
 ![Chambre adulte](medias/AMBIANCE_CHAMBRE_ADULTE.png)
@@ -68,6 +107,7 @@ Ambiance sonore adulte
 * Amis: https://artlist.io/sfx/track/42040/ambiences-vol-1---crowded-cafeteria,-people-talking,-eating
 * Défilé: https://www.youtube.com/watch?v=S-kRJQFq55g
 * Électroménager: https://artlist.io/sfx/track/70073/rooms-presence---industrial-kitchen,-fridge-section,-humming-loudly-
+
 
 ## Scénario, scénarimage ou document audio/visuel
 
