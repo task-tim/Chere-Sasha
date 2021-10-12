@@ -221,44 +221,72 @@ Le projecteur s'éteind lentement après la dernière phrase.
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Lit gonflabe
+    * Queen
+* Draps
+    * Blanc pour adulte
+    * Noir pour ado
+* Oreiller
+    * Même couleur que les draps
+* Table de chevet 
+    * 2 tables
+* Journal
+    * Bleu
+    * Noir
+* Boite de souvenir
+    * Assez grande pour insérer des objets
+    * Photos
+    * Porte clef type drapeau LGBTQ+
+    * Billets de concert
+* Plantes
+* Poubelle
+    * Noir avec trou
+    * Pansement
+    * Examen
+    * Devoirs
+    * Notes
+* Téléphone
+    * Iphone 6s
+    * autre téléphone
+* Lampe
+* Vêtements
+* Déchets
+    * Bouteille vide
+    * Emballage
+    * Canettes
+    * Papier
+
+    
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 4 haut-parleurs
+    * 1 mini haut-parleur
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 1 projecteurs vidéo lentille standard
+    * 1 système d'acrochage
+    * Caméra (go pro)
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 6 spot de lumière
+    * 6 fils XLR 3 conducteurs de 20'
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 2 extentions 
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur
     
 * Autre
-    * Tout autre élément pertinant
+    * Photorésistance
+    * Arduino nano
+    * Moteur robot
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -266,32 +294,42 @@ Le projecteur s'éteind lentement après la dernière phrase.
 * [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
+* [Visual studio code](https://code.visualstudio.com) 
+* [Arduino](https://www.arduino.cc)  
+* [Xd](https://www.adobe.com/ca/products/illustrator.html) 
+* [Illustrator](https://www.adobe.com/ca/products/xd.html)   
+* [After effect](https://www.adobe.com/ca/products/aftereffects.html)   
+* [Reaper](https://www.adobe.com/ca/products/aftereffects.html)   
+* [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Actrice
+* Doubleur père et doubleur Sasha
+* Plusieur doubleurs pour insulte et professeur
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Projection vidéo sur un mur blanc
 
 * Petit studio
     * Enregsitrement audio
+    * Enregistrement vidéo
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+| Nous n'avons jamais utilisé un robot pour faire bouger des objets | Formation avec Thomas dans le cours d'espace intéractif | Sinon, nous pourrions faire qu'elle est déjà tombé |
+| Nous n'avons jamais utilisé un outil pour automatiser des éléments | Formation avec Guillaume dans le cours de conception de projet | Pour la projection et lumières |
+| Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le ui du téléphone |
+| Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
@@ -303,7 +341,7 @@ Le projecteur s'éteind lentement après la dernière phrase.
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/task-tim/temps/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
@@ -315,7 +353,7 @@ Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/task-tim/temps/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
