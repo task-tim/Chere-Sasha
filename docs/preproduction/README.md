@@ -211,11 +211,11 @@ Le projecteur s'éteind lentement après la dernière phrase.
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/Plantation-shema-technique.png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/Plantation-shema-branchement.png)
 
 ## Matériel de scénographie requis
 
