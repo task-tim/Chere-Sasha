@@ -31,10 +31,10 @@
 ![Cartographie 3](medias/Temps.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents non suportifs peut changer au fil du temps. Aussi, on veux exposer comment une personne en soi peut changer au cours du temps, mais cette personnne n'a pas de contrôle sur le changement de convictions des personnes autour d'elle. 
+Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents non suportifs peut changer au fil du temps. Aussi, on veux exposer comment un conflit intergénérationelle peut influencer la vie d'une personne de façon négative, mais celle-ci peut finir par s'en sortir.
 
 ## Synopsis
-Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle . Cependant, Sasha porte mieux mentalement qu'avant. 
+Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. 
 
 Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
@@ -113,7 +113,7 @@ Ambiance sonore adulte
 
 **SCÈNE INTRODUCTION**
 
-Les deux sections de la chambre sont allumés ainsi que les lumières par dessus les 6 objects sont allumées. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha (24 ans). Après quelques temps, toutes les lumières s'éteignent.
+Les deux sections de la chambre sont allumés ainsi que les lumières par dessus les 6 objects sont allumées. Des mots sont projeter sur le mur derrière le lit. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha (24 ans). Après quelques temps, toutes les lumières s'éteignent.
 
 **SCÈNE 01 ADOLESCENTE**
 
@@ -123,13 +123,13 @@ Sur l’appareil, on voit apparaître des notifications de messages textes en te
 
 S'il répond: Le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE: Sasha! Comme ça j'ai appris que t'es lesbienne! C'est un péché, tu vas être puni pour tes tors. Essaye pas de t'expliquer! Pourquoi tu peux pas être normale comme les autres! T'es plus ma fille, j'ai honte de t'avoir eu... C'est tu à cause de la maniere que je t'ai élevé? Sasha, je suis...
+PÈRE: Sasha! Comment t'as pu cacher ça de moi! Non essaye pas de donner des excuses! Tu comprend pas à qu'elle point tu me déçoit... Ah! Ma propre fille, qu'est que va penser ta mère... Ah puis tes grand-parents! Faut que tu guarde ça pour toi. Attend que j'arrive à la maison tu va...
 
 L'appel se termine, on entend la ligne qui se coupe.
 
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE : Sasha comment ça tu répond pas? Je sais que tu m'entend! Comme ça j'ai appris que t'es lesbienne! C'est un péché, tu vas être puni pour tes tors. Essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu peux pas être normale comme les autres tabarnack!
+PÈRE : Sasha comment ça tu répond pas? Je sais que tu m'entend! Comment t'as pu cacher ça de moi! Essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu peux pas être normale comme les autres tabarnack!
 
 Le message vocal se termine, on entend la ligne qui se coupe.
 
@@ -140,7 +140,7 @@ Le public est invité à observer les ordures (pansements, devoirs froissés, ex
 
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
-CAMARADE 1 : Eille c'est la lesbienne!
+CAMARADE 1 : Eille c'est tu elle?
 Les cammarades commencent à rire et des chuchotements incompréensibles peuvent être entendus.
 CAMARADE 2 : Ah peux-tu sortir des toilettes, je ne suis pas confortable.
 CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
@@ -151,7 +151,7 @@ PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent?
 
 Lorsque la vidéo termine, la lampe sur la table à chevet s’allume et illumine le journal intime de Sasha. Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
 
-SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais j'ose pas aller le voir, c'est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac-à-dos dans les toilettes.Heureusement mon lunch a été épargnié. Mes parents étaient trop occupé pour remarquer quoi que ce soit. Aussi, la fille que j'aimais, m'a insulté. Personne est de mon bord, si seulement j'étais normale.
+SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais j'ose pas aller le voir, c'est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac-à-dos dans les toilettes.Heureusement mon lunch a été épargnié. Mes parents étaient trop occupé pour remarquer quoi que ce soit. Personne est de mon bord, si seulement j'étais normale.
 
 **SCÈNE 04 ADULTE**
 
@@ -189,10 +189,6 @@ SASHA ADO : Habites-tu encore avec nos parents?
 
 SASHA ADULTE : Non, j'ai enfin déménagé.
 
-SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
-
-SASHA ADULTE : Pas vraiment, mais ils nous tolèrent.
-
 SASHA ADO : Es-tu heureuse?
 
 SASHA ADULTE : Y'a des journées qui sont plus difficiles, mais on va y arriver.
@@ -201,21 +197,24 @@ SASHA ADO : On es-tu bien dans notre peau?
 
 SASHA ADULTE : Ça ma pris du temps à m'accepter, mais je suis fière de qui je suis.
 
-Le projecteur s'éteind lentement après la dernière phrase.
+SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
+
+SASHA ADULTE : Pas vraiment, mais prend pas leur reamrque à coeur. Qu'est qui en sais. sont pas à ta place. On a jamais valoriser les même choses, tu ne peut pas changer quelqu'un qui refuse de changer. Je sais que personne ne te la jamais dit, mais moi je suis fier de toi.
+
+Le projecteur s'éteind lentement après la dernière phrase. Un autre projecteur s'allume au dessus d'un téléphone et le public est invité à envoyer des mot d'ancouragement à Sasha.
 
 **SCÉNARIMAGE**
 ![Scénarimage](medias/scenarimage.png)
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
 
-![exemple de plantation](medias/Plantation-shema-technique.png)
+![Plantation](medias/Plantation-shema-technique.png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/Plantation-shema-branchement.png)
+![Schema](medias/Plantation-shema-branchement.png)
 
 ## Matériel de scénographie requis
 
@@ -247,7 +246,7 @@ Le projecteur s'éteind lentement après la dernière phrase.
     * Notes
 * Téléphone
     * Iphone 6s
-    * autre téléphone
+    * 2 autres téléphone ou tablette
 * Lampe
 * Vêtements
 * Déchets
@@ -330,13 +329,14 @@ Le projecteur s'éteind lentement après la dernière phrase.
 | Nous n'avons jamais utilisé un outil pour automatiser des éléments | Formation avec Guillaume dans le cours de conception de projet | Pour la projection et lumières |
 | Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le ui du téléphone |
 | Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
+| Nous n'avons jamais récolter des données d'un site pour les projeter | Formation avec Daryl dans le cours de gestion de projet | Faire changer une vidéo avec les réponses des gens précédents |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+![Budget prévisionnel](medias/BUDGET.PNG)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+[Lien vers document](https://docs.google.com/spreadsheets/d/10EHdmBSzU-OB_hyH35pAxTp1Wx2cfQC5J625wcHOGkE/edit?usp=sharing)
 
 
 ## Échéancier global
@@ -345,12 +345,12 @@ https://github.com/task-tim/temps/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Prototype finale : décembre
+- Présentation des projets devant public : mars 2022
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/task-tim/temps/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/task-tim/temps/issues
@@ -402,7 +402,7 @@ https://github.com/task-tim/temps//issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **Jeudi 20h30 (1h-2h)** : Rencontre de suivi de projet.
 
 Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **Vendredi 20h (1h-2h)** : Rencontre de suivi de projet.
