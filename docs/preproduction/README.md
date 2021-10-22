@@ -141,10 +141,15 @@ Le public est invité à observer les ordures (pansements, devoirs froissés, ex
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
 CAMARADE 1 : Eille c'est tu elle?
+
 Les cammarades commencent à rire et des chuchotements incompréensibles peuvent être entendus.
+
 CAMARADE 2 : Ah peux-tu sortir des toilettes, je ne suis pas confortable.
+
 CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
+
 CAMARADE 4 : Ark je pensais qu'elle avait un oeuil sur moi.
+
 PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent?
 
 **SCÈNE 03 ADOLESCENTE**
@@ -254,6 +259,7 @@ Le projecteur s'éteind lentement après la dernière phrase. Un autre projecteu
     * Emballage
     * Canettes
     * Papier
+* Table pour téléphone public
 
     
 
@@ -359,39 +365,42 @@ https://github.com/task-tim/temps/issues
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Étudiant Trish**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
+- Création de la maquette de l'interface mobile
+- Montage des paysages sonores
+- Coudre les couvertures ensemble
+- Création des éléments visuels de la conclusion
+- Installation de l'équipement dans l'espace physique
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3ATrishng
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Atrishng
 
 **Étudiant Angie**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Création des vidéos d'animation 2D 
+- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe)
+- Programmation de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3Aangelinajeca
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Aangelinajeca
 
 **Étudiant Sabrina**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Décoratrice intérieur
+- Écrire les journeaux
+- Montage des vidéos
+- Filmer les vidéos
+- Prendre les photos
+- Enregistrement des voix
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3Asabrinakayani
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Asabrinakayani
 
 **Étudiant Karine**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+- Programmation des interfaces mobiles
+- Programmation de l'interface de soumission de message
+- Décoration de la boîte à souvenir
+- Programmation de la timeline
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3ACorKarine
