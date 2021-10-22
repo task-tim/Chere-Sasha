@@ -369,7 +369,6 @@ https://github.com/task-tim/temps/issues
 - Montage des paysages sonores
 - Coudre les couvertures ensemble
 - Création des éléments visuels de la conclusion
-- Installation de l'équipement dans l'espace physique
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3ATrishng
@@ -386,7 +385,7 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Aangeli
 
 **Étudiant Sabrina**
 - Décoratrice intérieur
-- Écrire les journeaux
+- Écrire les journaux
 - Montage des vidéos
 - Filmer les vidéos
 - Prendre les photos
