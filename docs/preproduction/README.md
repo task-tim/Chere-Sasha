@@ -340,7 +340,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/BUDGET.PNG)
+![Budget prévisionnel](medias/BUDGET.png)
 
 [Lien vers document](https://docs.google.com/spreadsheets/d/10EHdmBSzU-OB_hyH35pAxTp1Wx2cfQC5J625wcHOGkE/edit?usp=sharing)
 
