@@ -271,16 +271,16 @@ Le projecteur s'éteind lentement après la dernière phrase. Un autre projecteu
     * 1 mini haut-parleur
 
 * Vidéo
-    * 1 projecteurs vidéo lentille standard
+    * 1 projecteur vidéo lentille standard
     * 1 système d'acrochage
     * Caméra (go pro)
 
 * Lumière
-    * 6 spot de lumière
+    * 6 spots de lumière
     * 6 fils XLR 3 conducteurs de 20'
 
 * Électricité
-    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 
 
 * Réseau
@@ -333,7 +333,7 @@ Le projecteur s'éteind lentement après la dernière phrase. Un autre projecteu
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Nous n'avons jamais utilisé un robot pour faire bouger des objets | Formation avec Thomas dans le cours d'espace intéractif | Sinon, nous pourrions faire qu'elle est déjà tombé |
 | Nous n'avons jamais utilisé un outil pour automatiser des éléments | Formation avec Guillaume dans le cours de conception de projet | Pour la projection et lumières |
-| Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le ui du téléphone |
+| Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le UI du téléphone |
 | Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
 | Nous n'avons jamais récolter des données d'un site pour les projeter | Formation avec Daryl dans le cours de gestion de projet | Faire changer une vidéo avec les réponses des gens précédents |
 |                                                  |                                                       |                                                                                              |
