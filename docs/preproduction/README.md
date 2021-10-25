@@ -31,7 +31,7 @@
 ![Cartographie 3](medias/Temps.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents non suportifs peut changer au fil du temps. Aussi, on veux exposer comment un conflit intergénérationelle peut influencer la vie d'une personne de façon négative, mais celle-ci peut finir par s'en sortir.
+Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents non supportifs**** peut changer au fil du temps. Aussi, on veux exposer comment un conflit intergénérationnel peut influencer la vie d'une personne de façon négative, mais celle-ci peut finir par s'en sortir.
 
 ## Synopsis
 Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. 
@@ -113,23 +113,23 @@ Ambiance sonore adulte
 
 **SCÈNE INTRODUCTION**
 
-Les deux sections de la chambre sont allumés ainsi que les lumières par dessus les 6 objects sont allumées. Des mots sont projeter sur le mur derrière le lit. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha (24 ans). Après quelques temps, toutes les lumières s'éteignent.
+Les deux sections de la chambre sont allumées ainsi que les lumières par-dessus les 6 objets sont allumées. Des mots sont projetés sur le mur derrière le lit. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha (24 ans). Après quelque temps, toutes les lumières s'éteignent.
 
 **SCÈNE 01 ADOLESCENTE**
 
 La section adolescente de la chambre s’illumine. Le public est amené à observer les deux sections pendant une minute. Après, le téléphone fait un son de notification et s’illumine. Cet événement amène le public à se rapprocher de la table de chevet de la section gauche (côté adolescent) et interagir avec l’appareil. 
 
-Sur l’appareil, on voit apparaître des notifications de messages textes en temps réel. Après quelques temps, le téléphone reçoit un appel téléphonique du père de Sasha et le public a le choix de soit répondre au téléphone ou ignorer l’appel:
+Sur l’appareil, on voit apparaître des notifications de messages textes en temps réel. Après quelque temps, le téléphone reçoit un appel téléphonique du père de Sasha et le public a le choix de soit répondre au téléphone ou ignorer l’appel:
 
-S'il répond: Le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
+S'il répond: le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE: Sasha! Comment t'as pu cacher ça de moi! Non essaye pas de donner des excuses! Tu comprend pas à qu'elle point tu me déçoit... Ah! Ma propre fille, qu'est que va penser ta mère... Ah puis tes grand-parents! Faut que tu guarde ça pour toi. Attend que j'arrive à la maison tu va...
+PÈRE: Sasha! Comment tu as pu cacher ça de moi! Non essaye pas de donner des excuses! Tu ne comprends pas à quel point tu me déçois... Ah! Ma propre fille, qu'est-ce que va penser ta mère... Ah puis tes grands-parents! Faut que tu gardes ça pour toi. Attend que j'arrive à la maison tu va...
 
 L'appel se termine, on entend la ligne qui se coupe.
 
-S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
+S’il ignore: le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE : Sasha comment ça tu répond pas? Je sais que tu m'entend! Comment t'as pu cacher ça de moi! Essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu peux pas être normale comme les autres tabarnack!
+PÈRE : Sasha comment ça tu réponds pas? Je sais que tu m'entends! Comment tu as pu cacher ça de moi! N’essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu ne peux pas être normale comme les autres tabarnack!
 
 Le message vocal se termine, on entend la ligne qui se coupe.
 
@@ -142,13 +142,13 @@ Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et com
 
 CAMARADE 1 : Eille c'est tu elle?
 
-Les cammarades commencent à rire et des chuchotements incompréensibles peuvent être entendus.
+Les camarades commencent à rire et des chuchotements incompréhensibles peuvent être entendus.
 
 CAMARADE 2 : Ah peux-tu sortir des toilettes, je ne suis pas confortable.
 
 CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
 
-CAMARADE 4 : Ark je pensais qu'elle avait un oeuil sur moi.
+CAMARADE 4 : Ark je pensais qu'elle avait un œil sur moi.
 
 PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent?
 
@@ -156,7 +156,7 @@ PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent?
 
 Lorsque la vidéo termine, la lampe sur la table à chevet s’allume et illumine le journal intime de Sasha. Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
 
-SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais j'ose pas aller le voir, c'est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac-à-dos dans les toilettes.Heureusement mon lunch a été épargnié. Mes parents étaient trop occupé pour remarquer quoi que ce soit. Personne est de mon bord, si seulement j'étais normale.
+SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais je n’ose pas aller le voir, ce n’est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac à dos dans les toilettes. Heureusement mon lunch a été épargné. Mes parents étaient trop occupés pour remarquer quoi que ce soit. Personne n’est de mon bord, si seulement j'étais normale.
 
 **SCÈNE 04 ADULTE**
 
@@ -166,19 +166,19 @@ Le côté adolescent s’éteint et la lumière du côté adulte illumine le cô
 
 Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
 
-SASHA ADULTE : Chère Sasha, demain j'ai un deuxième rendez-vous avec la fille que j'ai rencontré en ligne. J'ai pas encore choisi mon habit, mais j'ai hâte de la voir. Ajourd'hui, c'est le cinquième anniversaire de mon déménagement, c'est bien d'être libre. La jeune Sasha serait fière de moi.
+SASHA ADULTE : Chère Sasha, demain j'ai un deuxième rendez-vous avec la fille que j'ai rencontré en ligne. Je n’ai pas encore choisi mon habit, mais j'ai hâte de la voir. Aujourd'hui, c'est le cinquième anniversaire de mon déménagement, c'est bien d'être libre. La jeune Sasha serait fière de moi.
 
 **SCÈNE 06 ADULTE**
 
 Le téléphone reçoit un appel téléphonique du père de Sasha et le public a le choix de soit répondre au téléphone ou ignorer l’appel:
 
-S'il répond: Le père de Sasha lui parle avec un ton passif agressif.
+S'il répond: le père de Sasha lui parle avec un ton passif agressif.
 
-PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. Tu sais je t'aime, mais je peux pas accepter ton mode de vie.
+PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. Tu sais je t'aime, mais je ne peux pas accepter ton mode de vie.
 
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et lui demande de venir lui rendre visite de temps en temps et de ne pas le blâmer pour ses convictions.
 
-PÈRE : Ah t'as pas appris comment décrocher le téléphone. Ça serait bien que tu vienne nous visiter de temps en temps. Tu sais c'est pas de notre faute, tu devrais pas nous blâmer pour nos convictions. Quand t'auras fini cette phase, tu vas nous comprendre. Viens bientôt nous rendre visite.
+PÈRE : Ah t'as pas appris comment décrocher le téléphone. Ça serait bien que tu viennes nous visiter de temps en temps. Tu sais c'est pas de notre faute, tu ne devrais pas nous blâmer pour nos convictions. Quand tu auras fini cette phase, tu vas nous comprendre. Viens bientôt nous rendre visite.
 
 **SCÈNE CONCLUSION**
 
@@ -204,9 +204,9 @@ SASHA ADULTE : Ça ma pris du temps à m'accepter, mais je suis fière de qui je
 
 SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
 
-SASHA ADULTE : Pas vraiment, mais prend pas leur reamrque à coeur. Qu'est qui en sais. sont pas à ta place. On a jamais valoriser les même choses, tu ne peut pas changer quelqu'un qui refuse de changer. Je sais que personne ne te la jamais dit, mais moi je suis fier de toi.
+SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Son pas à ta place. On n’a jamais valorisé les mêmes choses, tu ne peux pas changer quelqu'un qui refuse de changer. Je sais que personne ne te la jamais dit, mais moi je suis fier de toi.
 
-Le projecteur s'éteind lentement après la dernière phrase. Un autre projecteur s'allume au dessus d'un téléphone et le public est invité à envoyer des mot d'ancouragement à Sasha.
+Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un téléphone et le public est invité à envoyer des mots d'encouragement à Sasha.
 
 **SCÉNARIMAGE**
 ![Scénarimage](medias/scenarimage.png)
