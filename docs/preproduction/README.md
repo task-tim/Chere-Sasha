@@ -307,6 +307,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * [Reaper](https://www.adobe.com/ca/products/aftereffects.html)   
 * [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [Ableton](https://www.ableton.com//)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
@@ -336,6 +337,9 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 | Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le UI du téléphone |
 | Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
 | Nous n'avons jamais récolter des données d'un site pour les projeter | Formation avec Daryl dans le cours de gestion de projet | Faire changer une vidéo avec les réponses des gens précédents |
+| Nous n'avons jamais utiliser de DMX pour les lumières | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 9 lumières |
+| Nous n'avons jamais sécuriser de téléphone cellulaire | Trouver des cables anti-vols | Sécuriser tous les téléphones |
+| Nous n'avons jamais coder un interface web pour ce genre de projet| Trouver des technologies qui pourraient aider  |  Nous pourrions utiliser P5.js 
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
