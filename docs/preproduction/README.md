@@ -276,8 +276,8 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Caméra (go pro)
 
 * Lumière
-    * 6 spots de lumière
-    * 6 fils XLR 3 conducteurs de 20'
+    * 9 spots de lumière
+    * 9 fils XLR 3 conducteurs de 20'
 
 * Électricité
     * 4 cordons IEC (pour l'alimentation des haut-parleurs)
