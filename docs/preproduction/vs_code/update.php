@@ -8,17 +8,23 @@ $commentaires = $requette->fetchAll();
 <html>
 <head>
   <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="click">
   <div id="refresh">
-  <div id="commentaire">
+  <div id="commentaires">
   <?php foreach ($commentaires as $commentaire): ?>
-    <p><?= $commentaire['Contenu'] ?></p>
+    <p class='commentaire'><?= $commentaire['Contenu'] ?></p>
 	<hr />
 <?php endforeach; ?>
     </div>
-  </div> 
+  </div>
+ </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
   <script src="script.js"></script>
   </script> 
+  
+
 </body>
 </html>
