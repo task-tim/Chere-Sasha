@@ -16,7 +16,6 @@ $commentaires = $requette->fetchAll();
 <script src="https://cdn.jsdelivr.net/npm/less@4.1.1" ></script>
 <script>
     $(document).ready(function(){
-        document.body.style.color= 'black';
         function getData(){
             $.ajax({
                 type: 'POST',

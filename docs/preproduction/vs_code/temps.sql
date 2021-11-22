@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le :  Dim 31 oct. 2021 à 01:17
+-- Généré le :  lun. 22 nov. 2021 à 03:44
 -- Version du serveur :  8.0.18
 -- Version de PHP :  7.3.11
 
@@ -38,13 +38,18 @@ CREATE TABLE `commentaire` (
 --
 
 INSERT INTO `commentaire` (`ID`, `Contenu`) VALUES
-(1, 'allo'),
-(2, 'hehehe'),
-(3, 'yo'),
-(4, 'yooo'),
-(5, 'Zzz'),
-(6, 'bonjour'),
-(7, 'damn');
+(17, 'Présentation'),
+(18, 'prototype'),
+(19, 'semaine 11'),
+(20, '22 novembre'),
+(21, 'voici'),
+(22, 'le résultat'),
+(23, 'équipe de'),
+(24, 'Trish'),
+(25, 'Sabrina'),
+(26, 'Karine'),
+(27, 'Angelina'),
+(28, 'TASK-TIM');
 
 --
 -- Index pour les tables déchargées
@@ -64,7 +69,7 @@ ALTER TABLE `commentaire`
 -- AUTO_INCREMENT pour la table `commentaire`
 --
 ALTER TABLE `commentaire`
-  MODIFY `ID` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `ID` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
