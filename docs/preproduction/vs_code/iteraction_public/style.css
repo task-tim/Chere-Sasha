@@ -1,11 +1,15 @@
 body{
     background-color: black;
-    color: white;
+    color: rgb(202, 202, 202);
     overflow: hidden;
 }
+.container{
+    display: flex;
+    flex-direction: column-reverse;
+
+}
 .commentaire{
-    position: relative;
-    left: -1000px;
+    position: absolute;
     width:fit-content;
     font-size: 35px;
 }
@@ -20,25 +24,25 @@ p:nth-last-child(2){
     transform: translate(-50%,-50%)!important;
 }
 p:nth-last-child(3){
-    color: white;
+    color: rgb(221, 221, 221);
     font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(4){
-    color: white;
+    color: rgb(221, 221, 221);
     font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(5){
-    color: white;
+    color: rgb(221, 221, 221);
     font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(6){
-    color: white;
+    color: rgb(221, 221, 221);
     font-size: 45px;
     font-weight: bold;
     z-index: 10;

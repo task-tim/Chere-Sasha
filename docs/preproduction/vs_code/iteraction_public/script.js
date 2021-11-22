@@ -11,8 +11,8 @@ for ( var i=0; i < divs.length; i++ ) {
     var thisDiv = divs[i];
     console.log('hi');
     // get random numbers for each element
-    randomTop = getRandomNumber(-30, 250);
-    randomLeft = getRandomNumber(0, 1350);
+    randomTop = getRandomNumber(-30, winHeight);
+    randomLeft = getRandomNumber(0, winWidth);
     
     // update top and left position
     thisDiv.style.top = randomTop +"px";
