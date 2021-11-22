@@ -3,11 +3,8 @@ body{
     color: white;
 }
 .commentaire{
-    animation-name: fade; 
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-}
+    position: relative;
+}/*
 @keyframes left-to-right { 
     from { transform: translateX(0%) } 
     to { transform: translateX(400%) }  
@@ -15,4 +12,4 @@ body{
 @keyframes fade{
     from {opacity: 1;}
     to {opacity: 0;}
-}
+}*/
