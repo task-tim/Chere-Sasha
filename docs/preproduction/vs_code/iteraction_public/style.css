@@ -7,10 +7,11 @@ body{
     position: relative;
     left: -1000px;
     width:fit-content;
+    font-size: 35px;
 }
 p:nth-last-child(2){
     color: white;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bolder;
     z-index: 10;
     position: fixed !important;
@@ -20,25 +21,25 @@ p:nth-last-child(2){
 }
 p:nth-last-child(3){
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(4){
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(5){
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
 p:nth-last-child(6){
     color: white;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: bold;
     z-index: 10;
 }
