@@ -1,4 +1,4 @@
-    // collect all the divs
+   // collect all the divs
 var divs = document.querySelectorAll('.commentaire');
 // get window width and height
 var winWidth = window.innerWidth;
@@ -26,31 +26,3 @@ function getRandomNumber(min, max) {
   return Math.random() * (max - min) + min;
      
 }
-/*
-  const animgsap = function(){
-    gsap.to('.commentaire', {
-    y:10,
-    stagger:{
-      each:1
-    }
-  });
-  console.log('hi');
-  }
-  
-  animation.addEventListener('click', animgsap);
-  
-$(function(){
-  $( "a" ).text( "The DOM is now loaded and can be manipulated." );
-  $("#cloudcanvas").wordCloud({
-    database: {
-       // database parameters go here, see parameters section
-            dbHost: $('localhost').val(),
-						dbUser: $('root').val(),
-						dbPass: $('mysql').val(),
-						dbName: $('temps').val(),
-						selectFields: $('Contenu').val(),
-						tableName: $('commentaire').val()
-    }
- });
-})
-*/
