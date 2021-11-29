@@ -210,6 +210,9 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 **SCÉNARIMAGE**
 ![Scénarimage](medias/scenarimage.png)
+**TIMELINE MAX**
+## Brouillon
+![Timeline](medias/timeline_brouillon.jpeg)
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 
