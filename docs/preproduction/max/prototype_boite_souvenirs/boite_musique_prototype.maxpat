@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 2089.0, 929.0 ],
+		"rect" : [ 34.0, 77.0, 2493.0, 1290.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 523.473723769187927, 852.5541170835495, 31.0, 22.0 ],
+					"patching_rect" : [ 374.473723769187927, 838.5541170835495, 31.0, 22.0 ],
 					"text" : "sig~"
 				}
 
@@ -58,7 +58,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 614.000032544136047, 781.99980890750885, 50.0, 22.0 ]
+					"patching_rect" : [ 465.000032544136047, 767.99980890750885, 50.0, 22.0 ]
 				}
 
 			}
@@ -71,7 +71,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 614.000032544136047, 740.478539228439331, 136.0, 23.0 ],
+					"patching_rect" : [ 465.000032544136047, 726.478539228439331, 136.0, 23.0 ],
 					"text" : "if $i1 < 3 then 0 else 6"
 				}
 
@@ -84,7 +84,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 614.000032544136047, 684.350879669189453, 50.0, 22.0 ]
+					"patching_rect" : [ 465.000032544136047, 670.350879669189453, 50.0, 22.0 ]
 				}
 
 			}
@@ -95,7 +95,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 614.000032544136047, 634.350879669189453, 113.0, 22.0 ],
+					"patching_rect" : [ 465.000032544136047, 620.350879669189453, 113.0, 22.0 ],
 					"text" : "scale 120. 800. 0 5."
 				}
 
@@ -108,7 +108,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 614.000032544136047, 600.350879669189453, 50.0, 22.0 ]
+					"patching_rect" : [ 465.000032544136047, 586.350879669189453, 50.0, 22.0 ]
 				}
 
 			}
@@ -120,7 +120,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 614.000032544136047, 463.184214115142822, 39.0, 95.0 ],
+					"patching_rect" : [ 465.000032544136047, 449.184214115142822, 39.0, 95.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.slider[3]",
@@ -166,7 +166,7 @@
 					"originaltempo" : 120.0,
 					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 137.0, 865.777779102325439, 150.0, 30.0 ],
+					"patching_rect" : [ 137.0, 588.961993217468262, 150.0, 30.0 ],
 					"pitchcorrection" : 0,
 					"quality" : "basic",
 					"timestretch" : [ 0 ]
@@ -193,7 +193,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 137.0, 690.0, 50.0, 22.0 ]
+					"patching_rect" : [ 137.0, 536.184214115142822, 50.0, 22.0 ]
 				}
 
 			}
@@ -213,7 +213,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 137.0, 995.181317210197449, 113.0, 116.0 ],
+					"patching_rect" : [ 137.0, 647.478539228439331, 113.0, 116.0 ],
 					"varname" : "bp.VCA[1]",
 					"viewvisibility" : 1
 				}
@@ -234,7 +234,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 137.222233772277832, 1152.959094882011414, 148.0, 116.0 ],
+					"patching_rect" : [ 137.0, 781.99980890750885, 148.0, 116.0 ],
 					"varname" : "bp.Stereo",
 					"viewvisibility" : 1
 				}
@@ -481,7 +481,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-31", 1 ],
+					"order" : 0,
+					"source" : [ "obj-35", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-31", 0 ],
+					"order" : 1,
 					"source" : [ "obj-35", 0 ]
 				}
 
@@ -647,8 +656,8 @@
 			}
 , 			{
 				"name" : "BeepBox-Song.wav",
-				"bootpath" : "F:/session 5 et 6/gestion de projet/prototypes/backup/jeca_angelina_boite_prototype",
-				"patcherrelativepath" : "../prototypes/backup/jeca_angelina_boite_prototype",
+				"bootpath" : "~/Documents/GitHub/temps/docs/preproduction/max/prototype_boite_souvenirs",
+				"patcherrelativepath" : ".",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
