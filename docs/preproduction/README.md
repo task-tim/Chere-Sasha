@@ -213,6 +213,9 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 **TIMELINE MAX**
 ## Brouillon
 ![Timeline](medias/timeline_brouillon.jpeg)
+# Contenu multimédia à intégrer 
+## Inventaire du contenu multimédia (excel)
+* Inventaire: https://docs.google.com/spreadsheets/d/1NtG9usH4-YaT48lV3liBqm8xHrePiPiLyh4MJWYzC98/edit?usp=sharing
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 
