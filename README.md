@@ -28,3 +28,6 @@ Par la suite, j’ai appris comment allumer des lumières avec QLC et Max. En fa
 ###### LIENS GITHUB
 <https://github.com/task-tim/temps/issues/50><br/> 
 <https://github.com/task-tim/temps/issues/51>
+
+#####LIEN VERS PREPRODUCTION AVEC INFORMATIONS SUPPLÉMENTAIRES À PROPOS DU PROJET
+<https://github.com/task-tim/temps/tree/main/docs/preproduction>
