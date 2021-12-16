@@ -34,3 +34,21 @@ Par la suite, j’ai appris comment allumer des lumières avec QLC et Max. En fa
 
 ##### LIEN VERS LES TÂCHES DU PROJET
 <https://github.com/task-tim/temps/projects/1>
+
+## BILAN DE KARINE CORMIER
+
+### Quels furent mes apprentissages de la session les plus significatifs et comment vais-je les appliquer dans  mon projet d'épreuve synthèse de programme?
+
+Au début de la session, nous avons appris comment lire et faire un schéma de branchement pour les projecteurs, mais j'ai pu utiliser cet apprentissage pour monter notre propre [schéma de branchement](https://github.com/task-tim/temps/tree/main/docs/preproduction#Sch%C3%A9mas-ou-plans-techniques) accompagné d'une plantation pour notre projet synthèse. 
+
+Ensuite, nous avons appris comment monter, utiliser et installer plusieurs types d'équipement que nous pensions déjà utiliser pour notre projet et avions inscrit dans notre [liste d'équipement](https://github.com/task-tim/temps/tree/main/docs/preproduction#%C3%89quipements-requis). 
+
+- Premièrement, il y a les projecteurs où nous avons appris comment les monter pour qu'il soit stable avant d'être monté sur un système d'accrochage au plafond. Ensuite, nous avons vu comment se baser sur une pixel map pour bien calibrer le projecteur en se fiant sur un niveau laser pour mettre le projecteur droit et de bon angle. Toutes ces connaissances vont m'aider pour [installer le projecteur](https://github.com/task-tim/temps/issues/27) de notre projet de synthèse. Pour finir, nous avons appris comment soit se brancher directement au projecteur en HDMI et y projeter OBS en tant que deuxième écran ou de passer par MadMapper. C'est deux sortes de technique pour projeter [notre contenue visuel](https://github.com/task-tim/temps/issues/12).
+
+- Deuxièment, nous avons apris l'istallation des haut-parleurs. Pour notre projet, nous allons utiliser quatre haut-parleurs pour la spacialisation sonore et un autre dans une boîte. Avec les connaissances apprisent cela va m'aider à [positionner et brancher](https://github.com/task-tim/temps/issues/29) les haut-parleurs. Ensuite, nous avons appris à faire de la spacialisation sonore à l'aide de reaper, donc je suis en mesure de répéter le processus pour [spacialiser les quatre haut-parleurs](https://github.com/task-tim/temps/issues/38) que nous allons installer pour mettre le public dans une [immersion totale](https://github.com/task-tim/temps/issues/11).
+
+- Troisièment, nous avons appris à brancher un micro dans le petit studio et y enregistrer du son avec dans reaper. Pour notre projet, il y a plusieurs voix de personnage ([le père](https://github.com/task-tim/temps/issues/32), [les camarades, le professeur](https://github.com/task-tim/temps/issues/42) et [Sasha](https://github.com/task-tim/temps/issues/24)) qui va falloir enregistrer et cela va grandement nous aider à accomplir ces tâches. 
+
+- Quatrièment, nous avons appris comment installer des lumières et comment les configurer sur différent channel ceci va nous aider pour [installer les lumières](https://github.com/task-tim/temps/issues/51) qui vont mettre nos objets en évidence et servir à faire des jeux de lumière. Nous avons ensuite appris à recueillir des lumières dans un univers, soit branché directement à l'ordinateur ou brancher sur le Artnet dans le logiciel QLC. Avec ce logiciel nous pouvons ensuite créer des agencements de lumière avec des fonctions ou des jeux de lumière avec un chasser. On a ensuite appris que lorsque les lumières sont crées dans le logiciel on peut ensuite les liers avec des boutons qui peuvent recevoir des commandes midi de Max. Nous avons donc pu combiner les lumières et Max pour créer une timeline qui peut aussi changer les scènes d'OBS. Ceci va nous être utile pour facilement projeter les sources visueles et sonore de notre projet en y insérent de la lumière entre eux et construire notre propre [timeline](https://github.com/task-tim/temps/issues/50).
+
+Pour finir, voici la [préproduction](https://github.com/task-tim/temps/tree/main/docs/preproduction) de notre projet synthèse et la [liste des tâches](https://github.com/task-tim/temps/projects/1) du projet.
