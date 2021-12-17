@@ -56,23 +56,32 @@ Pour finir, voici la [préproduction](https://github.com/task-tim/temps/tree/mai
 
 ## BILAN DE TRISH NGUYEN
 
-Quels furent mes apprentissages de la session les plus significatifs et comment vais-je les appliquer dans  mon projets d'épreuve synthèse de programme?
+- ### Quels furent mes apprentissages de la session les plus significatifs et comment vais-je les appliquer dans  mon projets d'épreuve synthèse de programme?
+<br/>
 
-- L'apprentissage le plus significatif de cette session c'était d'apprendre comment connecter des lumières à des vidéos avec Obs Spout, Max et Qlight controller. Notre projet conciste d'une très longue timeline ou plusieurs lumières et vidéos sont déclenchées à tour de rôle à l'aide de différents évenements. Cette apprentissage me permet de savoir comment coder la timeline Max ainsi comment structurer la timeline en général.
+1. L'apprentissage le plus significatif de cette session c'était d'apprendre comment connecter des lumières à des vidéos avec Obs Spout, Max et Qlight controller. Notre projet consiste d'une très longue timeline ou plusieurs lumières et vidéos sont déclenchées à tour de rôle à l'aide de différents événements. Cet apprentissage me permet de savoir comment coder la timeline Max ainsi comment structurer la timeline en général.
 
-https://github.com/task-tim/temps/blob/main/docs/preproduction/medias/timeline_brouillon.jpeg<br/>
-https://github.com/task-tim/temps/issues/33<br/>
-https://github.com/task-tim/temps/issues/50<br/>
+    -   ###### LIENS GITHUB
+        https://github.com/task-tim/temps/blob/main/docs/preproduction/medias/timeline_brouillon.jpeg<br/>
+        https://github.com/task-tim/temps/issues/33<br/>
+        https://github.com/task-tim/temps/issues/50<br/>
+    <br/>
+    <br/>
 
-De plus, j'ai appris comment enregistrer des voix/sons dans le petit studio ainsi que comment les modifier et appliquer des effets avec Reaper. Cela sera très utile lorsqu'on va enregistrer les voix de nos personnages ainsi que faire le bruitage et musique de notre projet.
+2. De plus, j'ai appris comment enregistrer des voix/sons dans le petit studio ainsi que comment les modifier et appliquer des effets avec Reaper. Cela sera très utile lorsqu'on va enregistrer les voix de nos personnages ainsi que faire le bruitage et musique de notre projet.
+    -   ###### LIENS GITHUB
+        https://github.com/task-tim/temps/issues/42<br/>
+        https://github.com/task-tim/temps/issues/39 <br/>
+        https://github.com/task-tim/temps/issues/24 <br/>
+        https://github.com/task-tim/temps/issues/32 <br/>
+        https://github.com/task-tim/temps/issues/38<br/>
+    <br/>
+    <br/>
 
-<https://github.com/task-tim/temps/issues/42><br/> 
-<https://github.com/task-tim/temps/issues/39><br/> 
-<https://github.com/task-tim/temps/issues/24><br/> 
-<https://github.com/task-tim/temps/issues/32><br/> 
-<https://github.com/task-tim/temps/issues/38><br/>
- 
+3. Aussi, apprendre comment brancher les ordinateurs aux lumières, aux hauts-parleurs et aux projecteurs va être extrêmement utiles pour notre projet final. Notre projet consiste de plusieurs lumières, d'un ordinateur et plusieurs hauts-parleurs. Apprendre aussi comment lire et  créer un shéma de branchement m'a aussi aidé à comprendre mieux ce qu'on a besoin et comment les liers entre eux.
 
-
-
-
+    - ###### LIENS GITHUB
+        https://github.com/task-tim/temps/issues/27<br/>
+        https://github.com/task-tim/temps/issues/29<br/>
+    <br/>
+    <br/>
