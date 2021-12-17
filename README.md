@@ -68,7 +68,7 @@ Pour finir, voici la [préproduction](https://github.com/task-tim/temps/tree/mai
     <br/>
     <br/>
 
-2. De plus, j'ai appris comment enregistrer des voix/sons dans le petit studio ainsi que comment les modifier et appliquer des effets avec Reaper. Cela sera très utile lorsqu'on va enregistrer les voix de nos personnages ainsi que faire le bruitage et musique de notre projet.
+2. De plus, j'ai appris comment enregistrer des voix et des sons dans le petit studio. J'au aussi appris comment les modifier et appliquer des effets avec le logiciel Reaper. Cela sera très utile lorsqu'on va enregistrer les voix de nos personnages. Aussi, cela nous aide à faire le bruitage de notre projet.
     -   ###### LIENS GITHUB
         https://github.com/task-tim/temps/issues/42<br/>
         https://github.com/task-tim/temps/issues/39 <br/>
@@ -78,7 +78,7 @@ Pour finir, voici la [préproduction](https://github.com/task-tim/temps/tree/mai
     <br/>
     <br/>
 
-3. Aussi, apprendre comment brancher les ordinateurs aux lumières, aux hauts-parleurs et aux projecteurs va être extrêmement utiles pour notre projet final. Notre projet consiste de plusieurs lumières, d'un ordinateur et plusieurs hauts-parleurs. Apprendre aussi comment lire et  créer un shéma de branchement m'a aussi aidé à comprendre mieux ce qu'on a besoin et comment les liers entre eux.
+3. Ensuite, nous avons appris comment brancher les ordinateurs aux lumières, aux hauts-parleurs et aux projecteurs. Ceci va être extrêmement utiles pour notre projet final. Notre projet contient tous les éléments que je viens de mentionner. Donc, apprendre ceci me permet de monter et démonter notre projet correctement dans le but de ne pas gaspiller du temps (par exemple, faciliter les corrections et les déplacements des éléments s'ils sont bien branchés). De plus, on a appris à créer et à lire un shéma de branchement ce qui m'aide à comprendre ce qu'on a besoin pour notre projet et comment liers les éléments entre eux.
 
     - ###### LIENS GITHUB
         https://github.com/task-tim/temps/issues/27<br/>
