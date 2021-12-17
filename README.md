@@ -52,3 +52,27 @@ Ensuite, nous avons appris comment monter, utiliser et installer plusieurs types
 - Quatrièment, nous avons appris comment installer des lumières et comment les configurer sur différent channel ceci va nous aider pour [installer les lumières](https://github.com/task-tim/temps/issues/51) qui vont mettre nos objets en évidence et servir à faire des jeux de lumière. Nous avons ensuite appris à recueillir des lumières dans un univers, soit branché directement à l'ordinateur ou brancher sur le Artnet dans le logiciel QLC. Avec ce logiciel nous pouvons ensuite créer des agencements de lumière avec des fonctions ou des jeux de lumière avec un chasser. On a ensuite appris que lorsque les lumières sont crées dans le logiciel on peut ensuite les liers avec des boutons qui peuvent recevoir des commandes midi de Max. Nous avons donc pu combiner les lumières et Max pour créer une timeline qui peut aussi changer les scènes d'OBS. Ceci va nous être utile pour facilement projeter les sources visueles et sonore de notre projet en y insérent de la lumière entre eux et construire notre propre [timeline](https://github.com/task-tim/temps/issues/50).
 
 Pour finir, voici la [préproduction](https://github.com/task-tim/temps/tree/main/docs/preproduction) de notre projet synthèse et la [liste des tâches](https://github.com/task-tim/temps/projects/1) du projet.
+
+
+## BILAN DE TRISH NGUYEN
+
+Quels furent mes apprentissages de la session les plus significatifs et comment vais-je les appliquer dans  mon projets d'épreuve synthèse de programme?
+
+- L'apprentissage le plus significatif de cette session c'était d'apprendre comment connecter des lumières à des vidéos avec Obs Spout, Max et Qlight controller. Notre projet conciste d'une très longue timeline ou plusieurs lumières et vidéos sont déclenchées à tour de rôle à l'aide de différents évenements. Cette apprentissage me permet de savoir comment coder la timeline Max ainsi comment structurer la timeline en général.
+
+https://github.com/task-tim/temps/blob/main/docs/preproduction/medias/timeline_brouillon.jpeg<br/>
+https://github.com/task-tim/temps/issues/33<br/>
+https://github.com/task-tim/temps/issues/50<br/>
+
+De plus, j'ai appris comment enregistrer des voix/sons dans le petit studio ainsi que comment les modifier et appliquer des effets avec Reaper. Cela sera très utile lorsqu'on va enregistrer les voix de nos personnages ainsi que faire le bruitage et musique de notre projet.
+
+<https://github.com/task-tim/temps/issues/42><br/> 
+<https://github.com/task-tim/temps/issues/39><br/> 
+<https://github.com/task-tim/temps/issues/24><br/> 
+<https://github.com/task-tim/temps/issues/32><br/> 
+<https://github.com/task-tim/temps/issues/38><br/>
+ 
+
+
+
+
