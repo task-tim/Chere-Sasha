@@ -1,5 +1,5 @@
-# Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/C.png)
+# Journal de "Sabrina Kayani"
+![portrait du participant ](../web/medias/participants/D.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
