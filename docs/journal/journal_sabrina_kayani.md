@@ -1,4 +1,4 @@
-# Journal de "Participant 4"
+# Journal de "Sabrina Kayani"
 ![portrait du participant ](../web/medias/participants/D.png)
 
 * [Semaine 1](#semaine-1)
