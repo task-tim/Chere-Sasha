@@ -1,5 +1,5 @@
-# Journal de "Karine Cormier"
-![portrait du participant ](../web/medias/participants/C.png)
+# Journal de Karine Cormier
+![portrait du participant ](../web/medias/participants/karineTest.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
