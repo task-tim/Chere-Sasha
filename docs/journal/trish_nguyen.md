@@ -1,5 +1,5 @@
 # Journal de "Trish Nguyen"
-![portrait du participant ](../web/medias/participants/A.png)
+![portrait du participant ](../web/medias/participants/profil_trish.jfif)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -15,13 +15,9 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Nous avons ajouté les dossiers manquants.
+- J'ai changé le participant #1 et journal #1 en incluant mon nom.
+- Je suis contente de revoir tout le monde :)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
