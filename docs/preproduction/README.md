@@ -150,7 +150,7 @@ CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
 
 CAMARADE 4 : Ark je pensais qu'elle avait un œil sur moi.
 
-PROFESSEUR : Qu'est-ce qui se passe, pourquoi tes notes descendent?
+PROFESSEUR : ..J'ai remarqué que tes notes on descendues.
 
 **SCÈNE 03 ADOLESCENTE**
 
