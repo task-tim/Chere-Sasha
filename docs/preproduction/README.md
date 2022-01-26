@@ -200,9 +200,9 @@ SASHA ADO : Es-tu heureuse?
 
 SASHA ADULTE : Y'a des journées qui sont plus difficiles, mais on va y arriver.
 
-SASHA ADO : On es-tu bien dans notre peau?
+SASHA ADO : Comment tu te sens?
 
-SASHA ADULTE : Ça ma pris du temps à m'accepter, mais je suis fière de qui je suis.
+SASHA ADULTE : Je me sens mieux! Ça ma pris du temps à m'accepter, mais je suis fière de qui je suis.
 
 SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
 
