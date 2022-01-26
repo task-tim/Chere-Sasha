@@ -341,7 +341,6 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé un robot pour faire bouger des objets | Formation avec Thomas dans le cours d'espace intéractif | Sinon, nous pourrions faire qu'elle est déjà tombé |
 | Nous n'avons jamais utilisé un outil pour automatiser des éléments | Formation avec Guillaume dans le cours de conception de projet | Pour la projection et lumières |
 | Nous n'avons jamais envoyé des messages signaux à un site web | Formation avec Thomas dans le cours d'espace intéractif | Pour faire partir le UI du téléphone |
 | Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
@@ -351,8 +350,10 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 | Risque que le public ne s’approche pas du cellulaire à temps pour voir les notifications | Laisser un peu de temps entre les notifications et l’appel. | Sinon, faire comprendre aux participants ce qui c’est passé via l’audio qui va sortir de celui-ci. |
 | Risque que le public ne va pas à l'ordinateur pour interagir avec l’interface. | Projeter un message sur le mur incitant le public à envoyer un message d’encouragement à Sasha ou sur l’écran de l’ordinateur (Ex: Envoyer un mot d’encouragement à Sasha!) | Projection est la solution plus idéale! |
 | Risque que le public écrive des mots de profanation.| On peut soit avoir déjà des mots d'encouragement listé sur la page du site Web et le public peut choisir lesquels ils veulent envoyer OU on peut bloquer l’entrée de certains mots! | Bloquer des mots est la solution plus idéale!
-| Nous n'avons jamais coder un interface web pour ce genre de projet| Trouver des technologies qui pourraient aider  |  Nous pourrions utiliser P5.js 
-|                                                  |                                                       |                                                                                              |
+|  Risque que le public n'ait pas assez de temps pour répondre au téléphone|Faire plusieurs simulations avec des volontaires pour trouver la durée de sonnerie nécessaire. Sinon, l’appelle sera dirigée vers la boîte vocale | On manque des appels en vrai vie aussi !|
+Risque que le public vole, déplace ou salit nos décors et objets.|Afficher des pancartes à l’entrée et à la sortie de l’installation afin de rappeler le public de replacer les décors et objets et de ne pas salir l’installation. Aussi, des câbles de sécurité seront utilisés pour les objets de haute valeur.|Ne pas utiliser des objets qui nous tiennent à coeur|
+|
+
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
