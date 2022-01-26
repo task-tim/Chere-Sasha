@@ -362,9 +362,13 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 https://github.com/task-tim/temps/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : décembre
-- Présentation des projets devant public : mars 2022
+- Générale technique : lundi 21 mars;
+- Début de la diffusion et pratique générale : mardi 22 mars (durant La Ruche, devant la communauté TIM);
+- Diffusion des projets en mode autonome (prévoir une personne joignable en tout temps): mardi 22 au 28 mars 15h;
+- Présentation aux étudiant.es de l'UQAM et aux étudiant.es de 1re: mercredi 23 mars;
+- Vernissage devant public : jeudi 24 mars (soir);
+- Présentation Semaine des arts: lundi 28 mars;
+- Démontage: lundi 28 mars 15h.
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
