@@ -425,9 +425,14 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Acorkar
 https://github.com/task-tim/temps//issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
-Hebdomadaire
-- **----- (15-30min)** : Rencontre de suivi de projet.
 
-Autre: 
-- ** ---- (1h-2h)** : Rencontre de suivi de projet entre les coéquipiers.
+Quotidien
+- **11h (15min)** : Petites rencontres (mêlées) entre les coéquipiers.
+
+Hebdomadaire
+- **Mardi 8h55 (2h)** : Rencontre du comité de communication.
+- **Mardi 11h00 (1h-2h)** : Rencontre de suivi de projet entre les coéquipiers.
 - **Mercredi 9h50 (1h)** : Rencontre de suivi de projet avec les profs.
+- **Jeudi 8h55 (2h)** : Rencontre du comité technique.
+
+
