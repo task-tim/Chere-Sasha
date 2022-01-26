@@ -347,6 +347,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 | Nous n'avons jamais utilisé de la spacialisation sonore | Formation avec Guillaume dans le cours de conception de projet | Travailler avec 4 haut-parleurs |
 | Nous n'avons jamais récolter des données d'un site pour les projeter | Formation avec Daryl dans le cours de gestion de projet | Faire changer une vidéo avec les réponses des gens précédents |
 | Nous n'avons jamais sécuriser de téléphone cellulaire | Trouver des cables anti-vols | Sécuriser tous les téléphones |
+| Risque que le public ne va pas à l'ordinateur pour interagir avec l’interface. | Projeter un message sur le mur incitant le public à envoyer un message d’encouragement à Sasha ou sur l’écran de l’ordinateur (Ex: Envoyer un mot d’encouragement à Sasha!) | Bloquer des mots seraient plus idéal |
 | Nous n'avons jamais coder un interface web pour ce genre de projet| Trouver des technologies qui pourraient aider  |  Nous pourrions utiliser P5.js 
 |                                                  |                                                       |                                                                                              |
 
