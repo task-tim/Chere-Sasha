@@ -275,21 +275,22 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs
-    * 1 mini haut-parleur
+    * 4 haut-parleurs (Haut parleur Neumann  KH80 DSP)
+    * 4 Câble XLR 25'
+    * 1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
 
 * Vidéo
-    * 1 projecteur vidéo lentille standard
-    * 1 système d'acrochage
+    * 1 projecteur vidéo lentille standard (Projecteur standard, ratio 1.5, 3500 lumens)
+    * 1 système d'acrochage (Câble de sécurité)
     * Caméra (go pro)
 
 * Lumière
-    * 9 spots de lumière
-    * 9 fils XLR 3 conducteurs de 20'
+    * 9 spots de lumière (Lumière RBG DMX Eyeyourlife)
+    * 9 fils XLR 
 
 * Électricité
     * 4 cordons IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 
+    * 2 extentions (Extension électrique)
 
 * Réseau
 
