@@ -429,4 +429,4 @@ Hebdomadaire
 - **Jeudi 20h30 (1h-2h)** : Rencontre de suivi de projet.
 
 Autre: 
-- **Vendredi 20h (1h-2h)** : Rencontre de suivi de projet.
+- **Mercredi 9h50 (1h)** : Rencontre de suivi de projet avec les profs.
