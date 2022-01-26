@@ -275,21 +275,22 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs
-    * 1 mini haut-parleur
+    * 4 haut-parleurs (Haut parleur Neumann  KH80 DSP)
+    * 4 Câble XLR 25'
+    * 1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
 
 * Vidéo
-    * 1 projecteur vidéo lentille standard
-    * 1 système d'acrochage
+    * 1 projecteur vidéo lentille standard (Projecteur standard, ratio 1.5, 3500 lumens)
+    * 1 système d'acrochage (Câble de sécurité)
     * Caméra (go pro)
 
 * Lumière
-    * 9 spots de lumière
-    * 9 fils XLR 3 conducteurs de 20'
+    * 9 spots de lumière (Lumière RBG DMX Eyeyourlife)
+    * 9 fils XLR 
 
 * Électricité
     * 4 cordons IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 
+    * 2 extentions (Extension électrique)
 
 * Réseau
 
@@ -381,6 +382,7 @@ https://github.com/task-tim/temps/issues
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Étudiant Trish**
+- Coordination de communication 
 - Création de la maquette de l'interface mobile
 - Montage des paysages sonores
 - Coudre les couvertures ensemble
@@ -391,8 +393,8 @@ https://github.com/task-tim/temps/issues?q=assignee%3ATrishng
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Atrishng
 
 **Étudiant Angie**
+- Coordination artistique 
 - Création des vidéos d'animation 2D 
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe)
 - Programmation de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
@@ -400,6 +402,7 @@ https://github.com/task-tim/temps/issues?q=assignee%3Aangelinajeca
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Aangelinajeca
 
 **Étudiant Sabrina**
+- Coordination technique
 - Décoratrice intérieur
 - Écrire les journaux
 - Montage des vidéos
@@ -412,6 +415,7 @@ https://github.com/task-tim/temps/issues?q=assignee%3Asabrinakayani
 https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Asabrinakayani
 
 **Étudiant Karine**
+- Coordination générale
 - Programmation des interfaces mobiles
 - Programmation de l'interface de soumission de message
 - Décoration de la boîte à souvenir
