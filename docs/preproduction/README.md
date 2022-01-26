@@ -123,13 +123,15 @@ Sur l’appareil, on voit apparaître des notifications de messages textes en te
 
 S'il répond: le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE: Sasha! Comment tu as pu cacher ça de moi! Non essaye pas de donner des excuses! Tu ne comprends pas à quel point tu me déçois... Ah! Ma propre fille, qu'est-ce que va penser ta mère... Ah puis tes grands-parents! Faut que tu gardes ça pour toi. Attend que j'arrive à la maison tu va...
+PÈRE: Qu'est-ce qui t'as pris autant de temps? soupir allo?  silence allo? SASHA! allo!? Eille, parle moi! ...t'es tu sourdes?!
+Répond moi calisse. soupir La, la quand je rentre on va parler de toi et tes prob-
 
 L'appel se termine, on entend la ligne qui se coupe.
 
 S’il ignore: le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE : Sasha comment ça tu réponds pas? Je sais que tu m'entends! Comment tu as pu cacher ça de moi! N’essaye pas de t'enfuir, ce soir va falloir qu'on ce parle, pourquoi tu ne peux pas être normale comme les autres tabarnack!
+PÈRE : Allo? Allo?! Sasha?! soupir la,la prochaine fois que j'appelle tu me répond... soupir juste...juste 
+rappelle moi immédiatement!
 
 Le message vocal se termine, on entend la ligne qui se coupe.
 
