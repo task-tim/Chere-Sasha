@@ -426,7 +426,8 @@ https://github.com/task-tim/temps//issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Jeudi 20h30 (1h-2h)** : Rencontre de suivi de projet.
+- **----- (15-30min)** : Rencontre de suivi de projet.
 
 Autre: 
+- ** ---- (1h-2h)** : Rencontre de suivi de projet entre les coéquipiers.
 - **Mercredi 9h50 (1h)** : Rencontre de suivi de projet avec les profs.
