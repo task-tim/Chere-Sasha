@@ -176,7 +176,7 @@ Le téléphone reçoit un appel téléphonique du père de Sasha et le public a 
 
 S'il répond: le père de Sasha lui parle avec un ton passif agressif.
 
-PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. Tu sais je t'aime, mais je ne peux pas accepter ton mode de vie.
+PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. 
 
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et lui demande de venir lui rendre visite de temps en temps et de ne pas le blâmer pour ses convictions.
 
@@ -208,7 +208,7 @@ SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
 
 SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Son pas à ta place. On n’a jamais valorisé les mêmes choses, tu ne peux pas changer quelqu'un qui refuse de changer. Je sais que personne ne te la jamais dit, mais moi je suis fier de toi.
 
-Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un téléphone et le public est invité à envoyer des mots d'encouragement à Sasha.
+Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un ordinateur et le public est invité à envoyer des mots d'encouragement à Sasha. Sur le mur, la phrase "Envoyer un message d'encouragement à Sasha" est projeté.
 
 **SCÉNARIMAGE**
 ![Scénarimage](medias/scenarimage.png)
