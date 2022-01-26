@@ -348,6 +348,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 | Nous n'avons jamais récolter des données d'un site pour les projeter | Formation avec Daryl dans le cours de gestion de projet | Faire changer une vidéo avec les réponses des gens précédents |
 | Nous n'avons jamais sécuriser de téléphone cellulaire | Trouver des cables anti-vols | Sécuriser tous les téléphones |
 | Risque que le public ne va pas à l'ordinateur pour interagir avec l’interface. | Projeter un message sur le mur incitant le public à envoyer un message d’encouragement à Sasha ou sur l’écran de l’ordinateur (Ex: Envoyer un mot d’encouragement à Sasha!) | Projection est la solution plus idéale! |
+| Risque que le public écrive des mots de profanation.| On peut soit avoir déjà des mots d'encouragement listé sur la page du site Web et le public peut choisir lesquels ils veulent envoyer OU on peut bloquer l’entrée de certains mots! | Bloquer des mots est la solution plus idéale!
 | Nous n'avons jamais coder un interface web pour ce genre de projet| Trouver des technologies qui pourraient aider  |  Nous pourrions utiliser P5.js 
 |                                                  |                                                       |                                                                                              |
 
