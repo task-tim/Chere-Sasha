@@ -333,10 +333,10 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 * Grand studio
     * Projection vidéo sur un mur blanc
+    * Enregistrement vidéo
 
 * Petit studio
     * Enregsitrement audio
-    * Enregistrement vidéo
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
