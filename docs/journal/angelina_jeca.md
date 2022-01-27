@@ -55,7 +55,7 @@ Ne s'applique pas
 Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-- Peaufiner la vidéo d'animation
+- Finaliser la vidéo d'animation
 - Créer l'audio pour la vidéo d'animation (son de bulle de messages)
 - Exporter la vidéo d'animation
 - Apprendre a faire fonctionner utiliser la GoPro
