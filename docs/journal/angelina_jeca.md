@@ -16,39 +16,45 @@
 
 ### Résumé des réalisations effectuées
 -  Démarrage du projet
--  Préparation du journal
-
+-  Préparation du journal individuel
+-  Écriture de l'appel de casting avec Trish
+-  Récolte des éléments de décors que je vais apporter pour l'installation
+-  Modification de certains éléments de décors
+-  Peaufiner la préproduction avec mes coéquipiers
+-  Animation de la conclusion dans After Effects 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Appel de casting](medias/a-appel_casting.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+A l'aide des rencontres
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+------------------
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+------------------
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+------------------
 
 ### Défis pour la prochaine semaine
-
+- Peaufiner la vidéo d'animation
+- Créer l'audio pour la vidéo d'animation (son de bulle de messages)
+- Apprendre a faire fonctionner utiliser la GoPro
 
 ---
 ## Semaine 2
