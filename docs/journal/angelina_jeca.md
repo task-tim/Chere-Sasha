@@ -15,13 +15,15 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
--  Démarrage du projet
--  Préparation du journal individuel
--  Écriture de l'appel de casting avec Trish
--  Récolte des éléments de décors que je vais apporter pour l'installation
--  Modification de certains éléments de décors
 -  Peaufiner la préproduction avec mes coéquipiers
+-  Écriture de l'appel de casting pour les voix et le personnage principal avec Trish
+-  Déterminer les rôles au sein de l'équipe avec mes coéquipiers
+-  Ajout de contraintes dans le tableau de la préproduction
+-  Récolte des éléments de décors
+-  Modification de certains éléments de décors (notes, examens, dessins, cahier, etc)
+-  Finission des éléments graphiques pour l'animation de la conclusion
 -  Animation de la conclusion dans After Effects 
+-  Préparation du journal individuel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Appel de casting](medias/a-t-appel_casting.png)
@@ -33,7 +35,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-A l'aide des rencontres
+A l'aide des rencontres avec mes coéquipiers, nous avons été capable d'avancer et de peaufiner la préproduction.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 ------------------
