@@ -42,6 +42,7 @@ Nous avons eu une rencontre mercredi qui nous a permis de compléter et retravai
 
 ### Défis pour la prochaine semaine
 Enregistrer la vidéo-conférence de la préproduction. Aussi, je voudrait avoir fini le CSS des notifications, de l'appel et de lorsque le public répond au téléphone de l'adolescente.
+
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
