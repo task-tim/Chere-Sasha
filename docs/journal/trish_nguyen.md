@@ -21,7 +21,7 @@
 - Déterminer les rôles (coordination technique, artistique, communication, générale)
 - Écrire l'appel de casting pour les voix et le personnage principal (Sasha)
 - Ajouter les contraintes techniques et potentiels problèmes de production soulever dans le cours contrôle qualité
-- Faire et documenter le budget
+- Faire et documenter l'eventail
 - Déterminer qui apporte quoi dans la liste de matériel
 - Enregistrement pour la banque sonnore
 
