@@ -1,25 +1,6 @@
 # Journal de création
 
 ## Semaine 9
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
-
-
-Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
-
-Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
-![exemple photoshop](medias/exemple_photoshop.jpg)
-
-Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
-
-![Enregistrement en studio](medias/exemple_studio1.jpg)
-
-Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
-![Projecteurs installés](medias/exemple_projector.jpg)
-
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
-
-
 
 ## Semaine 8
 
@@ -37,7 +18,19 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 1
 
+Cette semaine fut le commencement de notre projet.
+![issues sur github](medias/jw-semaine1_issues.png)
 
+Tout d’abord, nous avions modifié la préproduction. En fait, nous avions modifié certains dialogues, les schémas de plantation, l'équipement et le tableau des contraintes techniques et potentiels problèmes de production. De plus, nous avions planifié les moments de rencontres de l'équipe. Ensuite, nous avions distribué les rôle au sein de l'équipe. Finalement, nous avions ajuster l'échéancier global.
+![scénario sur github](medias/jw_scenario.JPG)
+
+
+Par la suite, nous avions fait une liste de tout les décors nécessaires pour notre installation dans un tableau. Nous avions passé à travers chaque item pour voir qui peut amener quel décors. 
+![inventaire sur google docs](medias/jw_inventaire.png)
+
+
+
+Nous avons hâte de commencer à installer notre projet! :D
 
 
 
