@@ -24,7 +24,7 @@
 -  Animation de la conclusion dans After Effects 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Appel de casting](medias/a-appel_casting.jpg)
+![Appel de casting](medias/a-t-appel_casting.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
