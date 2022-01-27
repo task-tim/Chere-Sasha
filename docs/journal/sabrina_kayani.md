@@ -22,7 +22,7 @@
 - J’ai récolté les photos de Sasha pour la boîte de souvenirs.
 - J’ai fait les billets de concert pour la boîte de souvenirs.
 - J’ai acheté des décors avec mon équipe.
-- 
+- J'ai modifié les schémas de plantation.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
