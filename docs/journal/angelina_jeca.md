@@ -36,7 +36,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu continuer mes tâches personnelles tel que que débuté animation et de modifier certains éléments de décors.
+A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu continuer mes tâches personnelles tel que débuté l'animation et de modifier certains éléments de décors.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Ne s'applique pas
@@ -58,7 +58,7 @@ Ne s'applique pas
 - Finaliser la vidéo d'animation
 - Créer l'audio pour la vidéo d'animation (son de bulle de messages)
 - Exporter la vidéo d'animation
-- Apprendre a faire fonctionner utiliser la GoPro
+- Apprendre a faire fonctionner / utiliser la GoPro
 
 ---
 ## Semaine 2
