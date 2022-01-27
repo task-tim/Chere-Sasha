@@ -17,32 +17,31 @@
 ### Résumé des réalisations effectuées
 - Mise en ligne de notre site Web 
 - Démarrage du projet 
+- Finission du CSS de l'endroit où le public entre leurs messages
+- Rennomer et classer les issues dans GitHub
+- Retravailler la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 1 ](medias/k-semaine1_interface_envoie.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Nous avons eu une rencontre mercredi qui nous a permis de compléter et retravailler la préproduction. De mon côté, j'ai retravailler sur les issues en les regroupant ensemble avec des numéro, les renommer et inscrire des sous-tâches à chacun. Aussi, jeudi nous avons retravailler la plantation et le schéma technique, de discuter du budget et des objets que chacun a déjà en sa possession. Pour finir, le jeudi matin, j'ai programmer la partie CSS où le public est invité à envoyer des messages à Sasha.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
-
+Enregistrer la vidéo-conférence de la préproduction. Aussi, je voudrait avoir fini le CSS des notifications, de l'appel et de lorsque le public répond au téléphone de l'adolescente.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
