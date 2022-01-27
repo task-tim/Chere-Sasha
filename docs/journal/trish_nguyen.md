@@ -15,9 +15,14 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Nous avons ajouté les dossiers manquants.
-- J'ai changé le participant #1 et journal #1 en incluant mon nom.
-- Je suis contente de revoir tout le monde :)
+- Ajouter les dossiers manquants dans le github
+- Changer le participant #1 et journal #1 en incluant mon nom.
+- Modifier le dialogue dans le scénario
+- Déterminer les rôles (coordination technique, artistique, communication, générale)
+- Écrire l'appel de casting pour les voix et le personnage principal (Sasha)
+- Ajouter les contraintes techniques et potentiels problèmes de production soulever dans le cours contrôle qualité
+- Faire et documenter le budget
+- Déterminer qui apporte quoi dans la liste de matériel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
