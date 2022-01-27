@@ -296,6 +296,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 * Ordinateur
     * 1 ordinateur
+    * Ordinateur portable PC
     
 * Autre
     * Kinect V2 + Adapteur pour PC
