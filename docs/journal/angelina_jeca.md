@@ -15,28 +15,30 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
--  Démarrage du projet
--  Préparation du journal individuel
--  Écriture de l'appel de casting avec Trish
--  Récolte des éléments de décors que je vais apporter pour l'installation
--  Modification de certains éléments de décors
 -  Peaufiner la préproduction avec mes coéquipiers
+-  Écriture de l'appel de casting pour les voix et le personnage principal avec Trish
+-  Déterminer les rôles au sein de l'équipe avec mes coéquipiers
+-  Ajout de contraintes dans le tableau de la préproduction
+-  Récolte des éléments de décors
+-  Modification de certains éléments de décors (notes, examens, dessins, cahier, etc)
+-  Finission des éléments graphiques pour l'animation de la conclusion
 -  Animation de la conclusion dans After Effects 
+-  Préparation du journal individuel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Appel de casting](medias/a-t-appel_casting.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-A l'aide des rencontres
+A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu faire mes tâches personnelles.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-------------------
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -46,14 +48,15 @@ A l'aide des rencontres
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-------------------
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-------------------
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
 - Peaufiner la vidéo d'animation
 - Créer l'audio pour la vidéo d'animation (son de bulle de messages)
+- Exporter la vidéo d'animation
 - Apprendre a faire fonctionner utiliser la GoPro
 
 ---

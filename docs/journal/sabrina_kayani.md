@@ -23,8 +23,9 @@
 - J’ai fait les billets de concert pour la boîte de souvenirs.
 - J’ai acheté des décors avec mon équipe.
 - J'ai modifié les schémas de plantation.
-### Image d'une réalisation dont tu es la ou le plus fier
 
+### Image d'une réalisation dont tu es la ou le plus fier
+![ma création des billets de concert sur illustrator](medias/s_billet.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
@@ -51,8 +52,9 @@ J’ai réussi à accomplir toutes mes tâches cette semaine grâce à mes coéq
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Ça ne s’applique pas.
 
-### Défis pour la prochaine semaine.
+### Défis pour la prochaine semaine
 Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages de journal intime de Sasha adolescente à l’ordinateur et de les faire approuver par mon équipe pour ensuite les transcrire dans le journal physique à la main. Mon dernier défis serait d'enregistrer l'oral de la préproduction avec mon équipe.
+
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
