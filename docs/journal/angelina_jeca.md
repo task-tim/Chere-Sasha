@@ -29,13 +29,13 @@
 ![Appel de casting](medias/a-t-appel_casting.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu faire mes tâches personnelles.
+A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu continuer mes tâches personnelles tel que que débuté animation et de modifier certains éléments de décors.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Ne s'applique pas
