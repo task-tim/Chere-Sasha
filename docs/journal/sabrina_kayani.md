@@ -26,7 +26,6 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ma création des billets de concert sur illustrator](medias/s_billet.JPG)
-![schéma de plantation](medias/s_plantation.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
