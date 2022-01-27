@@ -298,6 +298,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * 1 ordinateur
     
 * Autre
+    * Kinect V2 + Adapteur pour PC
     * Photorésistance
     * Arduino nano
     * Moteur robot
