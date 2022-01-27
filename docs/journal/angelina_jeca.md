@@ -21,8 +21,8 @@
 -  Ajout de contraintes dans le tableau de la préproduction
 -  Récolte des éléments de décors
 -  Modification de certains éléments de décors (notes, examens, dessins, cahier, etc)
--  Finission des éléments graphiques pour l'animation de la conclusion
--  Animation de la conclusion dans After Effects 
+-  Modification des éléments graphiques pour l'animation de la conclusion
+-  Début de l'animation de la conclusion dans After Effects 
 -  Préparation du journal individuel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
