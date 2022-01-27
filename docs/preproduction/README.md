@@ -223,11 +223,11 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 ### Plantation 
 
-![Plantation](medias/Plantation-shema-technique.png)
+![Plantation](medias/plantation_01.png)
 
 ### Schéma de branchement 
 
-![Schema](medias/Plantation-shema-branchement.png)
+![Schema](medias/plantation_02.png)
 
 ## Matériel de scénographie requis
 
