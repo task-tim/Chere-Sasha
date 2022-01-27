@@ -223,11 +223,11 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 
 ### Plantation 
 
-![Plantation](medias/Plantation-shema-technique.png)
+![Plantation](medias/plantation_01.jpg)
 
 ### Schéma de branchement 
 
-![Schema](medias/Plantation-shema-branchement.png)
+![Schema](medias/plantation_02.jpg)
 
 ## Matériel de scénographie requis
 
@@ -248,7 +248,6 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * Boite de souvenir
     * Assez grande pour insérer des objets
     * Photos
-    * Porte clef type drapeau LGBTQ+
     * Billets de concert
 * Plantes
 * Poubelle
@@ -259,13 +258,11 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Notes
 * Téléphone
     * Iphone 6s
-    * 2 autres téléphone ou tablette
+    * 1 autres téléphone 
 * Lampe
 * Vêtements
 * Déchets
     * Bouteille vide
-    * Emballage
-    * Canettes
     * Papier
 * Table pour téléphone public
 

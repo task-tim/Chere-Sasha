@@ -15,38 +15,46 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai modifié le nom du participant numéro 4 (je l'ai remplacé avec le mien!).
-- J'ai mis une image pour le portrait de participant.
-- Je rajoute les tâches que j'ai effectué.
+- J’ai modifié la préproduction avec mon équipe (changement de dialogues, ajout de risques et matériels).
+- J’ai ajouté les dates des milestones sur Github.
+- J’ai préparé une liste d’équipement à emprunter.
+- J’ai commencé à écrire le journal de Sasha adolescente.
+- J’ai récolté les photos de Sasha pour la boîte de souvenirs.
+- J’ai fait les billets de concert pour la boîte de souvenirs.
+- J’ai acheté des décors avec mon équipe.
+- J'ai modifié les schémas de plantation.
 
+### Image d'une réalisation dont tu es la ou le plus fier
+![ma création des billets de concert sur illustrator](medias/s_billet.JPG)
+![schéma de plantation](medias/s_plantation.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+J’ai réussi à accomplir toutes mes tâches cette semaine grâce à mes coéquipières. En fait, nous avons eu une rencontre mercredi afin de modifier certaines parties de notre pré production tels que certains dialogues, la liste de matériels et les risques. Puisque nous avons réussi à finir toutes ces tâches en une journée, j’ai pu travailler sur d’autres tâches individuelles le jeudi. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ça ne s’applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ça ne s’applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Ça ne s’applique pas.
 
-
-### Défis pour la prochaine semaine
-
+### Défis pour la prochaine semaine.
+Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages de journal intime de Sasha adolescente à l’ordinateur et de les faire approuver par mon équipe pour ensuite les transcrire dans le journal physique à la main. Mon dernier défis serait d'enregistrer l'oral de la préproduction avec mon équipe.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
