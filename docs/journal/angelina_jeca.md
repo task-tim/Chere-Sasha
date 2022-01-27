@@ -29,16 +29,16 @@
 ![Appel de casting](medias/a-t-appel_casting.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-A l'aide des rencontres avec mes coéquipiers, nous avons été capable d'avancer et de peaufiner la préproduction.
+A l'aide d'une rencontre avec mes coéquipières le mercredi 26 janvier, nous avons été capable de peaufiner et de finaliser la préproduction. De plus, nous avons eu une rencontre le jeudi 27 janvier pour faire une liste des décors que nous possèdons et que nous devons acheter. Après notre rencontre du jeudi, j'ai pu faire mes tâches personnelles.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-------------------
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -48,14 +48,15 @@ A l'aide des rencontres avec mes coéquipiers, nous avons été capable d'avance
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-------------------
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-------------------
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
 - Peaufiner la vidéo d'animation
 - Créer l'audio pour la vidéo d'animation (son de bulle de messages)
+- Exporter la vidéo d'animation
 - Apprendre a faire fonctionner utiliser la GoPro
 
 ---
