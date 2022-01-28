@@ -304,8 +304,6 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
 * [Visual studio code](https://code.visualstudio.com) 
 * [Arduino](https://www.arduino.cc)  
@@ -314,8 +312,11 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * [After effect](https://www.adobe.com/ca/products/aftereffects.html)   
 * [Reaper](https://www.adobe.com/ca/products/aftereffects.html)   
 * [Davinci resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
-* [Ableton](https://www.ableton.com//)
+* [OSC for OBS](https://obsproject.com/forum/resources/osc-for-obs-app.1222/)
+* [Photoshop](https://www.adobe.com/ca/products/photoshop.html)
+* [QLC](https://www.qlcplus.org/)
+* [Pure Data](https://puredata.info/)
+
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
