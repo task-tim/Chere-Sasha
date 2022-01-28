@@ -324,7 +324,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * TTP, location de matériel
 * Actrice
 * Doubleur père et doubleur Sasha
-* Plusieur doubleurs pour insulte et professeur
+* Plusieur doubleurs pour iles 4 camarades et le professeur
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
