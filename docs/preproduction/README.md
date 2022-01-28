@@ -298,7 +298,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Kinect V2 + Adapteur pour PC
     * Photorésistance
     * Arduino nano
-    * Moteur robot
+    
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -323,7 +323,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * TTP, location de matériel
 * Actrice
 * Doubleur père et doubleur Sasha
-* Plusieur doubleurs pour iles 4 camarades et le professeur
+* Plusieur doubleurs pour les 4 camarades et le professeur
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
