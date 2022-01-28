@@ -282,11 +282,10 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Caméra (go pro)
 
 * Lumière
-    * 9 spots de lumière (Lumière RBG DMX Eyeyourlife)
+    * 9 spots de lumière (chauvet slimPAR Pro H USB)
     * 9 fils XLR 
 
 * Électricité
-    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions (Extension électrique)
 
 * Réseau
