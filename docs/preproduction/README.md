@@ -211,7 +211,7 @@ SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est
 Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un ordinateur et le public est invité à envoyer des mots d'encouragement à Sasha. Sur le mur, la phrase "Envoyer un message d'encouragement à Sasha" est projeté.
 
 **SCÉNARIMAGE**
-![Scénarimage](medias/scenarimage.png)
+![Scénarimage](medias/Scénarimage.png)
 **TIMELINE MAX**
 ## Brouillon
 ![Timeline](medias/timeline_brouillon.jpeg)
@@ -282,11 +282,10 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Caméra (go pro)
 
 * Lumière
-    * 9 spots de lumière (Lumière RBG DMX Eyeyourlife)
+    * 9 spots de lumière (chauvet slimPAR Pro H USB)
     * 9 fils XLR 
 
 * Électricité
-    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions (Extension électrique)
 
 * Réseau
@@ -299,7 +298,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Kinect V2 + Adapteur pour PC
     * Photorésistance
     * Arduino nano
-    * Moteur robot
+    
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -324,7 +323,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * TTP, location de matériel
 * Actrice
 * Doubleur père et doubleur Sasha
-* Plusieur doubleurs pour iles 4 camarades et le professeur
+* Plusieur doubleurs pour les 4 camarades et le professeur
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
@@ -390,7 +389,7 @@ https://github.com/task-tim/temps/issues
 - Création de la maquette de l'interface mobile
 - Montage des paysages sonores
 - Coudre les couvertures ensemble
-- Création des éléments visuels de la conclusion
+- Décoration de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3ATrishng
@@ -399,6 +398,8 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Atrishn
 **Étudiant Angie**
 - Coordination artistique 
 - Création des vidéos d'animation 2D 
+- Filmer les vidéos
+- Montage des vidéos
 - Programmation de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
@@ -409,10 +410,9 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Aangeli
 - Coordination technique
 - Décoratrice intérieur
 - Écrire les journaux
-- Montage des vidéos
-- Filmer les vidéos
 - Prendre les photos
 - Enregistrement des voix
+- Création des éléments visuels de la conclusion
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3Asabrinakayani
@@ -422,7 +422,6 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Asabrin
 - Coordination générale
 - Programmation des interfaces mobiles
 - Programmation de l'interface de soumission de message
-- Décoration de la boîte à souvenir
 - Programmation de la timeline
 
 Liste des tâches dans Git Hub:  
