@@ -33,6 +33,15 @@ Par la suite, nous avions fait une liste de tout les décors nécessaires pour n
 ![inventaire sur google docs](medias/jw_inventaire.png)
 
 
+Ensuite, les billets de concerts ont été créés et il reste qu'à les imprimer. De plus, le CSS pour l'interface d'envoie de message a commencé à être redigé. Par la suite, l'animation de la conclusion a été commencée. Il reste à la peaufiner et rajouter du son. Finalement, l'appel de casting a été redigé.
+
+![billets concert](medias/s_billet.png)
+
+![interface d'envoie de message](medias/k-semaine1_interface_envoie.png)
+
+![animation conclusion](medias/a-animation_conclusion.gif)
+
+![appel casting](medias/a-t-appel_casting.png)
 
 Nous avons hâte de commencer à installer notre projet! :D
 
