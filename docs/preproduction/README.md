@@ -389,7 +389,7 @@ https://github.com/task-tim/temps/issues
 - Création de la maquette de l'interface mobile
 - Montage des paysages sonores
 - Coudre les couvertures ensemble
-- Création des éléments visuels de la conclusion
+- Décoration de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3ATrishng
@@ -398,6 +398,8 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Atrishn
 **Étudiant Angie**
 - Coordination artistique 
 - Création des vidéos d'animation 2D 
+- Filmer les vidéos
+- Montage des vidéos
 - Programmation de la boîte à souvenir
 
 Liste des tâches dans Git Hub:  
@@ -408,10 +410,9 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Aangeli
 - Coordination technique
 - Décoratrice intérieur
 - Écrire les journaux
-- Montage des vidéos
-- Filmer les vidéos
 - Prendre les photos
 - Enregistrement des voix
+- Création des éléments visuels de la conclusion
 
 Liste des tâches dans Git Hub:  
 https://github.com/task-tim/temps/issues?q=assignee%3Asabrinakayani
@@ -421,7 +422,6 @@ https://github.com/task-tim/temps/projects/1?card_filter_query=assignee%3Asabrin
 - Coordination générale
 - Programmation des interfaces mobiles
 - Programmation de l'interface de soumission de message
-- Décoration de la boîte à souvenir
 - Programmation de la timeline
 
 Liste des tâches dans Git Hub:  
