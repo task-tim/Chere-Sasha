@@ -31,10 +31,10 @@
 ![Cartographie 3](medias/Temps.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut changer au fil du temps. Aussi, on veux exposer comment un conflit intergénérationnel peut influencer la vie d'une personne de façon négative, mais celle-ci peut finir par s'en sortir.
+Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ entourée de parents qui ne supporte pas leur enfant peut changer au fil du temps. Aussi, on veux exposer comment un conflit intergénérationnel influence la vie d'une personne.w
 
 ## Synopsis
-Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. 
+Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cewla affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. 
 
 Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
@@ -113,32 +113,31 @@ Ambiance sonore adulte
 
 **SCÈNE INTRODUCTION**
 
-Les deux sections de la chambre sont allumées ainsi que les lumières par-dessus les 6 objets sont allumées. Des mots sont projetés sur le mur derrière le lit. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans) et la section droite représente la chambre adulte de Sasha (24 ans). Après quelque temps, toutes les lumières s'éteignent.
+Les deux sections de la chambre sont allumées ainsi que les lumières par-dessus les 6 objets sont allumées. Des mots sont projetés sur le mur derrière le lit. Le public entre dans la chambre. Un lit est au milieu de la pièce: celui- ci est séparé en deux sections et une table de chevet se retrouve de chaque côté. La section gauche représente la chambre de Sacha adolescente (16 ans). On retrouve des
+vêtements partout, sa table de chauvet est désorganisée où on retrouve son cellulaire, sa poubelle est renversé et on retrouve son journal intime sur son lit dréssé de drap noir. Sa chambre est relativement sombre, salle et désorganisée. Pour la section droite, celle-ci représente la chambre adulte de Sasha (24 ans). On retrouve une boîte à souvenir, une lampe à lave et une plante sur sa table de chauvet. Dans le coin en bas à droite, il y a un fauteuil poire avec son cellulaire et son journal intime. Sa chambre est organisée, colorée et propre et ses draps sont blancs. Après quelque temps, toutes les lumières s'éteignent. On entend deux ambiances sonores (côté ado: nuit en ville, bruit du cellulaire, des reniflements. Côté adulte: discution amicale lointaine, radio, bruit de ville en matinée)
 
 **SCÈNE 01 ADOLESCENTE**
 
-La section adolescente de la chambre s’illumine. Le public est amené à observer les deux sections pendant une minute. Après, le téléphone fait un son de notification et s’illumine. Cet événement amène le public à se rapprocher de la table de chevet de la section gauche (côté adolescent) et interagir avec l’appareil. 
+La section adolescente de la chambre s’illumine. On entend l'ambiance sonore de l'adolescent se spatialiser dans la chambre. Le public est amené à observer les deux sections pendant une minute. Après, le téléphone fait un son de notification et s’illumine. Cet événement amène le public à se rapprocher de la table de chevet de la section gauche (côté adolescent) et interagir avec l’appareil. 
 
 Sur l’appareil, on voit apparaître des notifications de messages textes en temps réel. Après quelque temps, le téléphone reçoit un appel téléphonique du père de Sasha et le public a le choix de soit répondre au téléphone ou ignorer l’appel:
 
 S'il répond: le père de Sasha la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE: Qu'est-ce qui t'as pris autant de temps? soupir allo?  silence allo? SASHA! allo!? Eille, parle moi! ...t'es tu sourdes?!
-Répond moi calisse. soupir La, la quand je rentre on va parler de toi et tes prob-
+PÈRE: Qu'est-ce qui t'as pris autant de temps? (*soupir*) allo?  silence allo? SASHA! allo!? Eille, parle moi! ...t'es tu sourdes?!
+Répond moi calisse. (*soupir*) La, la quand je rentre on va parler de toi et tes prob-
 
 L'appel se termine, on entend la ligne qui se coupe.
 
 S’il ignore: le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et la réprimande avec un ton agressif sur sa sexualité.
 
-PÈRE : Allo? Allo?! Sasha?! soupir la,la prochaine fois que j'appelle tu me répond... soupir juste...juste 
+PÈRE : Allo? Allo?! Sasha?! (*soupir*) la,la prochaine fois que j'appelle tu me répond... (*soupir*) juste...juste 
 rappelle moi immédiatement!
 
 Le message vocal se termine, on entend la ligne qui se coupe.
 
 **SCÈNE 02 ADOLESCENTE**
-
-Soudainement, la poubelle dans la chambre de Sasha se fait renverser.
-Le public est invité à observer les ordures (pansements, devoirs froissés, examen coulé, messages haineux sur papiers froissés) se trouvant sur le plancher. Après quelques secondes, une vidéo est déclenchée et projetée sur le mur de la pièce. 
+Une lumière s'allume au dessus de la poubelle déjà renversée. Le public est invité à observer les ordures (pansements, devoirs froissés, examen coulé, messages haineux sur papiers froissés) se trouvant sur le plancher. Après quelques secondes, une vidéo est déclenchée et projetée sur le mur de la pièce. 
 
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
@@ -158,11 +157,11 @@ PROFESSEUR : ..J'ai remarqué que tes notes on descendues.
 
 Lorsque la vidéo termine, la lampe sur la table à chevet s’allume et illumine le journal intime de Sasha. Le public est invité à lire le journal. Pendant que le public lit le journal, on entend la voix de Sasha qui fait la lecture de son journal.
 
-SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe ont découvert la vérité, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais je n’ose pas aller le voir, ce n’est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac à dos dans les toilettes. Heureusement mon lunch a été épargné. Mes parents étaient trop occupés pour remarquer quoi que ce soit. Personne n’est de mon bord, si seulement j'étais normale.
+SASHA ADO : Chère Sasha, aujourd'hui les élèves de ma classe l'ont découvert, même le professeur le sait. Quand j'ai reçu mon examen (que j'ai coulé XD), il m'a demandé si j'avais besoin d'aide. C'est gentil de sa part, mais je n’ose pas aller le voir, ce n’est pas comme s'il peut empêcher toute la classe de se moquer de moi. Ils ont lancé mon sac à dos dans les toilettes. Heureusement mon lunch a été épargné. Mes parents étaient trop occupés pour remarquer quoi que ce soit. Personne n’est de mon bord, si seulement j'étais normale.
 
 **SCÈNE 04 ADULTE**
 
-Le côté adolescent s’éteint et la lumière du côté adulte illumine le côté droit de la pièce. Une boîte de souvenirs est située sur la table de chevet. Du son commence à sortir de celle-ci pour amener le public à ouvrir la boîte. Après son ouverture, le son est arrêté et, quelques secondes après, une vidéo est déclenchée sur le mur de la pièce. Dans la vidéo, on voit la perspective de Sasha qui met les souvenirs dans la boîte et commence à décorer sa chambre et elle dépose un journal sur son lit.
+Le côté adolescent s’éteint et la lumière du côté adulte illumine le côté droit de la pièce. On entend l'ambiance sonore de l'adulte se spatialiser dans la chambre. Une boîte de souvenirs est située sur la table de chevet. Du son commence à sortir de celle-ci pour amener le public à ouvrir la boîte. Après son ouverture, le son est arrêté et, quelques secondes après, une vidéo est déclenchée sur le mur de la pièce. Dans la vidéo, on voit la perspective de Sasha qui met les souvenirs dans la boîte et commence à décorer sa chambre et elle dépose un journal sur son lit.
 
 **SCÈNE 05 ADULTE**
 
@@ -176,7 +175,7 @@ Le téléphone reçoit un appel téléphonique du père de Sasha et le public a 
 
 S'il répond: le père de Sasha lui parle avec un ton passif agressif.
 
-PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. 
+PÈRE : Ah tu te souviens comment décrocher le téléphone. C'est bientôt la fête de ta mère ça serait bien que pour une fois tu passes la voir. On peut mettre nos différences de côté pendant une journée. Tu devrais te forcer pour nous pardonner, on t'a tout donné. De toute manière quand t'auras fini ta phase, tu vas nous comprendre.  
 
 S’il ignore: Le téléphone arrête de sonner après 30 secondes et la boîte vocale est activée où on peut entendre le père de Sasha se plaindre qu’elle ne répond jamais au téléphone et lui demande de venir lui rendre visite de temps en temps et de ne pas le blâmer pour ses convictions.
 
@@ -184,29 +183,29 @@ PÈRE : Ah t'as pas appris comment décrocher le téléphone. Ça serait bien qu
 
 **SCÈNE CONCLUSION**
 
-Toutes les lumières s'éteignent et une projection commence. On y voit une interface de message cellulaire. Sasha adolescent commence à parler et Sasha adulte lui répond.
+Toutes les lumières s'éteignent et une projection commence. On y voit une interface de message cellulaire. Sasha adolescent commence à parler et Sasha adulte lui répond. On entends une petite musique en boucle (piano).
 
 Pour chaque dialogue, un nouveau message va apparaitre à l'écran.
 
-SASHA ADO : Salut, comment ça va?
+SASHA ADO : Salut, ça va?
 
-SASHA ADULTE : Ça va mieux.
+SASHA ADULTE : Ouais, ça va :)
 
-SASHA ADO : Habites-tu encore avec nos parents?
+SASHA ADO : T'habites-tu encore avec eux?
 
-SASHA ADULTE : Non, j'ai enfin déménagé.
+SASHA ADULTE : Non, chuis partie, j'habite même avec mes amies
 
-SASHA ADO : Es-tu heureuse?
+SASHA ADO : Ah, faque t'es plus seule?
 
-SASHA ADULTE : Y'a des journées qui sont plus difficiles, mais on va y arriver.
+SASHA ADULTE : Non, y'était temps
 
-SASHA ADO : Comment tu te sens?
+SASHA ADO : T'as l'aire d'aller mieux
 
-SASHA ADULTE : Je me sens mieux! Ça ma pris du temps à m'accepter, mais je suis fière de qui je suis.
+SASHA ADULTE : Ouais, tu serais fière haha xD
 
-SASHA ADO : Est-ce que maman et papa ont fini par nous accepter?
+SASHA ADO : T'arrives-tu à leur parler?
 
-SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Son pas à ta place. On n’a jamais valorisé les mêmes choses, tu ne peux pas changer quelqu'un qui refuse de changer. Je sais que personne ne te la jamais dit, mais moi je suis fier de toi.
+SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Sont pas à ta place. On n’a jamais valorisé les mêmes choses, on peut pas les changer s'ils veulent pas changer. Je veux juste que tu saches que moi chuis fier de toi.
 
 Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un ordinateur et le public est invité à envoyer des mots d'encouragement à Sasha. Sur le mur, la phrase "Envoyer un message d'encouragement à Sasha" est projeté.
 
