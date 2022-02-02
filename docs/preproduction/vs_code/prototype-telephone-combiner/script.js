@@ -1,4 +1,4 @@
-let box1 = document.querySelector('.box--1');
+/*let box1 = document.querySelector('.box--1');
 let box2 = document.querySelector('.box--2');
 let box3 = document.querySelector('.box--3');
 let phoneCall = document.querySelector('.phoneCall');
@@ -41,4 +41,4 @@ repondre.addEventListener("click", function(){
   phoneCall.style.display="none";
   document.body.style.backgroundColor= "black";
   clearTimeout(timer);
-})
+})*/
