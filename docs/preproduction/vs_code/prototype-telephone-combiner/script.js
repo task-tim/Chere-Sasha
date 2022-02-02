@@ -49,6 +49,7 @@ const ignoreAppel = function(){
   document.body.style.backgroundColor= "black";
   }
 const timer = setTimeout(ignoreAppel, 20000);
+
 setTimeout(function() {
   box3.style.display="block";
 }, 2000);

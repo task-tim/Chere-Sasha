@@ -35,8 +35,8 @@ html {
   display: block;
   background-color: #1a004b;
 } 
-.phone .phoneIconeImg{
-  right: 30px;
+.phone .phoneIcone{
+  position: absolute;
 }
 .batterie{
   width: 34.25px;
