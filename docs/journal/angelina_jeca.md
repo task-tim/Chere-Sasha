@@ -63,7 +63,11 @@ Ne s'applique pas
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Modification de la préproduction avec mes coéquipiers 
+- Modification et finalisation de la vidéo d'animation (avec son)
+- Exportation de la vidéo d'animation
+- Apprentissage de la GoPro
+- Test avec la GoPro
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -71,32 +75,33 @@ Ne s'applique pas
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Filmer la vidéo de la prépoduction 
+- Commencer a apporter les décors dans le studio
 
 ---
 ## Semaine 3 
