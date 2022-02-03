@@ -276,25 +276,29 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * 1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
 
 * Vidéo
-    * 1 projecteur vidéo lentille standard (Projecteur standard, ratio 1.5, 3500 lumens)
-    * 1 système d'acrochage (Câble de sécurité)
+    * 1 projecteur vidéo lentille standard (Projecteur grand angle, ratio 0.5)
+    * 1 système d'accrochage (Câble de sécurité)
     * Caméra (go pro)
 
 * Lumière
-    * 9 spots de lumière (chauvet slimPAR Pro H USB)
+    * 2 spots de lumière (chauvet DJ EVE E-100W Warm white Ellipsoidal Spot)
+    * 3 lumières de couleur (Chauvet SlimPAR Pro H USB)
+    * 1 lampe de lave
+    * 1 lampe de bureau
     * 9 fils XLR 
+    * Dimmer pack DMX - 4 out
 
 * Électricité
     * 2 extentions (Extension électrique)
 
 * Réseau
-
+    * 3 câbles ethernet
 * Ordinateur
     * 1 ordinateur
     * Ordinateur portable PC
     
 * Autre
-    * Kinect V2 + Adapteur pour PC
+    * Kinect V1 + Adapteur pour PC
     * Photorésistance
     * Arduino nano
     
