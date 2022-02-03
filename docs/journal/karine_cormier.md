@@ -46,40 +46,37 @@ Enregistrer la vidéo-conférence de la préproduction. Aussi, je voudrait avoir
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Finnission du CSS de l'interface cellulaire
+- Adaptatin de l'interface pour un des téléphones (iPhone 6s)
+- Ajouter le JavaScript pour aller a l'appel et utiliser les boutons
+- Ajouter l'heure et le temps de l'appel en temps réel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 2 ](medias/k-mobile.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons pris une rencontre vendredi pour filmer la vidéoconférence. Aussi, nous sommes venue à l'école lundi pour travailler sur nos partie séparé, mercredi pour notre rencontre avec les proffesseurs et jeudi pour le comité technique. Après toutes ces rencontres ainsi que mardi, j'ai travailler de chez moi sur les interfaces mobiles et tester avec github pages sur mon cellulaire pour voir comment le site s'adapte.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Faire en sorte que le JavaScript se déclenche avec un bouton et puisse tourner en boucle. Aussi faire en sorte de lire la page grace à un téléphone qui se connecte avec l'adresse ip. Aussi, faire fonctionner la kinect et filmer notre vidéoconférence.
 
 ---
 ## Semaine 3 
