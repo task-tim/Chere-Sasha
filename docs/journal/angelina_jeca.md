@@ -68,6 +68,7 @@ Ne s'applique pas
 - Exportation de la vidéo d'animation
 - Apprentissage de la GoPro
 - Test avec la GoPro
+- Dessins/griffonages pour le journal
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -81,7 +82,7 @@ Ne s'applique pas
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Cette semaine, nous nous sommes rencontré à l'école plusieurs fois pour avancer notre projet. Lundi pour travailler sur nos tâches personnelles, mercredi pour la rencontre avec les profs et jeudi pour la rencontre du comité technique. De plus, à chaque jours, après les rencontres avec nos coéquipiers, j'essayais d'avancer le plus possible mes tâches personnelles pour pouvoir prendre de l'avance et essayer de travailler sur d'autres tâches.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Ne s'applique pas
@@ -102,6 +103,7 @@ Ne s'applique pas
 ### Défis pour la prochaine semaine
 - Filmer la vidéo de la prépoduction 
 - Commencer a apporter les décors dans le studio
+- Apprencre à utiliser la kinect
 
 ---
 ## Semaine 3 
