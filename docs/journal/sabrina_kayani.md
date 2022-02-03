@@ -58,6 +58,11 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- J’ai filmé la préproduction avec mon équipe
+- J’ai modifier les photos récoltées pour la boîte de souvenir sur photoshop
+- J’ai acheté 2 journaux
+- J’ai écrit 10 entrées de journaux pour le journal de Sasha adolescente sur Word
+- J’ai retranscrit 5 de ces entrées dans le journal physique à la main
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -66,32 +71,32 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J’ai réussi à accomplir toutes les tâches de la semaine puisque lundi mon équipe et moi sommes allées à l’école pour travailler tous ensemble. À l’école, je me sentais plus motivé à travailler, donc j’ai pu modifier toutes les photos durant notre rencontre à l’école. Cette rencontre m’a aussi permis d’avoir l’approbation de mon équipe plus rapidement ce qui m’a permis ensuite de faire la prochaine tâche qui était d’écrire le journal. Après la rencontre du lundi, je suis allée acheter les journaux pour que durant la semaine je puisse transcrire les entrées à la main du journal adolescent.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ça ne s’applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ça ne s’applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
-
+Pour la semaine prochaine, je me donne comme défi de faire fonctionner la kinect pour déclencher notre installation et d’écrire 5 autres entrées du journal adolescent dans le journal physique. Mon défi final est d’enregistrer notre préproduction.
 
 ---
 ## Semaine 3 
