@@ -68,6 +68,7 @@ Ne s'applique pas
 - Exportation de la vidéo d'animation
 - Apprentissage de la GoPro
 - Test avec la GoPro
+- Dessins/griffonages pour le journal
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
