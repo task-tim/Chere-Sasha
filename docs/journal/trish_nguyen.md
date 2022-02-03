@@ -60,11 +60,13 @@ Je dois monté l'ambiance sonore pour la semaine 2.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Réaliser le bannière et l'image de couverture du site Web
+- Enregister les sons pour la bande sonore du côté ado
+- Montage de la bande sonore (ado) avec Reaper 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![bannière](medias/t-banniere.png)
+![image de couverture](medias/t-couverture.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
