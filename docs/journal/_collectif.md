@@ -43,7 +43,7 @@ De plus, l'animation de la conclusion a été finalisée sur after effects. Elle
 
 Finalement, le journal de Sasha adolescente a commencé à être rédiger à la main. Pour l'instant, 5 pages ont été transcrites dans le journal. 
 
-![mobile adolescent](medias/s-journal_ado.png)
+![mobile adolescent](medias/s-journal_ado.jpg)
 
 ## Semaine 1
 
