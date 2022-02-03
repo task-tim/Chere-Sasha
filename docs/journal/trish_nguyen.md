@@ -60,6 +60,7 @@ Je dois monté l'ambiance sonore pour la semaine 2.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- Modification de la préproduction avec mon équipe
 - Réaliser le bannière et l'image de couverture du site Web
 - Enregister les sons pour la bande sonore du côté ado
 - Montage de la bande sonore (ado) avec Reaper 
@@ -71,32 +72,35 @@ Je dois monté l'ambiance sonore pour la semaine 2.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
+ J'ai choisi assez, car je me suis donnée un objectif trop ambitieuse. Je n'ai pas réalisé l'ampleur de la tâche. Spécifiquement le montage sonore, car je devais enregister tous les sons premièrement.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais simplement prendre le temps necessaire pour le faire. Mes coéquipières sont d'accord que je me suis trop donnée de tâches.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
-
+- Continuer à récolter les sons pour le montage
+- Faire fonctionner la kinnect avec Max
+- Filmer la conférence de la préproduction
+- Imprimer les photos pour la boîte de souvenir
+- Amener du décors au grand studio (la table, oreillers décoratif, photos)
+-Trouver un cellulaire pour remplacer le Ipod touch
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
