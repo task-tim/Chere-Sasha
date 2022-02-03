@@ -103,6 +103,7 @@ Ne s'applique pas
 ### Défis pour la prochaine semaine
 - Filmer la vidéo de la prépoduction 
 - Commencer a apporter les décors dans le studio
+- Apprencre à utiliser la kinect
 
 ---
 ## Semaine 3 
