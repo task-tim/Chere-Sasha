@@ -66,7 +66,7 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![journal de Sasha](medias/s-journal_ado.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
