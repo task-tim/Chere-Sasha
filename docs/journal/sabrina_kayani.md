@@ -58,11 +58,12 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- J’ai filmé la préproduction avec mon équipe
-- J’ai modifier les photos récoltées pour la boîte de souvenir sur photoshop
-- J’ai acheté 2 journaux
-- J’ai écrit 10 entrées de journaux pour le journal de Sasha adolescente sur Word
-- J’ai retranscrit 5 de ces entrées dans le journal physique à la main
+- J’ai filmé la préproduction avec mon équipe.
+- J'ai eu une rencontre pour le formatif de la préproduction.
+- J’ai modifier les photos récoltées pour la boîte de souvenir sur photoshop.
+- J’ai acheté 2 journaux.
+- J’ai écrit 10 entrées de journaux pour le journal de Sasha adolescente sur Word.
+- J’ai retranscrit 5 de ces entrées dans le journal physique à la main.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
