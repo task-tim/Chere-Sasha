@@ -15,9 +15,9 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
--  Peaufiner la préproduction avec mes coéquipiers
+-  Peaufiner la préproduction avec mes coéquipières
 -  Écriture de l'appel de casting pour les voix et le personnage principal avec Trish
--  Déterminer les rôles au sein de l'équipe avec mes coéquipiers
+-  Déterminer les rôles au sein de l'équipe avec mes coéquipières
 -  Ajout de contraintes dans le tableau de la préproduction
 -  Récolte des éléments de décors
 -  Modification de certains éléments de décors (notes, examens, dessins, cahier, etc)
@@ -62,7 +62,7 @@ Ne s'applique pas
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Modification de la préproduction avec mes coéquipiers 
+- Modification de la préproduction avec mes coéquipières 
 - Modification et finalisation de la vidéo d'animation (avec son)
 - Exportation de la vidéo d'animation
 - Apprentissage de la GoPro
