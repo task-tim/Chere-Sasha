@@ -15,6 +15,35 @@
 ## Semaine 3
 
 ## Semaine 2
+Cette semaine, nous avons modifié notre préproduction à la suite des commentaires de nos enseigants, notament le scénario.
+
+![scénario](medias/jw-scene_conclusion.png)
+
+
+Tout d'abord, les photos que nous allons imprimer pour placer dans la boîte à souvenir de Sasha ont été modifiées sur Photoshop.
+
+![scénario](medias/jw-photos_souvenirs.png)
+
+
+Par la suite, la banière et l'image de couverture de notre projet ont été fait sur Photoshop. Nous avons aussi trouvé le titre de notre installation.
+
+![chere sasha](medias/t-couverture.png)
+![chere sasha](medias/t-banniere.png)
+
+
+Ensuite, le CSS et le JS de l'interface mobile de Sasha adolescente a été complété. L'interface a été testée sur l'appareil mobile qui sera présent dans la chambre de Sasha. 
+
+![mobile adolescent](medias/k-mobile.jpg)
+
+
+De plus, l'animation de la conclusion a été finalisée sur after effects. Elle a été peaufinée et des effets sonores ont été ajoutés à l'animation.
+
+![mobile adolescent](medias/jw-scene_conclusion.png)
+
+
+Finalement, le journal de Sasha adolescente a commencé à être rédiger à la main. Pour l'instant, 5 pages ont été transcrites dans le journal. 
+
+![mobile adolescent](medias/s-journal_ado.png)
 
 ## Semaine 1
 
@@ -28,7 +57,7 @@ Tout d’abord, nous avons modifié la préproduction. En fait, nous avons modif
 ![scénario sur github](medias/jw_scenario.JPG)
 
 
-Par la suite, nous avons fait une liste de tout les décors nécessaires pour notre installation dans un tableau. Nous avons passé à travers chaque item pour voir qui peut amener quel décors. 
+Par la suite, nous avons fait une liste de tous les décors nécessaires pour notre installation dans un tableau. Nous avons passé à travers chaque item pour voir qui peut amener quel décors. 
 
 ![inventaire sur google docs](medias/jw_inventaire.png)
 
