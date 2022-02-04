@@ -62,21 +62,20 @@ Ne s'applique pas
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- Rencontre pour la pré-approbation de la préproduction
 - Modification de la préproduction avec mes coéquipières 
-- Modification et finalisation de la vidéo d'animation (avec son)
-- Exportation de la vidéo d'animation
-- Apprentissage de la GoPro
-- Test avec la GoPro
+- Peaufinement de la vidéo d'animation
+- Apprentissage et tests de la GoPro 
 - Dessins/griffonages pour le journal
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Animation conclusion](medias/a-animation_conclusion.gif)
+![Animation conclusion](medias/a-animation_conclusion_2.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -84,7 +83,7 @@ Ne s'applique pas
 Cette semaine, nous nous sommes rencontré à l'école plusieurs fois pour avancer notre projet. Lundi pour travailler sur nos tâches personnelles, mercredi pour la rencontre avec les profs et jeudi pour la rencontre du comité technique. De plus, à chaque jours, après les rencontres avec nos coéquipiers, j'essayais d'avancer le plus possible mes tâches personnelles pour pouvoir prendre de l'avance et essayer de travailler sur d'autres tâches.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ne s'applique pas
+Je n'ai pas pu ajouter tous les sons voulu dans la vidéo, car il me manquait des sons. Je vais m'assurer de les enregistrer pour les ajouter a la vidéo d'animation pour pouvoir faire approuver l'animation de la conclusion.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -100,9 +99,11 @@ Ne s'applique pas
 Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-- Filmer la vidéo de la prépoduction 
+- Filmer la vidéo de la prépoduction  
 - Commencer a apporter les décors dans le studio
+- Ajouter les sons dans l'animation et exporter la vidéo
 - Apprendre à utiliser la kinect
+- Créer les logos d'application pour les notifications du cellulaire
 
 ---
 ## Semaine 3 
