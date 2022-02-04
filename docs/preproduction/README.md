@@ -210,7 +210,7 @@ SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est
 Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un ordinateur et le public est invité à envoyer des mots d'encouragement à Sasha. Sur le mur, la phrase "Envoyer un message d'encouragement à Sasha" est projeté.
 
 **SCÉNARIMAGE**
-![Scénarimage](medias/Scénarimage.png)
+![Scénarimage](medias/scenarimage.png)
 **TIMELINE MAX**
 ## Brouillon
 ![Timeline](medias/timeline_brouillon.jpeg)
