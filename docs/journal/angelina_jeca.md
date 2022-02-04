@@ -1,4 +1,4 @@
-# Journal de "Angelina De Silva Jeca"
+# Journal de Angelina De Silva Jeca
 ![portrait du participant ](../web/medias/participants/adsj.png)
 
 * [Semaine 1](#semaine-1)
