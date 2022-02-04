@@ -103,6 +103,7 @@ Ne s'applique pas
 - Commencer a apporter les décors dans le studio
 - Ajouter les sons dans l'animation et exporter la vidéo
 - Apprendre à utiliser la kinect
+- Créer les logos d'application pour les notifications du cellulaire
 
 ---
 ## Semaine 3 
