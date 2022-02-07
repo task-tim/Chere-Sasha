@@ -111,7 +111,7 @@ Ne s'applique pas
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Animation conclusion](medias/a-applications.gif)
+![Applications](medias/a-applications.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
