@@ -108,10 +108,12 @@ Ne s'applique pas
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Enregistrement de la vidéo de préproduction 
+- Création de vecteurs pour le cellulaire
+- Création des logos d'applications pour le cellulaire
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Applications](medias/a-applications.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
