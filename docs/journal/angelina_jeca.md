@@ -109,6 +109,7 @@ Ne s'applique pas
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Enregistrement de la vidéo de préproduction 
+- Modification appel de casting pour l'affichage et annonce Team
 - Création de vecteurs pour le cellulaire
 - Création des logos d'applications pour le cellulaire
 
