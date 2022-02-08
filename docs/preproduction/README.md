@@ -137,7 +137,7 @@ rappelle moi immédiatement!
 Le message vocal se termine, on entend la ligne qui se coupe.
 
 **SCÈNE 02 ADOLESCENTE**
-Une lumière s'allume au dessus de la poubelle déjà renversée. Le public est invité à observer les ordures (pansements, devoirs froissés, examen coulé, messages haineux sur papiers froissés) se trouvant sur le plancher. Après quelques secondes, une vidéo est déclenchée et projetée sur le mur de la pièce. 
+Une lumière s'allume au-dessus de la poubelle déjà renversée. Le public est invité à observer les ordures (pansements, devoirs froissés, examen coulé, messages haineux sur papiers froissés) se trouvant sur le plancher. Après quelques secondes, une vidéo est déclenchée et projetée sur le mur de la pièce. 
 
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
@@ -151,7 +151,7 @@ CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
 
 CAMARADE 4 : Ark je pensais qu'elle avait un œil sur moi.
 
-PROFESSEUR : ..J'ai remarqué que tes notes on descendues.
+PROFESSEUR : J'ai remarqué que tes notes on descendues.
 
 **SCÈNE 03 ADOLESCENTE**
 

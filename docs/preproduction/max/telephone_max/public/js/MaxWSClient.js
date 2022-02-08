@@ -43,7 +43,7 @@ function horloge(){
 	setInterval(horloge, 1000);
 	
 // ÉTABLIR UNE CONNEXION WEBSOCKET
-let ws = new WebSocket("ws://localhost:7474");
+let ws = new WebSocket("ws://127.0.0.1:7474");
 
 // AFFICHER UN MESSAGE LORS DE LA CONNEXION
 ws.onopen = function (event) {
@@ -146,13 +146,9 @@ ws.onmessage = function (event) {
 		 })
 		}
 
-let logo = document.getElementById("logo");
-logo.onmousedown = () =>  {
+btnMax.addEventListener('click', function(){
 	console.log("Logo was clicked!");
 	ws.send("/logo 1");
-}
-logo.onmouseup= () =>  {
-	ws.send("/logo 0");
-}
+})
 
 
