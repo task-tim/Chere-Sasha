@@ -20,6 +20,7 @@ let secondeAppel = 0;
 let minuteAppel = 0;
 let appelTemps;
 let timer;
+
 function horloge(){
 	let date = new Date();
 	let mois = moisArr[date.getMonth()];
@@ -153,4 +154,5 @@ logo.onmousedown = () =>  {
 logo.onmouseup= () =>  {
 	ws.send("/logo 0");
 }
+
 
