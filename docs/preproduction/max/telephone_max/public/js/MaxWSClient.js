@@ -54,7 +54,9 @@ ws.onopen = function (event) {
 window.onbeforeunload = function(){
   ws.close();
 };
-
+btnMax.addEventListener('click', function(){
+	ws.send("/btnTest 1");
+})
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
@@ -64,13 +66,7 @@ ws.onmessage = function (event) {
 	// messageArray[0] -> LE PREMIER MOT ASCII
 	// messageArray[1] -> LE DEUXIÈME MOT ASCII
 
-	if ( messageArray[0] == "/pot" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
-		// parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
-		let value = parseInt(messageArray[1]);
-		let logo = document.getElementById("logo");
-		logo.style.transform = "rotate("+ (value ) +"deg)"
-
-	} else if ( messageArray[0] == "/bouton" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
+	 if ( messageArray[0] == "/bouton" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
 	     // parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
 		 phoneSleep.style.display = "none";
 		 phone.style.display="block";
@@ -146,9 +142,6 @@ ws.onmessage = function (event) {
 		 })
 		}
 
-btnMax.addEventListener('click', function(){
-	console.log("Logo was clicked!");
-	ws.send("/logo 1");
-})
+
 
 
