@@ -322,6 +322,7 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 * [Photoshop](https://www.adobe.com/ca/products/photoshop.html)
 * [QLC](https://www.qlcplus.org/)
 * [Pure Data](https://puredata.info/)
+* [Safari](https://www.apple.com/ca/safari/)
 
 
 ## Ressources humaines requises
