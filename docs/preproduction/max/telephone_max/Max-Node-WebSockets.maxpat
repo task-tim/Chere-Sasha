@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 54.0, 93.0, 1087.0, 920.0 ],
+		"rect" : [ 35.0, 85.0, 942.0, 920.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,7 +46,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 740.5, 877.0, 50.0, 36.0 ],
+					"patching_rect" : [ 740.5, 877.0, 52.0, 36.0 ],
 					"text" : "/bouton 0"
 				}
 
@@ -204,8 +204,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 320.5, 574.0, 65.0, 22.0 ],
-					"text" : "route /logo"
+					"patching_rect" : [ 320.5, 574.0, 81.0, 22.0 ],
+					"text" : "route /btnTest"
 				}
 
 			}
@@ -767,6 +767,8 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
+										"node_bin_path" : "",
+										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -908,8 +910,6 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
