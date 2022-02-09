@@ -205,7 +205,11 @@ SASHA ADULTE : Ouais, tu serais fière haha xD
 
 SASHA ADO : T'arrives-tu à leur parler?
 
-SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Sont pas à ta place. On n’a jamais valorisé les mêmes choses, on peut pas les changer s'ils veulent pas changer. Je veux juste que tu saches que moi chuis fier de toi.
+SASHA ADULTE : Pas vraiment, mais ne prends pas leurs remarques à coeur. Qu'est qui en sais. Sont pas à ta place
+
+SASHA ADULTE : On n’a jamais valorisé les mêmes choses, on peut pas les changer s'ils veulent pas changer.
+
+SASHA ADULTE : Je veux juste que tu saches que moi chuis fier de toi.
 
 Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteur s'allume au-dessus d'un ordinateur et le public est invité à envoyer des mots d'encouragement à Sasha. Sur le mur, la phrase "Envoyer un message d'encouragement à Sasha" est projeté.
 
