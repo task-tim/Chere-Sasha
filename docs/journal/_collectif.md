@@ -35,7 +35,7 @@ Pour continuer, l’action d’envoyer et de recevoir des messages avec le logic
 
 Ensuite, la kinect peut maintenant détecter la présence d’une personne et envoyer un message au logiciel Max!
 
-![kinect](medias/jw_max_01.jpg)
+![kinect](medias/jw-_max_01.jpg)
 
 
 Ensuite, les icônes pour les applications mobiles ont été créées avec adobe photoshop! 
