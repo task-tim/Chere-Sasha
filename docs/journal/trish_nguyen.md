@@ -111,6 +111,7 @@ Je vais simplement prendre le temps necessaire pour le faire. Mes coéquipières
 - Placé les faux murs avec l'aide de Xavier (TTP)
 - Testé les dimensions du projecteur par raport au faux murs
 - Emprunté la liste de matériel
+- Écrit la description du thème *temps* et choisie une image poétique
 ### Image d'une réalisation dont tu es la ou le plus fier
 Voici le chariot avec tout le matériel j'ai démonté :D
 ![chariot de matériel](medias/t-demonterchariot.png)
