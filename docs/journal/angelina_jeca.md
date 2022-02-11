@@ -127,7 +127,7 @@ Ne s'applique pas
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Nous nous sommes rencontré plusieurs fois vers 9AM. Le lundi et mardi pour travailler sur nos tâches personnelles, le mercredi pour la rencontre avec les profs et le jeudi pour la rencontre du comité technique pour l'emprunt du matériel.  
+Nous nous sommes rencontré plusieurs fois vers 9h du matin pour travailler tous ensemble. Le lundi et mardi nous avons travaillé sur nos tâches personnelles, le mercredi nous avons assisté à la rencontre avec les profs et le jeudi nous avons assisté à la rencontre du comité technique et nous avons débuté l'emprunt du matériel.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Je n'ai pas pu ajouter tous les sons voulus dans la vidéo. J'attends d'avoir les sons de la part de Trish pour les ajouter. 
