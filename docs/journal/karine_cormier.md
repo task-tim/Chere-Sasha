@@ -81,39 +81,41 @@ Faire en sorte que le JavaScript se déclenche avec un bouton et puisse tourner 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Le JavaScript de la page peut jouer en boucle
+- La page se déclenche avec un bouton Max
+- Un bouton sur la page Web envoie un message à Max
+- Un cellulaire peut se connecter sur le site, envoyer et recevoir les message Max
+- Il est possible de cencoriser des mots pour l'interaction public
+- Faire fonctionner la kinect et envoyer des messages dans le PureData d'un autre ordinateur qui envoie ensuite dans Max
+- Filmer la vidéoconférence finale
+- Faire l'emprunt du matériel
+- Tester les dimensions du projecteur et son espace entre le plancher et le sol
+- Pofiniage du prototype de la timeline de déclenchement Max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 3 ](medias/k-connexion_max_web.gif)
+![réalisation semaine 3 ](medias/k-connexion_max_cellulaire.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous avons pris un moment en équipe pour filmer la vidéoconférence. Aussi, nous sommes aller à l'école tous les jours pour travailler sur le projet. Le mardi après la rencontre du comité technique j'ai demander de l'aide d'un professeur pour communiquer Max avec un cellulaire. Ce problem à été régler le mercredi lors de la rancontre d'équipe.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner le Max de nos déclenchement. Envoyer les message de l'interface Web à Max avec les bonnes actions. Pour finir, faire communiquer les POST PHP à un autre ordinateur. 
 
 ---
 ## Semaine 4

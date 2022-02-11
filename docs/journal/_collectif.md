@@ -13,6 +13,43 @@
 ## Semaine 4
 
 ## Semaine 3
+Cette semaine nous avons emprunté l’équipement pour notre installation!
+
+![équipements](medias/jw-equipement_01.jpg)
+
+
+Ensuite, nous avons publié la nouvelle version de l’appel de casting sur le teams de TIM. Nous avons aussi affiché l’appel de casting sur les portes des locaux TIM!
+
+![appel casting](medias/jw-appel_casting_V2.JPG)
+
+
+Par la suite, les bandes ambiantes de la chambre adolescente, il reste juste à le spacialiser. De plus, la bande ambiante sonore de la chambre adulte a été commencée.
+
+![ambiances](medias/t-ambiance_adolescente.png)
+
+
+Pour continuer, l’action d’envoyer et de recevoir des messages avec le logiciel Max sont fonctionnels.
+
+![max](medias/k-connexion_max_web.gif)
+![max](medias/k-connexion_max_cellulaire.gif)
+
+
+Ensuite, la kinect peut maintenant détecter la présence d’une personne et envoyer un message au logiciel Max!
+
+![kinect](medias/jw-_max_01.jpg)
+
+
+Ensuite, les icônes pour les applications mobiles ont été créées avec adobe photoshop! 
+
+![applications](medias/a-applications.png)
+
+
+Finalement, un scénario pour chaque vidéo projetée a été rédigé pour faciliter le tournage. 
+
+![scenario](medias/s-scenario.JPG)
+
+
+Nous avons hâte d’installer l’équipement et d’amener les décorations au studio!
 
 ## Semaine 2
 Cette semaine, nous avons modifié notre préproduction à la suite des commentaires de nos enseigants, notament le scénario.
