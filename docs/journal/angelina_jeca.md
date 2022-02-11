@@ -100,7 +100,7 @@ Ne s'applique pas
 
 ### Défis pour la prochaine semaine
 - Filmer la vidéo de la prépoduction  
-- Commencer a apporter les décors dans le studio
+- Commencer à apporter les décors dans le studio
 - Ajouter les sons dans l'animation et exporter la vidéo
 - Apprendre à utiliser la kinect
 - Créer les logos d'application pour les notifications du cellulaire
@@ -112,6 +112,8 @@ Ne s'applique pas
 - Modification appel de casting pour l'affichage et annonce Team
 - Création de vecteurs pour le cellulaire
 - Création des logos d'applications pour le cellulaire
+- Début de la modification du patch Max pour la boîte à souvenirs
+- Emprunt de l'équipement avec l'équipe
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Applications](medias/a-applications.png)
@@ -120,31 +122,34 @@ Ne s'applique pas
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous nous sommes rencontré plusieurs fois vers 9AM. Le lundi et mardi pour travailler sur nos tâches personnelles, le mercredi pour la rencontre avec les profs et le jeudi pour la rencontre du comité technique pour l'emprunt du matériel.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je n'ai pas pu ajouter tous les sons voulus dans la vidéo. J'attends d'avoir les sons de la part de Trish pour les ajouter. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Continuer la modification du patch Max pour la boite à souvenirs
+- Apprendre à utiliser le magnetic latch
+- Continuer à installer le matériel dans le studio
+- Modifier l'animation suite au demandes apporter à la préproduction (séparer le dernier message en plusieurs paragraphes)
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
