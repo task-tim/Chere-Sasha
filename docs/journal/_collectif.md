@@ -31,6 +31,7 @@ Par la suite, les bandes ambiantes de la chambre adolescente, il reste juste à 
 Pour continuer, l’action d’envoyer et de recevoir des messages avec le logiciel Max sont fonctionnels.
 
 ![max](medias/k-connexion_max_web.gif)
+![max](medias/k-connexion_max_cellulaire.gif)
 
 
 Ensuite, la kinect peut maintenant détecter la présence d’une personne et envoyer un message au logiciel Max!
