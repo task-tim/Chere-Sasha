@@ -114,6 +114,7 @@ Ne s'applique pas
 - Création des logos d'applications pour le cellulaire
 - Début de la modification du patch Max pour la boîte à souvenirs
 - Emprunt de l'équipement avec l'équipe
+- Tests du projecteur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Applications](medias/a-applications.png)
