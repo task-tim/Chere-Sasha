@@ -102,39 +102,45 @@ Pour la semaine prochaine, je me donne comme défi de faire fonctionner la kinec
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- J’ai filmé la préproduction avec mon équipe.
+- J’ai écrit 17 entrées du journal adolescent.
+- J’ai écrit un scénario plus détaillé pour chaque vidéo qui sera projetée dans la chambre de Sasha.
+- J’ai fait des corrections à notre préproduction suite à la rencontre avec les professeurs.
+- J’ai trouvé mon lit gonflable queen!
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![scénario projeté](medias/s-scenario.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J’ai réussi à filmer notre préproduction car mon équipe et moi avions fixé une date de rencontre pour la filmer. Nous étions toutes bien préparées, donc on a réussi à filmer la vidéoconférence rapidement. Ensuite, j’ai réussi à remplir 17 autres pages du journal adolescent de Sasha! En fait, je suis venu à l’école chaque jour avec mon équipe pour travailler le plus possible sur le projet. Celà m’a permis de bien avancer le journal. Malheureusement, je n’ai pas pu venir à l’école jeudi pour faire fonctionner la Kinect avec mon équipe dû à des circonstances hors de mon contrôle. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mes coéquipières ont réussi à faire fonctionner la kinect! J'apprécie beaucoup leur aide et effort!
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ça ne s’applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
+Je me donne comme défi de remplir 15 autres pages de journal adolescent. 
 
 ---
 ## Semaine 4
