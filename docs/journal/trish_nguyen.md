@@ -99,45 +99,57 @@ Je vais simplement prendre le temps necessaire pour le faire. Mes coéquipières
 - Faire fonctionner la kinnect avec Max
 - Filmer la conférence de la préproduction
 - Imprimer les photos pour la boîte de souvenir
-- Amener du décors au grand studio (la table, oreillers décoratif, photos)
--Trouver un cellulaire pour remplacer le Ipod touch
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
-
+- Fini le montage de l'ambiance sonore du côté adolescent
+- Grandement avancé le montage de l'ambiance sonore du côté adulte
+- Participé au fonctionnement de la kinnect (majoritairement faite par Karine)
+- Filmée la conférence de la préproduction
+- Imprimés les photos de la boîte de souvenir
+- Démontés les spots, les lumières RGB, les speakers et les fils qui étaient au plafond du grand studio
+- Placé les faux murs avec l'aide de Xavier (TTP)
+- Testé les dimensions du projecteur par raport au faux murs
+- Emprunté la liste de matériel
 ### Image d'une réalisation dont tu es la ou le plus fier
+Voici le chariot avec tout le matériel j'ai démonté :D
+![chariot de matériel](medias/t-demonterchariot.png)
 
-
+Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
+![image de couverture](medias/t-plafond.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
+- Finir le montage de l'ambiance sonore côté adulte
+- Acheter la boîte de souvenir 
+- Trouver un cellulaire pour remplacer l'Ipod Touch
+- Déplacer la kinnect 
+- Installer le projecteur et possiblement les hauts-parleurs
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
