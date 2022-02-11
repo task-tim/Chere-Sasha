@@ -140,7 +140,7 @@ Mes coéquipières ont réussi à faire fonctionner la kinect! J'apprécie beauc
 Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
-Je me donne comme défi de remplir 15 autres pages de journal adolescent. 
+Je me donne comme défi de remplir 15 autres pages de journal adolescent. Mon dernier défis est de modifier une partie de notre vidéoconférence à l'aide de Davinci Resolve.
 
 ---
 ## Semaine 4
