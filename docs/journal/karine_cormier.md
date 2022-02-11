@@ -115,7 +115,7 @@ Nous avons pris un moment en équipe pour filmer la vidéoconférence. Aussi, no
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner le Max de nos déclenchement. Envoyer les message de l'interface Web à Max avec les bonnes actions. 
+Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner le Max de nos déclenchement. Envoyer les message de l'interface Web à Max avec les bonnes actions. Pour finir, faire communiquer les POST PHP à un autre ordinateur. 
 
 ---
 ## Semaine 4
