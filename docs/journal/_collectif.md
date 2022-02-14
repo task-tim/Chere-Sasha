@@ -25,7 +25,7 @@ Ensuite, nous avons publié la nouvelle version de l’appel de casting sur le t
 
 Par la suite, les bandes ambiantes de la chambre adolescente, il reste juste à le spacialiser. De plus, la bande ambiante sonore de la chambre adulte a été commencée.
 
-![ambiances](medias/jw-equipement_01.jpg)
+![ambiances](medias/t-ambiance_adolescente.png)
 
 
 Pour continuer, l’action d’envoyer et de recevoir des messages avec le logiciel Max sont fonctionnels.
@@ -41,7 +41,7 @@ Ensuite, la kinect peut maintenant détecter la présence d’une personne et en
 
 Ensuite, les icônes pour les applications mobiles ont été créées avec adobe photoshop! 
 
-![kinect](medias/a-applications.png)
+![applications](medias/a-applications.png)
 
 
 Finalement, un scénario pour chaque vidéo projetée a été rédigé pour faciliter le tournage. 
