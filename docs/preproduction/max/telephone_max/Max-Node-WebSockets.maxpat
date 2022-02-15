@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 35.0, 85.0, 942.0, 920.0 ],
+		"rect" : [ 330.0, 379.0, 1679.0, 893.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,26 +40,144 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-42",
-					"linecount" : 2,
+					"id" : "obj-32",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 740.5, 877.0, 52.0, 36.0 ],
-					"text" : "/bouton 0"
+					"patching_rect" : [ 386.5, 751.5, 29.5, 22.0 ],
+					"text" : "1"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-32",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
+					"id" : "obj-17",
+					"maxclass" : "message",
+					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 771.5, 830.5, 97.0, 22.0 ],
-					"text" : "udpreceive 7479"
+					"patching_rect" : [ 314.25, 751.5, 29.5, 22.0 ],
+					"text" : "2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-40",
+					"maxclass" : "button",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 386.5, 687.0, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-42",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "bang", "" ],
+					"patching_rect" : [ 386.5, 647.0, 50.0, 22.0 ],
+					"text" : "select 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgmode" : 0,
+					"border" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"extract" : 1,
+					"id" : "obj-35",
+					"lockeddragscroll" : 0,
+					"maxclass" : "bpatcher",
+					"name" : "bp.Stereo.maxpat",
+					"numinlets" : 2,
+					"numoutlets" : 0,
+					"offset" : [ 0.0, 0.0 ],
+					"patching_rect" : [ 1020.0, 671.0, 148.0, 116.0 ],
+					"varname" : "bp.Stereo",
+					"viewvisibility" : 1
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 0.760784, 0.878431, 0.796078, 1.0 ],
+					"id" : "obj-22",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1254.0, 576.0, 214.0, 20.0 ],
+					"text" : "son de l'appel quand on répond"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 0.760784, 0.878431, 0.796078, 1.0 ],
+					"id" : "obj-20",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1254.0, 539.0, 214.0, 20.0 ],
+					"text" : "son de l'appel quand on raccroche"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"basictuning" : 440,
+					"clipheight" : 35.0,
+					"data" : 					{
+						"clips" : [ 							{
+								"absolutepath" : "C:/MAMP/htdocs/Chere-Sasha/docs/preproduction/max/telephone_max/media_max/sonTest-1.wav",
+								"filename" : "sonTest-1.wav",
+								"filekind" : "audiofile",
+								"id" : "u512000327",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "C:\\MAMP\\htdocs\\Chere-Sasha\\docs\\preproduction\\max\\telephone_max\\media_max\\sonTest-2.wav",
+								"filename" : "sonTest-2.wav",
+								"filekind" : "audiofile",
+								"id" : "u970000334",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+ ]
+					}
+,
+					"followglobaltempo" : 0,
+					"formantcorrection" : 0,
+					"id" : "obj-11",
+					"maxclass" : "playlist~",
+					"mode" : "basic",
+					"numinlets" : 1,
+					"numoutlets" : 5,
+					"originallength" : [ 0.0, "ticks" ],
+					"originaltempo" : 120.0,
+					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 1020.0, 532.0, 216.0, 72.0 ],
+					"pitchcorrection" : 0,
+					"quality" : "basic",
+					"timestretch" : [ 0 ]
 				}
 
 			}
@@ -72,42 +190,6 @@
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 744.5, 202.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-17",
-					"maxclass" : "toggle",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 658.5, 692.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-20",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 658.5, 728.0, 65.0, 22.0 ],
-					"text" : "/bouton $1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-11",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 934.5, 641.0, 67.0, 22.0 ],
-					"text" : "udpreceive"
 				}
 
 			}
@@ -131,7 +213,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 388.5, 566.0, 284.0, 38.0 ],
+					"patching_rect" : [ 509.5, 566.0, 284.0, 38.0 ],
 					"text" : "Cliquez sur le logo dans la page Web de l'exemple pour envoyer à Max un message /logo"
 				}
 
@@ -144,7 +226,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 372.0, 657.0, 24.0, 24.0 ]
+					"patching_rect" : [ 317.0, 687.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -155,20 +237,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
-					"patching_rect" : [ 372.0, 617.0, 50.0, 22.0 ],
+					"patching_rect" : [ 317.0, 647.0, 50.0, 22.0 ],
 					"text" : "select 1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-21",
-					"maxclass" : "toggle",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 320.5, 617.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -180,7 +250,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 395.5, 502.0, 277.0, 38.0 ],
+					"patching_rect" : [ 505.5, 502.0, 277.0, 38.0 ],
 					"text" : "Convertier le message, qui est du format symbol(string),  en message Max."
 				}
 
@@ -201,11 +271,11 @@
 				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 320.5, 574.0, 81.0, 22.0 ],
-					"text" : "route /btnTest"
+					"numinlets" : 3,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "" ],
+					"patching_rect" : [ 320.5, 574.0, 139.0, 22.0 ],
+					"text" : "route /repond /raccroche"
 				}
 
 			}
@@ -285,17 +355,6 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 829.5, 151.5, 106.0, 52.0 ],
 					"text" : "Ouvrir la page dans un navigateur."
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-25",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 658.5, 755.5, 165.0, 22.0 ],
-					"text" : "udpsend 192.168.61.32 7478"
 				}
 
 			}
@@ -934,6 +993,22 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-35", 1 ],
+					"order" : 0,
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-35", 0 ],
+					"order" : 1,
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
 					"source" : [ "obj-15", 0 ]
 				}
@@ -948,7 +1023,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
+					"destination" : [ "obj-11", 0 ],
 					"source" : [ "obj-17", 0 ]
 				}
 
@@ -962,24 +1037,15 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-21", 0 ],
-					"order" : 1,
-					"source" : [ "obj-2", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-34", 0 ],
-					"order" : 0,
 					"source" : [ "obj-2", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-25", 0 ],
-					"source" : [ "obj-20", 0 ]
+					"destination" : [ "obj-42", 0 ],
+					"source" : [ "obj-2", 1 ]
 				}
 
 			}
@@ -999,7 +1065,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-42", 1 ],
+					"destination" : [ "obj-11", 0 ],
 					"source" : [ "obj-32", 0 ]
 				}
 
@@ -1027,6 +1093,27 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-17", 0 ],
+					"source" : [ "obj-37", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-32", 0 ],
+					"source" : [ "obj-40", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-40", 0 ],
+					"source" : [ "obj-42", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-36", 0 ],
 					"source" : [ "obj-43", 0 ]
 				}
@@ -1047,11 +1134,43 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-35::obj-22" : [ "Mute", "Mute", 0 ],
+			"obj-35::obj-52" : [ "Level", "Level", 0 ],
+			"obj-35::obj-55" : [ "DSP", "DSP", 0 ],
+			"obj-35::obj-56" : [ "OutputChannel", "OutputChannel", 0 ],
+			"parameterbanks" : 			{
+
+			}
+,
+			"inherited_shortname" : 1
+		}
+,
 		"dependency_cache" : [ 			{
 				"name" : "telephone_max",
-				"bootpath" : "C:/MAMP/htdocs/temps/docs/preproduction/max",
+				"bootpath" : "C:/MAMP/htdocs/Chere-Sasha/docs/preproduction/max",
 				"patcherrelativepath" : "..",
 				"type" : "fold",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "sonTest-1.wav",
+				"bootpath" : "C:/MAMP/htdocs/Chere-Sasha/docs/preproduction/max/telephone_max/media_max",
+				"patcherrelativepath" : "./media_max",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "sonTest-2.wav",
+				"bootpath" : "C:/MAMP/htdocs/Chere-Sasha/docs/preproduction/max/telephone_max/media_max",
+				"patcherrelativepath" : "./media_max",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "bp.Stereo.maxpat",
+				"bootpath" : "C74:/packages/Beap/clippings/BEAP/Output",
+				"type" : "JSON",
 				"implicit" : 1
 			}
  ],

@@ -69,8 +69,8 @@
  .texteInvitation{
      position: absolute;
      top:0;
-     padding: 10px;
-     margin: 16px;
+     padding: 10px 34px;
+     margin: 8px;
      font-family: aileron,sans-serif;
      font-weight: 300;
      font-style: normal;

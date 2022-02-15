@@ -17,18 +17,15 @@
 
 body {
   padding: 0 20px;
-  height: 100%;
   padding-top: 10px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: -webkit-linear-gradient(#770000, #000000);
-  background-image: linear-gradient(#770000, #000000);
+  background-color: #3b0000;
 }
 body::-webkit-scrollbar {
   display: none;
 }
 html {
   scrollbar-width: none;
-  height: 100%;
   /*changer le hidden en js*/
 }
 .phoneIconeImg{
@@ -36,15 +33,14 @@ html {
 }
 .phone {
   position: relative;
-  height: 100vh;
   width: 100%;
-  display: none;
-  background-image: -webkit-linear-gradient(#770000, #000000);
-  background-image: linear-gradient(#770000, #000000);
+  display: none;  
+
 } 
 .phone .phoneIcone{
   position: absolute;
 }
+
 .batterie{
   width: 34.25px;
 }
@@ -58,17 +54,6 @@ html {
  width: 22.0833px;
 }
 
-.notif {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  background-image: -webkit-linear-gradient(#770000, #000000);
-  background-image: linear-gradient(#770000, #000000);
-  border-radius: 20px;
-}
 .notif__time {
   width: 100%;
   display: flex;
@@ -124,6 +109,11 @@ html {
   border-radius: 10px;
 }
 
+.appIcone img{
+  width: 100%;
+  border-radius: inherit;
+}
+
 .appTitre{
   display: flex;
   flex-wrap: nowrap;
@@ -136,8 +126,6 @@ html {
   margin-left: 12px;
   font-weight: 100;
 }
-
-/*-------------------------------------------------------------------------------------------------------------*/
 
 .icone{
   position: relative;
@@ -163,10 +151,7 @@ html {
   width: 100%;
   bottom: 0;
   right: 0;
-  background-image: -webkit-linear-gradient(#602525, #03152E);
-  background-image: linear-gradient(#602525, #03152E);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #200000;
   top: 0;
   left: 0;
   padding: 15px;
@@ -294,7 +279,7 @@ html {
   text-transform: uppercase;
 }
 
-/*------------------------------------------------------------------------------*/
+
 .phoneAnswer {
   position: fixed;
   display: none;
@@ -371,9 +356,8 @@ html {
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div class="phoneSleep">
-      <button class="max">Envoie vers max</button>
-    </div>
+   <div class="phoneSleep">
+    </div> 
     <div class="phone">
           <div class="phoneIcone"> 
           <div class="phoneIconeImg">
@@ -381,7 +365,6 @@ html {
           <img class="wifi" src="img/wifiWhite.png" alt="wifi">
           <img class="batterie" src="img/powerWhite.png" alt="battery"></div>
         </div> 
-      <div class="notif">
         <div class="notif__time">
             <h1 id="temps"></h1>
           <h2 id="journee"></h2>
@@ -389,38 +372,35 @@ html {
         <div class="notif__boxes">
           <div class="box box--1">
             <div class="appTitre">
-            <div class="appIcone"></div>
-            <h4 class="appInfo">boite 1</br>
-            nom prénom</h4></div>
-            <div class="appTexte"><p>Neque porro quisquam est qui dolorem ipsum quia dolor 
-              sit amet…</p></div>
+            <div class="appIcone"><img src="img/alarme.png" alt=""></div>
+            <h4 class="appInfo">Alarme</h4></div>
+            <div class="appTexte"><p>Vous avez manqué votre alarme. <br>
+              Jeudi 20 mars 2012
+              </p></div>
           </div>
           <div class="box box--2">
             <div class="appTitre">
-            <div class="appIcone"></div>
-            <h4 class="appInfo">boite 2</br>
-            nom prénom</h4></div>
-            <div class="appTexte"><p>Neque porro quisquam est qui dolorem ipsum quia dolor 
-              sit amet…</p></div>
+            <div class="appIcone"><img src="img/courriel.png" alt=""></div>
+            <h4 class="appInfo">Courriel</br>
+            École TIM</h4></div>
+            <div class="appTexte"><p>Bonjour, c’est pour vous aviser que Sasha Ipsum à couler son examen de
+              mathématique à 45%. Ça va très mal pour elle ces temps-ci. Est-ce que
+              vous seriez disponible la semaine prochaine pour une rencontre?</p></div>
           </div>
           <div class="box box--3">
             <div class="appTitre">
-            <div class="appIcone"></div>
-            <h4 class="appInfo">boite 3</br>
-            nom prénom</h4></div>
-            <div class="appTexte"><p>Neque porro quisquam est qui dolorem ipsum quia dolor 
-              sit amet…</p></div>
+            <div class="appIcone"><img src="img/photobia.png" alt=""></div>
+            <h4 class="appInfo">Photobia</h4></div>
+            <div class="appTexte"><p>Votre photo à reçu 5 likes et 3 commentaires. <br>Cliquez pour en savoir plus.</p></div>
           </div>
           <div class="box box--4">
             <div class="appTitre">
-            <div class="appIcone"></div>
-            <h4 class="appInfo">boite 4</br>
-            nom prénom</h4></div>
-            <div class="appTexte"><p>Neque porro quisquam est qui dolorem ipsum quia dolor 
-              sit amet…</p></div>
+            <div class="appIcone"><img src="img/smileorama.png" alt=""></div>
+            <h4 class="appInfo">Smileorama</h4></div>
+            <div class="appTexte"><p>Vous avez 20 notifications en attente. <br>
+              Cliquez pour en savoir plus.</p></div>
           </div>
         </div>    
-      </div>
     </div>
     <div class="phoneCall">
       <div class="interface">
@@ -525,7 +505,6 @@ html {
       <div class="phoneDecline">
         vous avez ignorer/raccrocher
       </div>
-
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js'></script>
     <script src="/js/MaxWSClient.js"></script>
   </body>

@@ -3,6 +3,7 @@ const jourArr = ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", 
 let box1 = document.querySelector('.box--1');
 let box2 = document.querySelector('.box--2');
 let box3 = document.querySelector('.box--3');
+let box4 = document.querySelector('.box--4');
 let phoneCall = document.querySelector('.phoneCall');
 let phone = document.querySelector('.phone');
 let btnraccrocher = document.querySelector('.icone_raccrocher');
@@ -54,9 +55,7 @@ ws.onopen = function (event) {
 window.onbeforeunload = function(){
   ws.close();
 };
-btnMax.addEventListener('click', function(){
-	ws.send("/btnTest 1");
-})
+
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
@@ -70,12 +69,12 @@ ws.onmessage = function (event) {
 	     // parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
 		 phoneSleep.style.display = "none";
 		 phone.style.display="block";
-		 document.body.style.backgroundColor= " #1a004b";
 		 //si on ignore l'appel
 		 const ignoreAppel = function(){
 		   raccroche.style.display="block";  
 		   phoneCall.style.display="none";
 		   document.body.style.backgroundColor= "black";
+		   ws.send("/raccroche 1");
 		   setTimeout(function(){
 			window.location.reload(true);
 		   }, 2000)
@@ -84,12 +83,16 @@ ws.onmessage = function (event) {
 		 
 		 //notification, appel
 		 setTimeout(function() {
+			box4.style.display="block";
+		  }, 2000);
+
+		 setTimeout(function() {
 		   box3.style.display="block";
-		 }, 2000);
+		 }, 4000);
 		 
 		 setTimeout(function() {
 		   box2.style.display="block";
-		 }, 5000);
+		 }, 6000);
 		 
 		 setTimeout(function() {
 		   box1.style.display="block";  
@@ -110,6 +113,7 @@ ws.onmessage = function (event) {
 		   phoneCall.style.display="none";
 		   document.body.style.backgroundColor= "black";
 		   clearTimeout(timer);
+		   ws.send("/raccroche 1");
 		   setTimeout(function(){
 			window.location.reload(true);
 		   }, 2000)
@@ -122,6 +126,7 @@ ws.onmessage = function (event) {
 			repondu.style.display="block";
 			phoneCall.style.display="none";
 			document.body.style.backgroundColor= "black";
+			ws.send("/repond 1");
 			appelTemps = setInterval(() => {
 				console.log(secondeAppel);
 				secondeAppel++;
