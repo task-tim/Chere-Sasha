@@ -154,7 +154,10 @@ Ne s'applique pas
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Casting
+- Modification application
+- Continuation patch Max
+- Texte pour l'envoie de messages à Sasha
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
