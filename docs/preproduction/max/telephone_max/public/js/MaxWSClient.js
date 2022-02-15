@@ -43,7 +43,7 @@ function horloge(){
 	setInterval(horloge, 1000);
 	
 // ÉTABLIR UNE CONNEXION WEBSOCKET
-let ws = new WebSocket("ws://192.168.61.33:7474");
+let ws = new WebSocket("ws://192.168.1.176:7474");
 
 // AFFICHER UN MESSAGE LORS DE LA CONNEXION
 ws.onopen = function (event) {
