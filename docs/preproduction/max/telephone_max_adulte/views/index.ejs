@@ -19,7 +19,8 @@ body {
   padding: 0 20px;
   padding-top: 10px;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #3b0000;
+  background-color: #C3B5E0;
+  /*background-color: #C0E1F2;*/
 }
 body::-webkit-scrollbar {
   display: none;
@@ -58,7 +59,7 @@ html {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  color: white;
+  color: black;
   justify-content: center;
 }
 
@@ -92,8 +93,8 @@ html {
 }
 .notif__boxes > .box {
   position: relative;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: black;
   width: 100%;
   height: fit-content;
   display: none;
@@ -120,7 +121,7 @@ html {
   align-items: center;
   text-transform: uppercase;
 }
-.titrePLus {
+.titrePlus{
   text-transform: none;
 }
 .appInfo{
@@ -153,7 +154,7 @@ html {
   width: 100%;
   bottom: 0;
   right: 0;
-  background-color: #200000;
+  background-color: #9B80E2;
   top: 0;
   left: 0;
   padding: 15px;
@@ -374,33 +375,35 @@ html {
         <div class="notif__boxes">
           <div class="box box--1">
             <div class="appTitre">
-            <div class="appIcone"><img src="img/alarme.png" alt=""></div>
-            <h4 class="appInfo">Alarme</h4></div>
-            <div class="appTexte"><p>Vous avez manqué votre alarme. <br>
-              Jeudi 20 mars 2012
+            <div class="appIcone"><img src="img/appel.png" alt=""></div>
+            <h4 class="appInfo">Appel</br>
+              <span class="titrePLus">Père</span></h4></div>
+            <div class="appTexte"><p>Vous avez un appel manqué de la part de Papa.
               </p></div>
           </div>
           <div class="box box--2">
             <div class="appTitre">
-            <div class="appIcone"><img src="img/courriel.png" alt=""></div>
-            <h4 class="appInfo">Courriel</br>
-              <span class="titrePLus">École TIM</span></h4></div>
-            <div class="appTexte"><p>Bonjour, c’est pour vous aviser que Sasha Ipsum à couler son examen de
-              mathématique à 45%. Ça va très mal pour elle ces temps-ci. Est-ce que
-              vous seriez disponible la semaine prochaine pour une rencontre?</p></div>
+            <div class="appIcone"><img src="img/appel.png" alt=""></div>
+            <h4 class="appInfo">Appel</br>
+              <span class="titrePLus">Nina ❤</span></h4></div>
+            <div class="appTexte"><p>Vous avez un appel manqué de la part de Nina Hyacinthe.
+            </p></div>
           </div>
           <div class="box box--3">
             <div class="appTitre">
-            <div class="appIcone"><img src="img/photobia.png" alt=""></div>
-            <h4 class="appInfo">Photobia</h4></div>
-            <div class="appTexte"><p>Votre photo à reçu 5 likes et 3 commentaires. <br>Cliquez pour en savoir plus.</p></div>
+            <div class="appIcone"><img src="img/message.png" alt=""></div>
+            <h4 class="appInfo">Message</br>
+              <span class="titrePLus">Nina ❤</span></h4></div>
+            <div class="appTexte"><p>Heyoo, juste pour te dire que c’était 
+              vraiment nice hier soir, faudrait se refaire ça 🥰</p></div>
           </div>
           <div class="box box--4">
             <div class="appTitre">
-            <div class="appIcone"><img src="img/smileorama.png" alt=""></div>
-            <h4 class="appInfo">Smileorama</h4></div>
-            <div class="appTexte"><p>Vous avez 20 notifications en attente. <br>
-              Cliquez pour en savoir plus.</p></div>
+            <div class="appIcone"><img src="img/message.png" alt=""></div>
+            <h4 class="appInfo">Message</br>
+              <span class="titrePLus">Loïc</span></h4></div>
+            <div class="appTexte"><p>omg, tu sais pas quoi, hayley kiyoko fait une autre tournée et elle vient à
+              montréal!!!!!!! ça y est .... on va faire faillite 😭😭😭😭</p></div>
           </div>
         </div>    
     </div>
@@ -414,7 +417,7 @@ html {
             <img class="batterie" src="img/powerWhite.png" alt="battery"></div>
           </div> 
         <div class="nom">
-          Papa
+          Père
         </div>
         <div class="ville">
           Laval, Qc
@@ -451,7 +454,7 @@ html {
               <img class="batterie" src="img/powerWhite.png" alt="battery"></div>
             </div> 
           <div class="nom">
-            Papa
+            Père
           </div>
           <div class="ville" id='tempsAppel'>
             00:00
