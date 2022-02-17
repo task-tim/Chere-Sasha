@@ -36,8 +36,6 @@
 #### Décrivez pourquoi.
 J’ai réussi à accomplir toutes mes tâches cette semaine grâce à mes coéquipières. En fait, nous avons eu une rencontre mercredi afin de modifier certaines parties de notre pré production tels que certains dialogues, la liste de matériels et les risques. Puisque nous avons réussi à finir toutes ces tâches en une journée, j’ai pu travailler sur d’autres tâches individuelles le jeudi. 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ça ne s’applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -46,11 +44,6 @@ J’ai réussi à accomplir toutes mes tâches cette semaine grâce à mes coéq
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-Ça ne s’applique pas.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
 Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages de journal intime de Sasha adolescente à l’ordinateur et de les faire approuver par mon équipe pour ensuite les transcrire dans le journal physique à la main. Mon dernier défis serait d'enregistrer l'oral de la préproduction avec mon équipe.
@@ -64,7 +57,6 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 - J’ai acheté 2 journaux.
 - J’ai écrit 10 entrées de journaux pour le journal de Sasha adolescente sur Word.
 - J’ai retranscrit 5 de ces entrées dans le journal physique à la main.
-
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![journal de Sasha](medias/s-journal_ado.jpg)
@@ -80,8 +72,6 @@ Pour la semaine prochaine, je me donne comme défi d’écrire au moins 5 pages 
 #### Décrivez pourquoi.
 J’ai réussi à accomplir toutes les tâches de la semaine puisque lundi mon équipe et moi sommes allées à l’école pour travailler tous ensemble. À l’école, je me sentais plus motivé à travailler, donc j’ai pu modifier toutes les photos durant notre rencontre à l’école. Cette rencontre m’a aussi permis d’avoir l’approbation de mon équipe plus rapidement ce qui m’a permis ensuite de faire la prochaine tâche qui était d’écrire le journal. Après la rencontre du lundi, je suis allée acheter les journaux pour que durant la semaine je puisse transcrire les entrées à la main du journal adolescent.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ça ne s’applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -89,12 +79,6 @@ J’ai réussi à accomplir toutes les tâches de la semaine puisque lundi mon �
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-Ça ne s’applique pas.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
 Pour la semaine prochaine, je me donne comme défi de faire fonctionner la kinect pour déclencher notre installation et d’écrire 5 autres entrées du journal adolescent dans le journal physique. Mon défi final est d’enregistrer notre préproduction.
@@ -133,11 +117,6 @@ Mes coéquipières ont réussi à faire fonctionner la kinect! J'apprécie beauc
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-Ça ne s’applique pas.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Ça ne s’applique pas.
 
 ### Défis pour la prochaine semaine
 Je me donne comme défi de remplir 15 autres pages de journal adolescent. Mon dernier défis est de modifier une partie de notre vidéoconférence à l'aide de Davinci Resolve.
@@ -145,39 +124,38 @@ Je me donne comme défi de remplir 15 autres pages de journal adolescent. Mon de
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- J'ai transcrit 15 pages du journal adolescent. 
+- J'ai décoré la couverture du journal adolescent. 
+- J'ai confectionné le bracelet pour la boîte de souvenirs.
+- J'ai composé la musique pour accompagner la conclusion de notre projet. 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![bandlab](medias/s-musique_conclusion.gif)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+J'ai réussi à transcrire les 15 pages finales du journal adolescent parce que je me suis donnée comme objectif de transcrire 5 pages par jour. Lorsque j'avais fini de transcrire ces pages, j'ai décoré la couverture du journal à l'aide des dessins que ma coéquipière Angelina et moi avons créés. Par la suite, j'ai découvert le site Web bandlab qui m'a permis de créer la musique pour la conclusion avec divers instruments disponible sur le site!
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Je me donne comme défi d'écrire 3 pages du journal adulte et de faire des dessins pour décorer la couverture du journal. Aussi, je me donne comme défi d'amener le lit gonflable au studio et l'installer.
+
 
 ---
 ## Semaine 5
