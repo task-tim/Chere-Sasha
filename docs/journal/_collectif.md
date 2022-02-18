@@ -33,7 +33,7 @@ Pour continuer, la musique pour la fin de notre installation a été créée.
 
 Finalement, le journal adolescent est fini d'être rédigé et décoré.
 
-![journal](medias/s-journal_ado.jpg)
+![journal](medias/s-journal_ado_02.jpg)
 
 ## Semaine 3
 Cette semaine nous avons emprunté l’équipement pour notre installation!
