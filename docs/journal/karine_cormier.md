@@ -120,39 +120,40 @@ Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Retranscrire les mots censurer dans PHP
+- Avancement de la timeline Max avec Spout
+- Max recoit les messages du téléphone avec les bonnes actions
+- Les messages du public s'envoit à partir d'un autre ordinateur
+- Remplacer les notifications placeholder par les vrais
+- Remplacer le backgroud du téléphone
+- Ajout du CSS du téléphone adulte
+- Réparer la static du projecteur
+- Changer la kinect au plafond
+- Installation du matériel dans le studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 4 ](medias/k-css_adolescent.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous sommes venues tout les jours a l'école de 9h à 16h pour avancer le plus possible sur le projet et avons demander de l'aide au TTP et professeur au besoin.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+Ajout des notification de done pour les sons au lieu des délais. Finnission et test (avec placeholder) de la timeline Max. Ajout de Spout dans OBS.
 
 ---
 ## Semaine 5
