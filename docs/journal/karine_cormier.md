@@ -130,6 +130,7 @@ Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner 
 - Réparer la static du projecteur
 - Changer la kinect au plafond
 - Installation du matériel dans le studio
+- Rencontre d'élève pour l'appel de casting
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![réalisation semaine 4 ](medias/k-css_adolescent.jpg)
