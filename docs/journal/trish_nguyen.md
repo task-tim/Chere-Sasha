@@ -1,4 +1,4 @@
-# Journal de "Trish Nguyen"
+# Journal de Trish Nguyen
 ![portrait du participant ](../web/medias/participants/profil_trish.jfif)
 
 * [Semaine 1](#semaine-1)
