@@ -13,7 +13,7 @@
 ## Semaine 4
 Cette semaine nous avons commencé à installer l'équipement tels que le projecteur, la kinect et deux magics arms.
 
-![équipements](medias/jw-projecteur.jpg)
+![équipements](medias/jw-projecteur_02.jpg)
 
 
 Ensuite, nous avons trouvé nos doubleurs pour le père, le professeur, Sasha et les camarades.
