@@ -154,7 +154,7 @@ Nous sommes venues tout les jours a l'école de 9h à 16h pour avancer le plus p
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Ajout des notification de done pour les sons au lieu des délais. Finnission et test (avec placeholder) de la timeline Max. Ajout de Spout dans OBS.
+Ajout des notification de done pour les sons au lieu des délais. Finnission et test (avec placeholder) de la timeline Max. Ajout de Spout dans OBS. Relier Max avec OBS et QLC+.
 
 ---
 ## Semaine 5
