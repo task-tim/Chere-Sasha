@@ -13,12 +13,12 @@
 ## Semaine 4
 Cette semaine nous avons commencé à installer l'équipement tels que le projecteur, la kinect et deux magics arms.
 
-![équipements](medias/jw-projecteur.jpg)
+![équipements](medias/jw-projecteur_02.jpg)
 
 
 Ensuite, nous avons trouvé nos doubleurs pour le père, le professeur, Sasha et les camarades.
 
-![casting](medias/jw-casting.jpg)
+![casting](medias/jw-casting_02.jpg)
 
 
 Par la suite, le magnétic latch a été soudé à l'arduino pour la boîte à souvenir.
@@ -33,7 +33,7 @@ Pour continuer, la musique pour la fin de notre installation a été créée.
 
 Finalement, le journal adolescent est fini d'être rédigé et décoré.
 
-![journal](medias/s-journal_ado.jpg)
+![journal](medias/s-journal_ado_02.jpg)
 
 ## Semaine 3
 Cette semaine nous avons emprunté l’équipement pour notre installation!

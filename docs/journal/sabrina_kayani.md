@@ -1,4 +1,4 @@
-# Journal de "Sabrina Kayani"
+# Journal de Sabrina Kayani
 ![portrait du participant ](../web/medias/participants/fav.png)
 
 * [Semaine 1](#semaine-1)
@@ -128,6 +128,7 @@ Je me donne comme défi de remplir 15 autres pages de journal adolescent. Mon de
 - J'ai décoré la couverture du journal adolescent. 
 - J'ai confectionné le bracelet pour la boîte de souvenirs.
 - J'ai composé la musique pour accompagner la conclusion de notre projet. 
+- J'ai modifié les dialogues des camarades.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -154,7 +155,7 @@ J'ai réussi à transcrire les 15 pages finales du journal adolescent parce que 
 
 
 ### Défis pour la prochaine semaine
-Je me donne comme défi d'écrire 5 pages du journal adulte et de faire des dessins pour décorer la couverture du journal. Aussi, je me donne comme défi d'enregistrer la voix de deux camarades.
+Je me donne comme défi d'écrire 5 pages du journal adulte et de faire des dessins pour décorer la couverture du journal. Aussi, je me donne comme défi d'enregistrer la voix de deux camarades. Finalement, je me donne comme défi de tester le dimmer pack avec Trish.
 
 
 ---
