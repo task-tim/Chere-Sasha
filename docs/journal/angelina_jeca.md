@@ -150,47 +150,53 @@ Ne s'applique pas
 - Continuer la modification du patch Max pour la boite à souvenirs
 - Apprendre à utiliser le magnetic latch
 - Continuer à installer le matériel dans le studio
-- Modifier l'animation suite au demandes apporter à la préproduction (séparer le dernier message en plusieurs paragraphes)
+- Modifier l'animation suite aux demandes apporter à la préproduction (séparer le dernier message en plusieurs paragraphes)
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-- Casting
-- Modification application
-- Continuation patch Max
-- Texte pour l'envoie de messages à Sasha
+- Rencontres avec candidats pour le casting
+- Modification des logos d'applications pour le cellulaire
+- Continuation du patch Max 
+- Écriture du texte pour l'envoie de messages à Sasha
+- Écriture du texte pour les notifications du cellulaire
+- Installation du matériel dans le studio (haut-parleurs, carte de son, etc)
+- Modification de l'animation suite aux demandes apporter à la préproduction (séparer le dernier message en plusieurs paragraphes)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Textes](medias/a-texte1.png)
+![Textes](medias/a-texte2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout au long de la semaine, notre équipe s'est rejoint dans le grand studio. On travaillait sur le projet de 9AM a 4PM, tous les jours, pour avancer le projet le plus possible. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Continuer a installer le matériel dans le studio
+- Commencer a apporter les éléments de décors
+- Finir le patch Max pour la boite a souvenirs
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
