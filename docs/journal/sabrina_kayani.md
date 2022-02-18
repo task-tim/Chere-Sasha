@@ -1,4 +1,4 @@
-# Journal de "Sabrina Kayani"
+# Journal de Sabrina Kayani
 ![portrait du participant ](../web/medias/participants/fav.png)
 
 * [Semaine 1](#semaine-1)
@@ -128,6 +128,7 @@ Je me donne comme défi de remplir 15 autres pages de journal adolescent. Mon de
 - J'ai décoré la couverture du journal adolescent. 
 - J'ai confectionné le bracelet pour la boîte de souvenirs.
 - J'ai composé la musique pour accompagner la conclusion de notre projet. 
+- J'ai modifié les dialogues des camarades.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
