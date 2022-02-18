@@ -18,7 +18,7 @@ Cette semaine nous avons commencé à installer l'équipement tels que le projec
 
 Ensuite, nous avons trouvé nos doubleurs pour le père, le professeur, Sasha et les camarades.
 
-![casting](medias/jw-casting.jpg)
+![casting](medias/jw-casting_02.jpg)
 
 
 Par la suite, le magnétic latch a été soudé à l'arduino pour la boîte à souvenir.
