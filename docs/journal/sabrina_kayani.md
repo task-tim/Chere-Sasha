@@ -154,7 +154,7 @@ J'ai réussi à transcrire les 15 pages finales du journal adolescent parce que 
 
 
 ### Défis pour la prochaine semaine
-Je me donne comme défi d'écrire 3 pages du journal adulte et de faire des dessins pour décorer la couverture du journal. Aussi, je me donne comme défi d'amener le lit gonflable au studio et l'installer.
+Je me donne comme défi d'écrire 5 pages du journal adulte et de faire des dessins pour décorer la couverture du journal. Aussi, je me donne comme défi d'enregistrer la voix de deux camarades.
 
 
 ---

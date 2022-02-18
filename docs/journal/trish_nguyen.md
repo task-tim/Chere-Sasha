@@ -154,7 +154,11 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- déplacée la kinnect
+- achetée la boîte à souvenir
+- fini l'ambiance sonore côté adulte
+- validées les ambinaces sonores
+- Installer le projecteur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
