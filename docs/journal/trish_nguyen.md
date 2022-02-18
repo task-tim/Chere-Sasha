@@ -162,6 +162,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - fait la bannière Moebius
 - soudée la magnétic latch
 - déplacée les faux murs
+- correction au dialogues des personnages
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![bannière moebius](medias/t-moebius.png)
