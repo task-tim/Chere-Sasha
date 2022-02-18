@@ -198,6 +198,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - apporter le decors au studio
 - produire des sons de notification et de sonnerie pour le téléphone
 - commencer la spatialisation sonore
+- faire le dimmer pack avec Sabrina (contente de te revoir!)
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
