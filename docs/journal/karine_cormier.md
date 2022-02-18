@@ -134,7 +134,7 @@ Retranscrire la liste de mot censurer dans le tableau PHP. Continuer de pofiner 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![réalisation semaine 4 ](medias/k-css_adolescent.jpg)
-
+![réalisation semaine 4 ](medias/k-censure.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
