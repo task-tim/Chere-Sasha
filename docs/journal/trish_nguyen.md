@@ -148,7 +148,6 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 ### Défis pour la prochaine semaine
 - Finir le montage de l'ambiance sonore côté adulte
 - Acheter la boîte de souvenir 
-- Trouver un cellulaire pour remplacer l'Ipod Touch
 - Déplacer la kinnect 
 - Installer le projecteur et possiblement les hauts-parleurs
 ---
@@ -158,40 +157,46 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - achetée la boîte à souvenir
 - fini l'ambiance sonore côté adulte
 - validées les ambinaces sonores
-- Installer le projecteur
+- Installée le projecteur
+- rencontrée pour les canditats du casting
+- fait la bannière Moebius
+- soudée la magnétic latch
+- déplacée les faux murs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![bannière moebius](medias/t-moebius.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ (x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(X)
 
 ### Défis pour la prochaine semaine
-
+- apporter le decors au studio
+- produire des sons de notification et de sonnerie pour le téléphone
+- commencer la spatialisation sonore
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
