@@ -200,7 +200,8 @@ Ne s'applique pas
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Patch Max pour la boite à souvenis est fini!!!!!
+- Borne kiosque pour l'envoie de messages à la fin
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
