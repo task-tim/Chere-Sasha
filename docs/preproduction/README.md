@@ -141,17 +141,17 @@ Une lumière s'allume au-dessus de la poubelle déjà renversée. Le public est 
 
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
-CAMARADE 1 : Eille c'est tu elle?
+CAMARADE 1 : Eille, c’est tu elle? Tsé Sasha? (pause) Ouais, ouais je sais, c’est fou. J’gage qu’elle fait ca pour l’attention. J’savais pas qu’elle était comme ça. (rire moqueur)
 
 Les camarades commencent à rire et des chuchotements incompréhensibles peuvent être entendus.
 
-CAMARADE 2 : Ah peux-tu sortir des toilettes, je ne suis pas confortable.
+CAMARADE 2 : Euh, c'tu toi Sasha? J’me sens mal de dire ça, est-ce que tu peux te changer ailleurs? C’est vraiment pas de ta faute, mais j’suis pas confortable… Prend le pas personnelle.
 
-CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
+CAMARADE 3 : Ah comme c'est dommage, t’es tellement belle. Il y’a tellement de bons gars que tu pourrais avoir. En tout cas, si jamais tu change d’idée, j’suis là.
 
-CAMARADE 4 : Ark je pensais qu'elle avait un œil sur moi.
+CAMARADE 4 : Ark, je pense qu'elle a un œil sur moi. Elle c’est tu regardé dans le miroir? À’se prend pour qui, elle? (rire)
 
-PROFESSEUR : J'ai remarqué que tes notes on descendues.
+PROFESSEUR : Scuse moi Sasha … Puis-je te parler? (pause) Ouais, j'ai remarqué, tes notes ont descendues. Est-ce que ça va? (pause) Tu sais, si y’a quoi que ce soit, tu peux m’en parler. 
 
 **SCÈNE 03 ADOLESCENTE**
 
