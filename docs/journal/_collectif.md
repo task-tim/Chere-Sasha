@@ -16,8 +16,8 @@ Cette semaine fut une semaine productive. Nous avons tout d’abord installé de
 
 Ensuite, nous avons installé deux lumières ellipsoïdales au plafond.
 
-![lumieres](medias/jw-projecteur_02.jpg)
-
+![lumieres](medias/jw-lumiere_ellipse.jpg)
+![lumieres](medias/jw-lumiere_spot.jpg)
 
 Par la suite, nous avons enregistré 4 doubleurs et nous avons fait un test de spatialisation des voix sur Reaper.
 
