@@ -161,39 +161,42 @@ Je me donne comme défi d'écrire 5 pages du journal adulte et de faire des dess
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- J’ai installé des lumières
+- J’ai installé des speakers
+- J’ai fait l’enregistrement des voix de 4 camarades
+- J’ai fait des dessins pour le journal adulte
+- J'ai fait le signet pour le journal adulte
+- J’ai écrit 11 entrées de journal adulte
+- J’ai amené ma lampe de lave à l’école
+- J'ai testé le dimmer pack avec la lampe à lave
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![bandlab](medias/s-dessins_journal.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Cette semaine, j’ai pu enfin retourner à l’école! Lundi, mon équipe m’a expliqué en détail ce que j’ai manqué. Ça m’a permis de comprendre tout ce qu’on devait réaliser durant la semaine. Donc, j’ai ainsi commencé à installer nos lumières et hauts parleurs à l’aide de mes coéquipières. Par la suite, entre-temps, j’écrivais le journal et je faisais les dessins sur mon portable une fois arrivé chez moi. Finalement, pour les enregistrements, on avait toute préparé une journée avant les enregistrements des doubleurs pour s’assurer que tout le micro et l'enregistrement fonctionnaient bien.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Mon premier défi serait d’amener le lit gonflable, la table à chevet, un fauteuil poire, une poubelle, des vêtements et les couvertures de lit au studio pour ensuite commencer l’installation de la chambre. Ensuite, mon deuxième défi serait d’enregistrer les restant des voix. Mon dernier défi serait de retranscrire les entrées de journal adulte dans le journal physique et continuer à faire des dessins pour le journal.
+
 
 ---
 ## Semaine de rattrapage
