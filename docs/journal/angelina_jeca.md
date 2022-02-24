@@ -200,41 +200,50 @@ Ne s'applique pas
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-- Patch Max pour la boite à souvenis est fini!!!!!
-- Borne kiosque pour l'envoie de messages à la fin
+- Finition du patch Max pour la boite à souvenis!!!!
+- Apprentissage de la borne kiosque sur Windows pour l'envoie de messages à la fin
+- Commencement du signet pour le journal coté adolescent
+- Enregistrement pour le casting (camarade 1,3,4,5) 
+- Installation du matériel dans le studio (haut-parleurs (magic-arms), etc)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Textes](medias/a-patchmax.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Toute la semaine, notre équipe s'est rejoint dans le grand studio. On travaillait sur le projet de 9AM à 4PM, tous les jours, pour avancer le projet le plus possible. 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Adapter le code Max de la boite à souvenirs à la timeline
+- Finir le signet pour le journal coté adolescent
+- Continuer l'installation
+- Amener des décors (plantes, cahier, etc)
+- Terminer le branchement du plafond
+- Finir l'enregistrement des voix 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
