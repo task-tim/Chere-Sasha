@@ -200,7 +200,7 @@ Ne s'applique pas
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-- Finition du patch Max pour la boite à souvenis!!!!
+- Finition du patch Max pour la boite à souvenirs!!!!
 - Apprentissage de la borne kiosque sur Windows pour l'envoie de messages à la fin
 - Commencement du signet pour le journal coté adolescent
 - Enregistrement pour le casting (camarade 1,3,4,5) 
