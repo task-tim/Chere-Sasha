@@ -244,6 +244,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - finir d'enregistrer les voix (Sasha, père et professeur)
 - finir la spatialisation ado et adulte
 - commencer le montage des doubleurs (camarades et professeur)
+- corriger le banner Moebius
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
