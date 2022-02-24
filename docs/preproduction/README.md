@@ -141,17 +141,17 @@ Une lumière s'allume au-dessus de la poubelle déjà renversée. Le public est 
 
 Dans la vidéo, on voit la perspective de Sasha qui entre dans sa chambre et commence à mettre les ordures dans la poubelle. À ce moment, on peut entendre les insultes et réprimandes de ses camarades de classe et les inquiétudes de son professeur.
 
-CAMARADE 1 : Eille c'est tu elle?
+CAMARADE 1 : Eille, c’est tu elle? Tsé Sasha? (pause) Ouais, ouais je sais, c’est fou. J’gage qu’elle fait ca pour l’attention. J’savais pas qu’elle était comme ça. (rire moqueur)
 
 Les camarades commencent à rire et des chuchotements incompréhensibles peuvent être entendus.
 
-CAMARADE 2 : Ah peux-tu sortir des toilettes, je ne suis pas confortable.
+CAMARADE 2 : Euh, c'tu toi Sasha? J’me sens mal de dire ça, est-ce que tu peux te changer ailleurs? C’est vraiment pas de ta faute, mais j’suis pas confortable… Prend le pas personnelle.
 
-CAMARADE 3 : Oh comme c'est dommage, tu es tellement belle.
+CAMARADE 3 : Ah comme c'est dommage, t’es tellement belle. Il y’a tellement de bons gars que tu pourrais avoir. En tout cas, si jamais tu change d’idée, j’suis là.
 
-CAMARADE 4 : Ark je pensais qu'elle avait un œil sur moi.
+CAMARADE 4 : Ark, je pense qu'elle a un œil sur moi. Elle c’est tu regardé dans le miroir? À’se prend pour qui, elle? (rire)
 
-PROFESSEUR : J'ai remarqué que tes notes on descendues.
+PROFESSEUR : Scuse moi Sasha … Puis-je te parler? (pause) Ouais, j'ai remarqué, tes notes ont descendues. Est-ce que ça va? (pause) Tu sais, si y’a quoi que ce soit, tu peux m’en parler. 
 
 **SCÈNE 03 ADOLESCENTE**
 
@@ -275,28 +275,38 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs (Haut parleur Neumann  KH80 DSP)
-    * 4 Câble XLR 25'
+    * 4 haut-parleurs (Hauts-parleurs Genelec 8010 8")
     * 1 mini haut-parleur (Petit speaker portable / bluetooth - Divoom Airbeat-10)
+    * 1 carte de son (Carte de son Berhinger U-Phoria 8 in 8 out)
+    * 5 cables XLR
+    * 4 cables XLR-Jack
+    * 4 cables d'alimentaion haut-parleur
+    * 2 Magic arm
+    * 2 trépied à lumière (temporaire)
 
 * Vidéo
-    * 1 projecteur vidéo lentille standard (Projecteur grand angle, ratio 0.5)
-    * 1 système d'accrochage (Câble de sécurité)
+    * 1 projecteur vidéo lentille standard (Projecteur short throw, ratio 0.3, 5000 lumens)
+    * 1 Extender réseau HDMI
+    * 2 cables HDMI
+    * 2 cables Ethernet
     * Caméra (go pro)
 
 * Lumière
     * 2 spots de lumière (chauvet DJ EVE E-100W Warm white Ellipsoidal Spot)
     * 3 lumières de couleur (Chauvet SlimPAR Pro H USB)
+    * Dimmer pack DMX - 4 out
+    * 5 cables d'alimentation de lumière
+    * 6 cables XLR 
+    * 1 cables XRL-USB
     * 1 lampe de lave
     * 1 lampe de bureau
-    * 9 fils XLR 
-    * Dimmer pack DMX - 4 out
 
 * Électricité
-    * 2 extentions (Extension électrique)
+    * 5 extentions (Extension électrique)
 
 * Réseau
-    * 3 câbles ethernet
+    * 6 câbles ethernet
+   
 * Ordinateur
     * 1 ordinateur
     * Ordinateur portable PC
@@ -305,6 +315,9 @@ Le projecteur s'éteint lentement après la dernière phrase. Un autre projecteu
     * Kinect V1 + Adapteur pour PC
     * Photorésistance
     * Arduino nano
+    * Magnetic latch
+    * système d'accrochage (Câble de sécurité)
+    * 1 boite ethernet
     
 
 ## Logiciels requis

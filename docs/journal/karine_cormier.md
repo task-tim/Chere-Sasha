@@ -159,39 +159,48 @@ Ajout des notification de done pour les sons au lieu des délais. Finnission et 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Changement de BEAP vers sfplay pour le son
+- Test de la timeline avec placeholder
+- Liaison de Max vers QLC+
+- Liaison de Max vers OBS
+- Liaison d'OBS et les vidéos avec Spout
+- Intégration des téléphones dans la timeline Max
+- Installation des spots ellipsoïdales
+- Branchement de la majorité des lumières
+- Branchement des haut-parleurs de gauche 
+- Test du dimmer pack avec QLC+ et de la lavalamp
+- Enregistrement de 4 cammarades
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 5 ](medias/k-timeline.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ Nous sommes venus à l'école tout les jours pour travailler sur le projet.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+- Ajuster la timeline pour sfplay
+- Mettre les parties différentes de la timeline dans des sous patchs
+- Teste d'avantage la timeline
+- Ammener des décors (table de chevet, bouteille vide, etc)
+- Finir de brancher l'équipement au plafond
+- Finir de brancher les haut-parleurs de droit
 
 ---
 ## Semaine de rattrapage
