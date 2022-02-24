@@ -9,6 +9,38 @@
 ## Semaine 6
 
 ## Semaine 5
+Cette semaine fut une semaine productive. Nous avons tout d’abord installé des haut-parleurs.
+
+![haut-parleurs](medias/jw-speaker_arm.jpg)
+
+
+Ensuite, nous avons installé deux lumières ellipsoïdales au plafond.
+
+![lumieres](medias/jw-projecteur_02.jpg)
+
+
+Par la suite, nous avons enregistré 4 doubleurs et nous avons fait un test de spatialisation des voix sur Reaper.
+
+![doubleurs](medias/jw-doubleur_01.jpg)
+![doubleurs](medias/jw-doubleur_02.jpg)
+
+De plus, les déclenchements sur Max on été testé. SF Play a été ajouté dans notre patch Max. Max est relié à QLC plus. OBS est relié à Spout.
+
+![max](medias/k-timeline.PNG)
+
+
+Pour continuer, Trish a amené une boîte à souvenir à l’école ce qui a permis de tester le magnétique latch avec le code complété. 
+
+![boîte_de_souvenir](medias/a-patchmax.PNG)
+
+
+Aussi, 6 pages de journal adolescent ont été écrites. De plus, les dessins pour le journal ont été dessinés. Finalement, le signet pour le journal a été créé. 
+
+![journal](medias/s-dessins_journal.jpg)
+
+
+Nous avons hâte d'installer les décors de la chambre de Sasha!
+
 
 ## Semaine 4
 Cette semaine nous avons commencé à installer l'équipement tels que le projecteur, la kinect et deux magics arms.
