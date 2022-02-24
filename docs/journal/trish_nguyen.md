@@ -204,12 +204,15 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 ### Résumé des réalisations effectuées
 - produit le sons de notification et les deux sonnerie pour le téléphone
 - Fait un test de spatialisation sonore dans les hauts-parleurs
-- Fait la majorité de la spatialisation de l'ambiance ado
+- Fini la spatialisation de l'ambiance ado et adulte
 - brancher les hauts-parleurs au carte de son
 - fait le dimmer pack
 - enregistrement du casting
 ### Image d'une réalisation dont tu es la ou le plus fier
-![spatialisation sonore](medias/t-spatialisation.png)
+patch Reaper pour le côté adolescent
+![spatialisation sonore ado](medias/t-son-ado.png)
+patch Reaper pour le côté adulte
+![spatialisation sonore adulte](medias/t-son-adu.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -242,8 +245,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - finir câblage au plafond
 - changer le branchement des hauts-parleurs
 - finir d'enregistrer les voix (Sasha, père et professeur)
-- finir la spatialisation ado et adulte
-- commencer le montage des doubleurs (camarades et professeur)
+- finir le montage des doubleurs (camarades, professeur, sasha et père)
 - corriger le banner Moebius
 ---
 ## Semaine de rattrapage
