@@ -207,7 +207,7 @@ Ne s'applique pas
 - Installation du matériel dans le studio (haut-parleurs (magic-arms), etc)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Textes](medias/a-patchmax.png)
+![Textes](medias/a-patchmax.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
