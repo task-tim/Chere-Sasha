@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.12.4</Version>
@@ -10,7 +10,9 @@
   <InputOutputMap>
    <Universe Name="Universe 1" ID="0">
     <Input Plugin="OSC" Line="0"/>
-    <Output Plugin="DMX USB" Line="0"/>
+    <Output Plugin="DMX USB" Line="0">
+     <PluginParameters UniverseChannels="28"/>
+    </Output>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
@@ -26,9 +28,90 @@
    <Address>0</Address>
    <Channels>4</Channels>
   </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>1</ID>
+   <Name>Dimmers</Name>
+   <Universe>0</Universe>
+   <Address>4</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>2</ID>
+   <Name>Dimmers</Name>
+   <Universe>0</Universe>
+   <Address>7</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Chauvet</Manufacturer>
+   <Model>SlimPAR Pro H USB</Model>
+   <Mode>6 Channel</Mode>
+   <ID>3</ID>
+   <Name>SlimPAR Pro H USB</Name>
+   <Universe>0</Universe>
+   <Address>10</Address>
+   <Channels>6</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Chauvet</Manufacturer>
+   <Model>SlimPAR Pro H USB</Model>
+   <Mode>6 Channel</Mode>
+   <ID>4</ID>
+   <Name>SlimPAR Pro H USB</Name>
+   <Universe>0</Universe>
+   <Address>16</Address>
+   <Channels>6</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Chauvet</Manufacturer>
+   <Model>SlimPAR Pro H USB</Model>
+   <Mode>6 Channel</Mode>
+   <ID>5</ID>
+   <Name>SlimPAR Pro H USB</Name>
+   <Universe>0</Universe>
+   <Address>22</Address>
+   <Channels>6</Channels>
+  </Fixture>
   <Function ID="0" Type="Scene" Name="lavalamp">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <FixtureVal ID="0">0,255</FixtureVal>
+  </Function>
+  <Function ID="1" Type="Scene" Name="poubelle">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="1">0,255</FixtureVal>
+  </Function>
+  <Function ID="2" Type="Scene" Name="journalAdo">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="2">0,255</FixtureVal>
+  </Function>
+  <Function ID="3" Type="Scene" Name="coteAdulte">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="3">0,254,1,99,2,255</FixtureVal>
+  </Function>
+  <Function ID="4" Type="Scene" Name="coteAdo">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4">0,127,1,73,2,234,3,0,4,214,5,0</FixtureVal>
+  </Function>
+  <Function ID="5" Type="Scene" Name="portable">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="5">0,255,1,255,2,162,3,0,4,0,5,0</FixtureVal>
+  </Function>
+  <Function ID="6" Type="Chaser" Name="jeuLumiere">
+   <Speed FadeIn="0" FadeOut="0" Duration="1000"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Random</RunOrder>
+   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="Common"/>
+   <Step Number="0" FadeIn="2000" Hold="0" FadeOut="1000">3</Step>
+   <Step Number="1" FadeIn="0" Hold="1000" FadeOut="0">1</Step>
+   <Step Number="2" FadeIn="0" Hold="1000" FadeOut="0">5</Step>
+   <Step Number="3" FadeIn="2000" Hold="0" FadeOut="1000">4</Step>
+   <Step Number="4" FadeIn="0" Hold="1000" FadeOut="0">2</Step>
   </Function>
  </Engine>
  <VirtualConsole>
@@ -41,7 +124,7 @@
     <Font>Default</Font>
    </Appearance>
    <Slider Caption="jeuLumiere" ID="0" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="90" Y="115" Width="175" Height="155"/>
+    <WindowState Visible="False" X="90" Y="115" Width="175" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -57,7 +140,7 @@
     </Playback>
    </Slider>
    <Slider Caption="telephoneAdo" ID="1" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="270" Y="115" Width="185" Height="155"/>
+    <WindowState Visible="False" X="270" Y="115" Width="185" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -73,7 +156,7 @@
     </Playback>
    </Slider>
    <Slider Caption="poubelleAdo" ID="2" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="460" Y="115" Width="160" Height="155"/>
+    <WindowState Visible="False" X="460" Y="115" Width="160" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -85,11 +168,11 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>1</Function>
     </Playback>
    </Slider>
    <Slider Caption="journalAdo" ID="3" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="625" Y="115" Width="165" Height="155"/>
+    <WindowState Visible="False" X="625" Y="115" Width="165" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -101,11 +184,11 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>2</Function>
     </Playback>
    </Slider>
    <Slider Caption="coteAdulte" ID="4" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="90" Y="280" Width="175" Height="165"/>
+    <WindowState Visible="False" X="90" Y="280" Width="175" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -117,11 +200,11 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>3</Function>
     </Playback>
    </Slider>
    <Slider Caption="boiteSouvenir" ID="5" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="270" Y="280" Width="185" Height="165"/>
+    <WindowState Visible="False" X="270" Y="280" Width="185" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -133,11 +216,11 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>0</Function>
     </Playback>
    </Slider>
    <Slider Caption="telephoneAdulte" ID="6" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="630" Y="280" Width="160" Height="165"/>
+    <WindowState Visible="False" X="630" Y="280" Width="160" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -153,7 +236,7 @@
     </Playback>
    </Slider>
    <Slider Caption="journalAdulte" ID="7" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="460" Y="280" Width="160" Height="165"/>
+    <WindowState Visible="False" X="460" Y="280" Width="160" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -168,7 +251,7 @@
     </Playback>
    </Slider>
    <Slider Caption="portable" ID="8" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="800" Y="115" Width="120" Height="330"/>
+    <WindowState Visible="False" X="800" Y="280" Width="175" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -180,7 +263,22 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>5</Function>
+    </Playback>
+   </Slider>
+   <Slider Caption="coteAdo" ID="9" WidgetStyle="Slider" InvertedAppearance="false">
+    <WindowState Visible="False" X="800" Y="115" Width="175" Height="155"/>
+    <Appearance>
+     <FrameStyle>Sunken</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
+    <Level LowLimit="0" HighLimit="255" Value="0"/>
+    <Playback>
+     <Function>4</Function>
     </Playback>
    </Slider>
   </Frame>
