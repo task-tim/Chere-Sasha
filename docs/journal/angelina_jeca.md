@@ -244,6 +244,7 @@ Ne s'applique pas
 - Amener des décors (plantes, cahier, etc)
 - Terminer le branchement du plafond
 - Finir l'enregistrement des voix 
+- Conceptualiser des posters
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
