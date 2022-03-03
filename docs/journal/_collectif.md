@@ -9,7 +9,7 @@
 ## Semaine de rattrapage
 Cette semaine, nous avons fini l’enregistrement des doubleurs du père, de Sasha, du professeur et des camarades!
 
-![voix](medias/t-voix.png)
+![voix](medias/jw-doubleurs.jpg)
 
 
 Tout d’abord, nous avons amené toutes les décorations nécessaires au tournage du samedi.
@@ -24,7 +24,7 @@ Ensuite, nous avons terminé d’installer tout l’équipement nécessaire à n
 
 Par la suite, nous avons créé des lumières sur QLC plus pour notre jeu de lumière (chasser).
 
-![qlc](medias/jw-qlc_chasser.jpg)
+![qlc](medias/jw-qlc_chasser.gif)
 
 
 ## Semaine 5
