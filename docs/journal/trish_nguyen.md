@@ -249,40 +249,49 @@ patch Reaper pour le côté adulte
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- amené les lampes et la table
+- Fini les branchements des hauts-parleurs
+- fini l'enregistrement des voix 
+- commencé le montage des doubleurs
+- corrigé la spatialisation sonore
+- corrigé le banner Moebius
+- dessiner le croquis de l'affiche
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![montage de l'intro](medias/t-voix.png)
 
-
+![le casting](medias/t-casting.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai pas fini le montage sonore.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai décidé de prioriser l'affiche plutôt que l'e montage sonore, car guillaume doit l'imprimer avant qu'il part pour paris.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
+- finir l'affiche
+- finir le montage sonore de la voix Sasha + Père
+- commence le montage sonore des camarades + professeur
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
