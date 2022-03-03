@@ -292,6 +292,7 @@ J'ai décidé de prioriser l'affiche plutôt que l'e montage sonore, car guillau
 - finir l'affiche
 - finir le montage sonore de la voix Sasha + Père
 - commence le montage sonore des camarades + professeur
+- acheter ou amener du décors
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
