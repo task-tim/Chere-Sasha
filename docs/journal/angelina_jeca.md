@@ -244,44 +244,52 @@ Ne s'applique pas
 - Amener des décors (plantes, cahier, etc)
 - Terminer le branchement du plafond
 - Finir l'enregistrement des voix 
-- Conceptualiser des posters
+- Conceptualiser des affiches
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Placement des tables de chevet
+- Décoration de la poubelle (sauf qu'a cause du concierge, ça doit être refait)
+- Finition du signet adolescent
+- Amener des décors
+- Enregistrement des voix
+- Croquis et début de la conceptualisation des affcihes
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Signet](medias/a-signetado.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout au long de la semaine, notre équipe s'est rejoint dans le grand studio. On travaillait sur le projet de 9AM a 4PM, pour avancer le projet le plus possible. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Finir la conceptualisation des affiches
+- Filmer pour les projections de l'installation
+- Faire le montage vidéo
+- Décorer l'installation
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
