@@ -242,7 +242,6 @@ patch Reaper pour le côté adulte
 
 ### Défis pour la prochaine semaine
 - amener le décors
-- finir câblage au plafond
 - changer le branchement des hauts-parleurs
 - finir d'enregistrer les voix (Sasha, père et professeur)
 - finir le montage des doubleurs (camarades, professeur, sasha et père)
