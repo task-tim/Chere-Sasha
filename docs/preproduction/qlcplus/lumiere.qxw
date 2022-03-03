@@ -92,7 +92,7 @@
   </Function>
   <Function ID="3" Type="Scene" Name="coteAdulte">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="3">0,254,1,99,2,255</FixtureVal>
+   <FixtureVal ID="3">0,251,1,236,2,70,3,66,4,0,5,0</FixtureVal>
   </Function>
   <Function ID="4" Type="Scene" Name="coteAdo">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -100,18 +100,19 @@
   </Function>
   <Function ID="5" Type="Scene" Name="portable">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="5">0,255,1,255,2,162,3,0,4,0,5,0</FixtureVal>
+   <FixtureVal ID="5">0,255,1,255,2,255,3,0,4,255,5,0</FixtureVal>
   </Function>
   <Function ID="6" Type="Chaser" Name="jeuLumiere">
    <Speed FadeIn="0" FadeOut="0" Duration="1000"/>
    <Direction>Forward</Direction>
-   <RunOrder>Random</RunOrder>
+   <RunOrder>Loop</RunOrder>
    <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="Common"/>
    <Step Number="0" FadeIn="2000" Hold="0" FadeOut="1000">3</Step>
-   <Step Number="1" FadeIn="0" Hold="1000" FadeOut="0">1</Step>
-   <Step Number="2" FadeIn="0" Hold="1000" FadeOut="0">5</Step>
-   <Step Number="3" FadeIn="2000" Hold="0" FadeOut="1000">4</Step>
-   <Step Number="4" FadeIn="0" Hold="1000" FadeOut="0">2</Step>
+   <Step Number="1" FadeIn="2000" Hold="0" FadeOut="1000">4</Step>
+  </Function>
+  <Function ID="7" Type="Scene" Name="telephoneAdo">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0"/>
   </Function>
  </Engine>
  <VirtualConsole>
@@ -136,7 +137,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>0</Function>
+     <Function>6</Function>
     </Playback>
    </Slider>
    <Slider Caption="telephoneAdo" ID="1" WidgetStyle="Slider" InvertedAppearance="false">
@@ -244,6 +245,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
+    <Input Universe="0" Channel="28788"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
