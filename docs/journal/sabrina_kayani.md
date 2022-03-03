@@ -201,40 +201,39 @@ Mon premier défi serait d’amener le lit gonflable, la table à chevet, un fau
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
+- J’ai amené le lit, la table à chevet, la poubelle, le fauteuil poire et les couvertures de lit.
+- J’ai fait le setup du sound device et j’ai testé si l’enregistrement était fonctionnel.
+- J’ai fait l’enregistrement des voix du père, de Sasha et du dernier camarade.
+- J’ai ajusté le gain des 4 haut-parleurs pour diminuer le noise.
+- J’ai écrit 5 entrées de journal adulte.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![gain](medias/s-gain_01.jpg)
+![gain](medias/s-gain_02.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Cette semaine, j’ai pu ajuster le gain des 4 haut-parleurs parce qu’on les avait déjà installés la semaine précédente. Donc, je m’assurais qu’il n’ait pas de noise qui sorte des haut-parleurs. Ensuite, j’ai pu amener les décors à l’école parce que mon équipe et moi, avions décidé de venir tous porter le samedi au studio. Finalement, les enregistrements des doubleurs a pu être fait parce qu’on avait déjà fait le casting pour ces rôles.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
-
+Mon premier défi serait d’installer la chambre en plaçant les décors au bon endroit avec mon équipe. Mon deuxième défi serait d’enregistrer les vidéos qui seront projetées sur le mur. Mon dernier défi serait de compléter le journal adulte et d’amener les 2 journaux à l’école. 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
