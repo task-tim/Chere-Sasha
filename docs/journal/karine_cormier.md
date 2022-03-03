@@ -205,39 +205,45 @@ Ajout des notification de done pour les sons au lieu des délais. Finnission et 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Sfplay est complètement intégré dans la timeline
+- Ajout de sous patch pour les intéraction
+- Test de la timeline
+- Ammener les décors de chez moi
+- Création des lumières dans qlcplus et du chaser
+- Finission de branchement de l'équipement
+- Enregistrement du casting
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![réalisation semaine rattrapage ](medias/k-sfplay.PNG)
+![réalisation semaine rattrapage ](medias/k-qlcplus.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'avance pour accéléré l'enregistrement. Nous sommes aussi venu à l'école presque tout les jours pour avancer le projet 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+- Intégrer le code de la kinect dans max
+- Intégrer le contrôle de son des ambiance sonore dans max
+- Changer les délais de temps pour les notifications cellulaires
+- Ajouter les sons de notification et la sonenrie de téléphone dans le JavaScript
+- Plastifier les signets
+- Filmer les scènes vidéos
+- Achter les décors manquant
 
 ---
 ## Semaine 6
