@@ -214,8 +214,8 @@ Ajout des notification de done pour les sons au lieu des délais. Finnission et 
 - Enregistrement du casting
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![réalisation semaine rattrapage ](medias/k-sfplay.PNG)
-![réalisation semaine rattrapage ](medias/k-qlcplus.PNG)
+![réalisation semaine rattrapage ](medias/k-sfplay.png)
+![réalisation semaine rattrapage ](medias/k-qlcplus.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
