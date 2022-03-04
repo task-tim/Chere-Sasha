@@ -240,7 +240,7 @@ Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'a
 - Intégrer le code de la kinect dans max
 - Intégrer le contrôle de son des ambiance sonore dans max
 - Changer les délais de temps pour les notifications cellulaires
-- Ajouter les sons de notification et la sonenrie de téléphone dans le JavaScript
+- Ajouter les sons de notification et la sonnerie de téléphone dans le JavaScript
 - Plastifier les signets
 - Filmer les scènes vidéos
 - Achter les décors manquant
