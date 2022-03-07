@@ -12,7 +12,7 @@
 #X obj 297 423 netsend -u -b;
 #X obj 579 49 loadbang;
 #X obj 230 243 oscformat z1;
-#X msg 47 316 2;
+#X msg 47 316 0;
 #X obj 381 330 loadbang;
 #X msg 382 365 connect localhost 7700;
 #X msg 50 31 listen 54321;
@@ -27,6 +27,7 @@
 #X connect 7 0 13 0;
 #X connect 8 0 12 0;
 #X connect 9 0 8 0;
+#X connect 11 0 16 0;
 #X connect 12 0 10 0;
 #X connect 14 0 15 0;
 #X connect 15 0 10 0;

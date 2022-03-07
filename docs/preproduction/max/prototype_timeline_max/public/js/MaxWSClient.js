@@ -21,6 +21,8 @@ let secondeAppel = 0;
 let minuteAppel = 0;
 let appelTemps;
 let timer;
+const notif = new Audio('img/notif.wav');
+const sonnerie = new Audio('img/sonnerieAdo.wav');
 
 function horloge(){
 	let date = new Date();
@@ -73,30 +75,35 @@ ws.onmessage = function (event) {
 		 const ignoreAppel = function(){
 		   raccroche.style.display="block";  
 		   phoneCall.style.display="none";
+		   sonnerie.pause();
 		   document.body.style.backgroundColor= "black";
 		   ws.send("/raccroche 1");
 		   setTimeout(function(){
 			window.location.reload(true);
 		   }, 2000)
 		   }
-		 timer = setTimeout(ignoreAppel, 20000);
+		 timer = setTimeout(ignoreAppel, 46500);
 		 
 		 //notification, appel
 		 setTimeout(function() {
 			box4.style.display="block";
-		  }, 2000);
+			notif.play();
+		  }, 3000);
 
 		 setTimeout(function() {
 		   box3.style.display="block";
-		 }, 4000);
+		   notif.play();
+		 }, 5000);
 		 
 		 setTimeout(function() {
 		   box2.style.display="block";
-		 }, 6000);
+		   notif.play();
+		 }, 8000);
 		 
 		 setTimeout(function() {
-		   box1.style.display="block";  
-		 }, 8000);
+		   box1.style.display="block"; 
+		   notif.play(); 
+		 }, 12000);
 		 
 		 setTimeout(function() {
 		   phoneCall.style.display="block";  
@@ -105,7 +112,8 @@ ws.onmessage = function (event) {
 		   box3.style.display="none";
 		   box1.style.display="none";
 		   document.body.style.backgroundColor= "purple";
-		 }, 10000);
+		   sonnerie.play();
+		 }, 16000);
 		 
 		 //click du bouton raccrocher
 		 btnraccrocher.addEventListener("click", function(){

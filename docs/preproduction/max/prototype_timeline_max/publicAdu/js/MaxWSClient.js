@@ -21,6 +21,8 @@ let secondeAppel = 0;
 let minuteAppel = 0;
 let appelTemps;
 let timer;
+const notif = new Audio('img/notif.wav');
+const sonnerie = new Audio('img/sonnerieAdulte.wav');
 
 function horloge(){
 	let date = new Date();
@@ -55,7 +57,6 @@ ws.onopen = function (event) {
 window.onbeforeunload = function(){
   ws.close();
 };
-
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
@@ -72,6 +73,7 @@ ws.onmessage = function (event) {
 		 //si on ignore l'appel
 		 const ignoreAppel = function(){
 		   raccroche.style.display="block";  
+		   sonnerie.pause();
 		   phoneCall.style.display="none";
 		   document.body.style.backgroundColor= "black";
 		   ws.send("/raccroche 1");
@@ -79,24 +81,28 @@ ws.onmessage = function (event) {
 			window.location.reload(true);
 		   }, 2000)
 		   }
-		 timer = setTimeout(ignoreAppel, 20000);
+		 timer = setTimeout(ignoreAppel, 50000);
 		 
 		 //notification, appel
 		 setTimeout(function() {
 			box4.style.display="block";
-		  }, 2000);
+			notif.play();
+		  }, 3000);
 
 		 setTimeout(function() {
 		   box3.style.display="block";
-		 }, 4000);
+		   notif.play();
+		 }, 7000);
 		 
 		 setTimeout(function() {
 		   box2.style.display="block";
-		 }, 6000);
+		   notif.play();
+		 }, 9000);
 		 
 		 setTimeout(function() {
 		   box1.style.display="block";  
-		 }, 8000);
+		   notif.play();
+		 }, 11000);
 		 
 		 setTimeout(function() {
 		   phoneCall.style.display="block";  
@@ -105,7 +111,8 @@ ws.onmessage = function (event) {
 		   box3.style.display="none";
 		   box1.style.display="none";
 		   document.body.style.backgroundColor= "purple";
-		 }, 10000);
+		   sonnerie.play();
+		 }, 17000);
 		 
 		 //click du bouton raccrocher
 		 btnraccrocher.addEventListener("click", function(){
