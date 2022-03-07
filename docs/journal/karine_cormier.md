@@ -214,8 +214,8 @@ Ajout des notification de done pour les sons au lieu des délais. Finnission et 
 - Enregistrement du casting
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![réalisation semaine rattrapage ](medias/k-sfplay.PNG)
-![réalisation semaine rattrapage ](medias/k-qlcplus.PNG)
+![réalisation semaine rattrapage ](medias/k-sfplay.png)
+![réalisation semaine rattrapage ](medias/k-qlcplus.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -240,7 +240,7 @@ Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'a
 - Intégrer le code de la kinect dans max
 - Intégrer le contrôle de son des ambiance sonore dans max
 - Changer les délais de temps pour les notifications cellulaires
-- Ajouter les sons de notification et la sonenrie de téléphone dans le JavaScript
+- Ajouter les sons de notification et la sonnerie de téléphone dans le JavaScript
 - Plastifier les signets
 - Filmer les scènes vidéos
 - Achter les décors manquant

@@ -6,7 +6,26 @@
 
 ## Semaine 7
 
-## Semaine 6
+## Semaine de rattrapage
+Cette semaine, nous avons fini l’enregistrement des doubleurs du père, de Sasha, du professeur et des camarades!
+
+![voix](medias/jw-doubleurs.jpg)
+
+
+Tout d’abord, nous avons amené toutes les décorations nécessaires au tournage du samedi.
+
+![decors](medias/jw-amener_decors.jpg)
+
+
+Ensuite, nous avons terminé d’installer tout l’équipement nécessaire à notre installation tels que les lumières et les haut-parleurs.
+
+![installation](medias/jw-fini_installation.jpg)
+
+
+Par la suite, nous avons créé des lumières sur QLC plus pour notre jeu de lumière (chasser).
+
+![qlc](medias/jw-qlc_chasser.gif)
+
 
 ## Semaine 5
 Cette semaine fut une semaine productive. Nous avons tout d’abord installé des haut-parleurs.
