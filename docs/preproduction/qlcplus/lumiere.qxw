@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.12.4</Version>
@@ -125,7 +125,7 @@
     <Font>Default</Font>
    </Appearance>
    <Slider Caption="jeuLumiere" ID="0" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="90" Y="115" Width="175" Height="155"/>
+    <WindowState Visible="True" X="90" Y="115" Width="175" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -141,7 +141,7 @@
     </Playback>
    </Slider>
    <Slider Caption="telephoneAdo" ID="1" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="270" Y="115" Width="185" Height="155"/>
+    <WindowState Visible="True" X="270" Y="115" Width="185" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -157,7 +157,7 @@
     </Playback>
    </Slider>
    <Slider Caption="poubelleAdo" ID="2" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="460" Y="115" Width="160" Height="155"/>
+    <WindowState Visible="True" X="460" Y="115" Width="160" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -173,7 +173,7 @@
     </Playback>
    </Slider>
    <Slider Caption="journalAdo" ID="3" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="625" Y="115" Width="165" Height="155"/>
+    <WindowState Visible="True" X="625" Y="115" Width="165" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -189,7 +189,7 @@
     </Playback>
    </Slider>
    <Slider Caption="coteAdulte" ID="4" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="90" Y="280" Width="175" Height="165"/>
+    <WindowState Visible="True" X="90" Y="280" Width="175" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -205,7 +205,7 @@
     </Playback>
    </Slider>
    <Slider Caption="boiteSouvenir" ID="5" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="270" Y="280" Width="185" Height="165"/>
+    <WindowState Visible="True" X="265" Y="285" Width="185" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -221,7 +221,7 @@
     </Playback>
    </Slider>
    <Slider Caption="telephoneAdulte" ID="6" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="630" Y="280" Width="160" Height="165"/>
+    <WindowState Visible="True" X="630" Y="280" Width="160" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -237,7 +237,7 @@
     </Playback>
    </Slider>
    <Slider Caption="journalAdulte" ID="7" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="460" Y="280" Width="160" Height="165"/>
+    <WindowState Visible="True" X="460" Y="280" Width="160" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -253,7 +253,7 @@
     </Playback>
    </Slider>
    <Slider Caption="portable" ID="8" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="800" Y="280" Width="175" Height="165"/>
+    <WindowState Visible="True" X="800" Y="280" Width="175" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -269,7 +269,7 @@
     </Playback>
    </Slider>
    <Slider Caption="coteAdo" ID="9" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="800" Y="115" Width="175" Height="155"/>
+    <WindowState Visible="True" X="800" Y="115" Width="175" Height="155"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>

@@ -41,7 +41,7 @@
      border-radius: 27px;
      border:#AE9BD6 solid 2px;
      color:#6452A1;
-     width: 657px;
+     width: 560px;
      height: 71px;
      font-family: aileron,sans-serif;
      font-weight: 400;
@@ -49,6 +49,7 @@
      font-size: 30px;
      position: relative;
      padding-left: 15px;
+     margin-right: 11px;
  }
 
  .btnEnvoyer{
@@ -62,8 +63,6 @@
      font-weight: 400;
      font-style: normal;
      font-size: 30px;
-     position: absolute;
-     right: 150px;
  }
 
  .texteInvitation{
