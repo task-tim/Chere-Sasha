@@ -20,10 +20,19 @@ let secondeAppel = 0;
 let minuteAppel = 0;
 let appelTemps;
 let timer;
-const notif = new Audio('img/notif.wav');
-const sonnerie = new Audio('img/sonnerieAdo.wav');
-const boiteVocal = new Audio('img/pere_ado_boite_vocale.wav');
+const notif = new Audio();
+const sonnerie = new Audio();
+const boiteVocal = new Audio();
 const pereRepond = new Audio('img/pere_ado_decrocher.wav');
+notif.autoplay = true;
+boiteVocal.autoplay = true;
+sonnerie.autoplay = true;
+phoneSleep.addEventListener('click', function(){
+notif.src = 'img/silence.wav';
+sonnerie.src = 'img/silence.wav';
+boiteVocal.src = 'img/silence.wav';
+console.log('jai jouer du son');
+});
 
 function horloge(){
 	let date = new Date();
@@ -78,7 +87,7 @@ ws.onmessage = function (event) {
 		 //notification, appel
 		 setTimeout(function() {
 			box4.style.display="block";
-			notif.play();
+			notif.src = 'img/notif.wav';
 		  }, 3000);
 
 		 setTimeout(function() {
@@ -103,12 +112,12 @@ ws.onmessage = function (event) {
 		   box3.style.display="none";
 		   box4.style.display="none";
 		   box1.style.display="none";
-		   sonnerie.play();
+		   sonnerie.src = 'img/sonnerieAdo.wav';
 		   sonnerie.onended = function(){
 		   raccroche.style.display="block";  
 		   phoneCall.style.display="none";
 		   document.body.style.backgroundColor= "black";
-		   boiteVocal.play()
+		   boiteVocal.src = 'img/pere_ado_boite_vocale.wav';
 		   console.log('vous avez ignorer');
 		   boiteVocal.onended = function(){
 			   console.log('la boite vocale est fini');
@@ -125,7 +134,7 @@ ws.onmessage = function (event) {
 		   phoneCall.style.display="none";
 		   sonnerie.pause();
 		   document.body.style.backgroundColor= "black";
-		   boiteVocal.play()
+		   boiteVocal.src = 'img/pere_ado_boite_vocale.wav';
 		   console.log('vous avez raccrocher');
 		   boiteVocal.onended = function(){
 			console.log('la boite vocale est fini');
