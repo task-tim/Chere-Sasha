@@ -233,7 +233,7 @@ Cette semaine, j’ai pu ajuster le gain des 4 haut-parleurs parce qu’on les a
 
 
 ### Défis pour la prochaine semaine
-Mon premier défi serait d’installer la chambre en plaçant les décors au bon endroit avec mon équipe. Mon deuxième défi serait d’enregistrer les vidéos qui seront projetées sur le mur. Mon dernier défi serait de compléter le journal adulte et d’amener les 2 journaux à l’école. 
+Mon premier défi serait d’installer la chambre en plaçant les décors au bon endroit avec mon équipe. Mon deuxième défi serait d’enregistrer les vidéos qui seront projetées sur le mur. Mon deuxième défi serait de compléter le journal adulte et d’amener les 2 journaux à l’école. Mon dernier défi serait de faire des dessins pour accompagner les affiches.
 
 
 ---
