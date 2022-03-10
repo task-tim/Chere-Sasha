@@ -156,7 +156,7 @@ ws.onmessage = function (event) {
 				}, 1000);
 			pereRepond.play();
 			console.log('vous avez répondu');
-			pereRepond.onended = function(){
+			pereRepond.onended = ()=>{
 				repondu.style.display = 'none';
 				phoneSleep.style.display = 'block';
 				clearInterval(appelTemps);
@@ -164,6 +164,8 @@ ws.onmessage = function (event) {
     			minuteAppel = 0;
     			tempsAppel.innerText = "00:00";
 			}	
+		 }, {
+			 once: true
 		 })
 		}
 

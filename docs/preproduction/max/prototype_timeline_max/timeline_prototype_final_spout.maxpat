@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -21292.0, -21249.0, 1257.0, 1275.0 ],
+		"rect" : [ 1186.0, 88.0, 1257.0, 1275.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -2266,8 +2266,6 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
-										"node_bin_path" : "",
-										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -4947,7 +4945,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 84.0, 1211.0, 582.0 ],
+						"rect" : [ 34.0, 84.0, 1211.0, 360.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -4996,7 +4994,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "bang" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 564.0, 1126.0, 24.0, 24.0 ]
+									"patching_rect" : [ 604.963856935501099, 954.915656328201294, 24.0, 24.0 ]
 								}
 
 							}
@@ -5311,7 +5309,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 687.894726157188416, 891.063831567764282, 107.97343772649765, 38.0 ],
+									"patching_rect" : [ 697.424779117107391, 895.256600737571716, 107.97343772649765, 38.0 ],
 									"text" : "Recevoir des messages"
 								}
 
@@ -5323,7 +5321,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 600.0, 899.063831567764282, 71.0, 22.0 ],
+									"patching_rect" : [ 600.0, 847.256600737571716, 71.0, 22.0 ],
 									"text" : "fromsymbol"
 								}
 
@@ -5335,7 +5333,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 600.0, 963.063831567764282, 69.0, 22.0 ],
+									"patching_rect" : [ 600.0, 911.256600737571716, 69.0, 22.0 ],
 									"text" : "route /done"
 								}
 
@@ -5613,8 +5611,6 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
-										"node_bin_path" : "",
-										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -6162,8 +6158,6 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
-										"node_bin_path" : "",
-										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -6672,9 +6666,8 @@
 				"box" : 				{
 					"id" : "obj-19",
 					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "jit_gl_texture", "" ],
+					"numinlets" : 0,
+					"numoutlets" : 0,
 					"patching_rect" : [ 2185.302021920681, 686.57334699630735, 105.0, 22.0 ],
 					"text" : "jit.gl.spoutreceiver"
 				}
@@ -6734,9 +6727,8 @@
 				"box" : 				{
 					"id" : "obj-13",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numinlets" : 1,
+					"numoutlets" : 0,
 					"patching_rect" : [ 1823.521329164505005, 849.971159482002236, 252.0, 22.0 ],
 					"text" : "jit.gl.spoutsender movie @sendername movie"
 				}
@@ -8712,14 +8704,6 @@
 				"patcherrelativepath" : "..",
 				"type" : "fold",
 				"implicit" : 1
-			}
-, 			{
-				"name" : "jit.gl.spoutsender.mxe64",
-				"type" : "mx64"
-			}
-, 			{
-				"name" : "jit.gl.spoutreceiver.mxe64",
-				"type" : "mx64"
 			}
  ],
 		"autosave" : 0
