@@ -4,7 +4,36 @@
 
 ## Semaine 8
 
-## Semaine 7
+## Semaine 6
+Cette semaine, nous avons installé toutes les décorations des chambres.
+
+![chambre](medias/jw-chambre.jpg)
+
+
+Ensuite, nous avons filmé les deux scènes à projeter à l’aide des GOPRO.
+
+![chambre](medias/jw-tournage.jpg)
+
+
+Par la suite, nous avons terminé tous les montages sonores.
+
+![sons](medias/jw-montage_sonore_fini.png)
+
+
+De plus, nous avons terminé tous les montages vidéos.
+
+![video](medias/jw-montage_video_fini.png)
+
+
+Aussi, nous avons ajouté les effets sonores des téléphones dans le code.
+
+![cellulaire](medias/k-deux-telephone.png)
+
+
+Finalement, nous avons décoré le journal adulte.
+
+![journal](medias/jw-journal_adulte.jpg)
+
 
 ## Semaine de rattrapage
 Cette semaine, nous avons fini l’enregistrement des doubleurs du père, de Sasha, du professeur et des camarades!
