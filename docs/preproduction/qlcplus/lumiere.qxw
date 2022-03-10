@@ -112,7 +112,11 @@
   </Function>
   <Function ID="7" Type="Scene" Name="telephoneAdo">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="0"/>
+   <FixtureVal ID="0">0,0,1,0,2,0,3,255</FixtureVal>
+  </Function>
+  <Function ID="8" Type="Scene" Name="journal/telephone-adulte">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">1,255</FixtureVal>
   </Function>
  </Engine>
  <VirtualConsole>
@@ -153,7 +157,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>7</Function>
     </Playback>
    </Slider>
    <Slider Caption="poubelleAdo" ID="2" WidgetStyle="Slider" InvertedAppearance="false">
@@ -205,7 +209,7 @@
     </Playback>
    </Slider>
    <Slider Caption="boiteSouvenir" ID="5" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="265" Y="285" Width="185" Height="165"/>
+    <WindowState Visible="True" X="270" Y="280" Width="185" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -220,23 +224,7 @@
      <Function>0</Function>
     </Playback>
    </Slider>
-   <Slider Caption="telephoneAdulte" ID="6" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="630" Y="280" Width="160" Height="165"/>
-    <Appearance>
-     <FrameStyle>Sunken</FrameStyle>
-     <ForegroundColor>Default</ForegroundColor>
-     <BackgroundColor>Default</BackgroundColor>
-     <BackgroundImage>None</BackgroundImage>
-     <Font>Default</Font>
-    </Appearance>
-    <Input Universe="0" Channel="25260"/>
-    <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
-    <Level LowLimit="0" HighLimit="255" Value="0"/>
-    <Playback>
-     <Function>4294967295</Function>
-    </Playback>
-   </Slider>
-   <Slider Caption="journalAdulte" ID="7" WidgetStyle="Slider" InvertedAppearance="false">
+   <Slider Caption="journal/telephone-Adulte" ID="7" WidgetStyle="Slider" InvertedAppearance="false">
     <WindowState Visible="True" X="460" Y="280" Width="160" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
@@ -249,11 +237,11 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4294967295</Function>
+     <Function>8</Function>
     </Playback>
    </Slider>
    <Slider Caption="portable" ID="8" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="800" Y="280" Width="175" Height="165"/>
+    <WindowState Visible="True" X="800" Y="115" Width="170" Height="330"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -269,7 +257,7 @@
     </Playback>
    </Slider>
    <Slider Caption="coteAdo" ID="9" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="True" X="800" Y="115" Width="175" Height="155"/>
+    <WindowState Visible="True" X="625" Y="280" Width="165" Height="165"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -277,6 +265,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
+    <Input Universe="0" Channel="61544"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
