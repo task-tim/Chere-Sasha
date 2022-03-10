@@ -293,40 +293,46 @@ Ne s'applique pas
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Tournage pour les projections de l'installation
+- Décoration de l'installation
+- Finition conceptualisation des affiches
+- Finition montage vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Poster](medias/a-poster.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout au long de la semaine, nous nous sommes rejoins dans le grand studio pour continuer à travailler sur le projet. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
-
+- Faire des dessins pour ajouter de la décoration du coté adolescent
+- Placer l'ordinateur dans la salle des matrices
+- Tester le tout ensemble
+- Faire modification s'il y a lieu 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées

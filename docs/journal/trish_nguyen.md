@@ -296,40 +296,45 @@ J'ai décidé de prioriser l'affiche plutôt que l'e montage sonore, car guillau
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- fini l'affiche
+- fini le montage sonore de la voix Sasha, de l'intro et des camarades + professeur
+- acheter des ampoules avec karine
+- décorer la chambre
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![affiche d'ourson](medias/t-bear.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+(X)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
+- Tester les audios et la spatialisation
+- Ajouter des dessins au mur
+- corriger les erreurs de français dans mon journal
+- déplacer l'ordinateur à la salle des matrices
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
