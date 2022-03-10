@@ -243,44 +243,47 @@ Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'a
 - Ajouter les sons de notification et la sonnerie de téléphone dans le JavaScript
 - Plastifier les signets
 - Filmer les scènes vidéos
-- Achter les décors manquant
+- Acheter les décors manquant
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+- Remplacer le code pureData dans Max
+- Intégration du code de la kinect dans Max
+- Ajouter les sons de notification, sonnerie et du père dans les cellulaires
+- Ajouter les lampes dans QlcPLus
+- Intégré controle de son dans Max
+- Ajouter des message line pour le son et lumière dans Max
+- Plastifier les signets
+- Acheter les ampoules incendescente
+- Filmer les scènes
+- Décoration de la chambre
+- Placer l'ordinateur de public dans son espace
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![réalisation semaine rattrapage ](medias/k-deux-telephone.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+ Nous sommes venu samedi pour filmer les scènes. Nous sommes aussi venu tout les jours pour travailler sur le projet et tester. 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Placer notre ordinateur dans la salle des matrices
+- Tester la timeline complète
+- Ajouter des dessins sur le mur
 
 ---
 ## Semaine 7
