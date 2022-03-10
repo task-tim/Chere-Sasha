@@ -7,8 +7,8 @@
 ## Semaine 6
 Cette semaine, nous avons installé toutes les décorations des chambres.
 
-![chambre](medias/jw-chambre.jpg)
-
+![chambre](medias/jw-chambre_decors_01.jpg)
+![chambre](medias/jw-chambre_decors_02.jpg)
 
 Ensuite, nous avons filmé les deux scènes à projeter à l’aide des GOPRO.
 
