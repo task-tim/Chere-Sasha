@@ -239,39 +239,41 @@ Mon premier défi serait d’installer la chambre en plaçant les décors au bon
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+- J’ai installé les décorations pour la chambre adolescente et adulte.
+- J’ai filmé les scènes à projeter.
+- J’ai conçu deux posters.
+- J’ai acheté des décorations de plus.
+- J’ai fini de transcrire le journal adulte.
+- J’ai fait le montage de la voix du père avec un effet de téléphone.
+- J’ai fait des dessins pour le journal adulte et je l’ai décoré.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![posters](medias/s-posters.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Cette semaine, j’ai pu filmer les scènes à projeter parce que mon équipe et moi sommes venus à l’école pour le tournage. En fait, on avait tout installé les décorations des chambres avant de filmer. Ensuite, après avoir filmer, j’ai pu me concentrer à concevoir mes deux posters pour les avoir terminés pour mercredi afin que Guillaume, notre enseignant, puisse les imprimer. Par la suite, j’ai pu finir de transcrire toute le journal adulte à la main et le décorer quand j’avais terminé les posters. Finalement, à l'école, j'ai fait le montage sonore du père de Sasha. J’ai ajouté un effet d’appel téléphonique sur la voix. 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Mes défis sont de déplacer l’ordinateur dans la salle des matrices avec mon équipe. Mon dernier défi serait de tester l’installation afin de trouver des bogues et les réparer avec mon équipe.
+
 
 ---
 ## Semaine 7
