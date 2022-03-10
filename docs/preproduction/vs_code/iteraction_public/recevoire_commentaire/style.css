@@ -12,6 +12,9 @@ body{
     position: absolute;
     width:fit-content;
     font-size: 35px;
+    font-family: aileron,sans-serif;
+     font-weight: 700;
+     font-style: normal;
 }
 p:nth-last-child(2){
     color: white;
@@ -19,6 +22,7 @@ p:nth-last-child(2){
     background-color: black;
     font-weight: bolder;
     z-index: 10;
+    text-align: center;
     position: fixed !important;
     top: 50% !important;
     left: 50% !important;

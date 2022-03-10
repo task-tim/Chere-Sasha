@@ -119,6 +119,7 @@ ws.onmessage = function (event) {
 		   raccroche.style.display="block";
 		   phoneCall.style.display="none";
 		   document.body.style.backgroundColor= "black";
+		   sonnerie.pause();
 		   clearTimeout(timer);
 		   ws.send("/raccroche 1");
 		   setTimeout(function(){
@@ -133,6 +134,7 @@ ws.onmessage = function (event) {
 			repondu.style.display="block";
 			phoneCall.style.display="none";
 			document.body.style.backgroundColor= "black";
+			sonnerie.pause();
 			ws.send("/repond 1");
 			appelTemps = setInterval(() => {
 				console.log(secondeAppel);
