@@ -22,7 +22,7 @@ Par la suite, nous avons terminé tous les montages sonores.
 
 De plus, nous avons terminé tous les montages vidéos.
 
-![video](medias/jw-montage_video_fini.png)
+![video](medias/a-video.png)
 
 
 Aussi, nous avons ajouté les effets sonores des téléphones dans le code.
