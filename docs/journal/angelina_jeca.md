@@ -299,7 +299,7 @@ Ne s'applique pas
 - Finition montage vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Poster](medias/a-poster.PNG)
+![Poster](medias/a-poster.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
