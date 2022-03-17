@@ -1,8 +1,30 @@
 # Journal de création
 
-## Semaine 9
+## Semaine 7
+Cette semaine, nous avons terminé tous les médias pour notre projet tels que les montages vidéos qui seront projetés au mur et les montages sonores qui joueront à travers les 5 haut-parleurs.
 
-## Semaine 8
+![medias](medias/jw-medias.jpg)
+
+
+Ensuite, nous avons testé notre installation pour trouver des bugs à réparer, notamment les bugs liés aux lumières et aux appareils mobiles.
+
+![test](medias/jw-tests.jpg)
+
+
+Par la suite, nous avons terminé de décorer le mur de la chambre adolescente en ajoutant des étoiles au mur.
+
+![tests](medias/jw-mur_ado.jpg)
+
+
+De plus, nous avons déplacé notre ordinateur dans la salle des matrices libérant ainsi de l’espace dans notre installation.
+
+![matrices](medias/jw-matrices.png)
+
+
+Finalement, on a installé le portable qui sera utilisé pour l’interaction du public.
+
+![portable](medias/jw-portable_public.jpg)
+
 
 ## Semaine 6
 Cette semaine, nous avons installé toutes les décorations des chambres.
