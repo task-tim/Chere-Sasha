@@ -3,12 +3,12 @@
 ## Semaine 7
 Cette semaine, nous avons terminé tous les médias pour notre projet tels que les montages vidéos qui seront projetés au mur et les montages sonores qui joueront à travers les 5 haut-parleurs.
 
-![medias](medias/jw-medias.jpg)
+![medias](medias/jw-projection_video.gif)
 
 
 Ensuite, nous avons testé notre installation pour trouver des bugs à réparer, notamment les bugs liés aux lumières et aux appareils mobiles.
 
-![test](medias/jw-tests.jpg)
+![test](medias/jw-bug.jpg)
 
 
 Par la suite, nous avons terminé de décorer le mur de la chambre adolescente en ajoutant des étoiles au mur.
