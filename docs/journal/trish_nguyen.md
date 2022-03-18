@@ -338,40 +338,42 @@ J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand s
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
-
+- Ajustement des audios
+- Ajout de dessins et d'étoiles sur le mur adolescent
+- déplacement de l'ordinateur à la salle des matrices
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![patch reaper des camarades](medias/t-reaper-camarade.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Moi et mon équipe, nous sommmes venu à l'école à chaque jour cette semaine pour ajouter les détails finaux à notre projet. Après avoir montré le projet à Daryl, nous avons fait les derniers ajustement et nous avons eu l'opportunité de déplacer l'ordinateur au salle des matrices en premier. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
+- Filmer la vidéo
+- Faire des dessins pour le journal
 
 ## Semaine 8
 
