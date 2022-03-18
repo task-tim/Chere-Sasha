@@ -278,42 +278,34 @@ Mes défis sont de déplacer l’ordinateur dans la salle des matrices avec mon 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
+- J’ai décoré le mur adolescent avec des étoiles.
+- J’ai modifié le montage sonore de l’introduction suite aux modifications suggérées par l’enseignant.
+- J’ai modifié le montage sonore de la boîte à souvenir pour la boucler et la rendre plus longue.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![posters](medias/s-ambiance_intro.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+J’ai pu accomplir toutes mes tâches grâce aux commentaires donnés par notre enseignant. Suite aux commentaires, mon équipe et moi avons séparé les corrections à porter à nos médias et nous les avons fini la journée même pour ainsi re-tester notre installation. Ensuite, après avoir fini de faire les corrections, nous avons déplacé notre ordinateur dans la salle des matrices pour créer de l’espace dans notre installation.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+Mon défi est de filmer la vidéo qui sera montrée durant le vernissage.
 
 
-## Semaine 8
-
-
-## Semaine 9

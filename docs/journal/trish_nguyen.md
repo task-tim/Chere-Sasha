@@ -36,7 +36,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai mis assez, car je n'ai pas fini les enregistements pour la banque sonore.
+ J'ai mis assez, car je n'ai pas fini les enregistements pour la banque sonore. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Je planifiais déjà de le complèter en fin de semaine.
@@ -89,7 +89,7 @@ Je vais simplement prendre le temps necessaire pour le faire. Mes coéquipières
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-(x)
+J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand studio tous les jours pour travailler sur nos tâches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 (x)
@@ -127,7 +127,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-(x)
+J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand studio tous les jours pour travailler sur nos tâches et démonter le materiel. De plus, puisqu'on arrive tôt les matins à chaque jour, j'ai pu utiliser l'echelle autant que je voulais puisque les autres élèves n'étaient pas là. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 (x)
@@ -176,7 +176,7 @@ Voici le plafond maintenant tout propre, prêt pour installer à nouveau!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- (x)
+ J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand studio tous les jours pour travailler sur nos tâches. De plus, moi et mon équipe nous avons planifé des rencontres avec les candidat de casting.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 (x)
@@ -222,7 +222,7 @@ patch Reaper pour le côté adulte
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- (x)
+ J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand studio tous les jours pour travailler sur nos tâches. J'ai aussi eu de l'aide de la part de Daryl et de Guillaume pour la spatialisation sonore.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 (x)
@@ -312,7 +312,7 @@ J'ai décidé de prioriser l'affiche plutôt que l'e montage sonore, car guillau
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-(X)
+J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand studio tous les jours pour travailler sur nos tâches. J'ai aussi eu de l'aide de la part de Sabrina, car elle a fait le montage sonore du père. J'ai donc pu finir tous mes assets sonores cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 (x)
@@ -338,40 +338,43 @@ J'ai décidé de prioriser l'affiche plutôt que l'e montage sonore, car guillau
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
-
+- Ajustement des audios
+- Ajout de dessins et d'étoiles sur le mur adolescent
+- déplacement de l'ordinateur à la salle des matrices
+- écrit des messages textos avec Angelina pour les cellulaires
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![patch reaper des camarades](medias/t-reaper-camarade.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Moi et mon équipe, nous sommmes venu à l'école à chaque jour cette semaine pour ajouter les détails finaux à notre projet. Après avoir montré le projet à Daryl, nous avons fait les derniers ajustement et nous avons eu l'opportunité de déplacer l'ordinateur au salle des matrices en premier. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+(x)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+(x)
 
 ### Défis pour la prochaine semaine
-
+- Filmer la vidéo
+- Faire des dessins pour le journal
 
 ## Semaine 8
 

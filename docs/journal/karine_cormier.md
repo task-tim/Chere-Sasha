@@ -262,7 +262,7 @@ Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'a
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![réalisation semaine rattrapage ](medias/k-deux-telephone.png)
+![réalisation semaine 6 ](medias/k-deux-telephone.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -288,42 +288,37 @@ Nous avons pris rendez-vous avec notre casting et leur ont envoyer le script d'a
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Placer l'ordinateur dans la salle des matrices
+- Trouver un moyen de communiquer avec l'ordinateur à distance
+- Test de la timeline
+- Réparation de bug avec les cellulaires
+- Ajout de nouvelles notifications aux cellulaires
+- Ajout d'un délais de vérification de pésence dans Max
+- Création d'un master pour le son
+- Ajustement des niveaux sonores
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![réalisation semaine 7 ](medias/k-max_kinect_teams.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous sommes venues à l'école tout les jours pour avancer le projet. Nous avons aussi fait approuver notre expérience par notre professeur et d'autre élève et avons ajuster l'expérience en lien avec leurs commentaires. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
-
-## Semaine 9
+- Filmer la vidéo de présentation
+- Faire tester par d'autre personnes
+- Ajuster les délais dans Max

@@ -336,42 +336,42 @@ Ne s'applique pas
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Décoration du mur adolescent
+- Modification de l'ambiance sonore adulte suite aux recommendations du professeur
+- Transfert de l'ordinateur dans la salle des matrices
+- Modification des lumières dans QLC+ (pour les faire pulser) 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Mur](medias/jw-mur.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout au long de la semaine, nous nous sommes rejoins dans le grand studio pour continuer à travailler sur le projet. De plus, certaines journées, nous avons resté plus longtemps que prévue.  
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas
 
 ### Défis pour la prochaine semaine
+- Filmer et monter la vidéo pour le vernissage de la semaine 8
 
-
-## Semaine 8
-
-
-## Semaine 9
