@@ -341,6 +341,7 @@ J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand s
 - Ajustement des audios
 - Ajout de dessins et d'étoiles sur le mur adolescent
 - déplacement de l'ordinateur à la salle des matrices
+- écrit des messages textos avec Angelina pour les cellulaires
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![patch reaper des camarades](medias/t-reaper-camarade.jpg)
 
