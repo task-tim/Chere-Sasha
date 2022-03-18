@@ -34,7 +34,7 @@ html {
 .phone {
   position: relative;
   width: 100%;
-  display: none;  
+  display: block;  
 
 } 
 .phone .phoneIcone{
@@ -90,13 +90,27 @@ html {
   font-size: 22px;
   font-weight: 100;
 }
+.box--1{
+  display: none;
+}
+.box--2{
+  display: none;
+}
+.box--3{
+  display: none;
+}
+.box--4{
+  display: none;
+}
+.box--5{
+  display: block;
+}
 .notif__boxes > .box {
   position: relative;
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
   width: 100%;
   height: fit-content;
-  display: none;
   border-radius: 15px;
   margin-bottom: 15px;
   padding: 12px;
@@ -131,8 +145,8 @@ html {
 
 .icone{
   position: relative;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   border-radius: 50px;
   background-color: #838383;
 }
@@ -156,7 +170,7 @@ html {
   background-color: #200000;
   top: 0;
   left: 0;
-  padding: 10px;
+  padding: 15px;
 }
 .phoneCall .phoneIcone{
   position: relative;
@@ -199,7 +213,7 @@ html {
   justify-content: center;
   left: 50%;
   transform: translate(-50%);
-  bottom: 40px;
+  bottom: 70px;
 }
 
 .messageBulle{
@@ -267,7 +281,7 @@ html {
   text-transform: uppercase;
   left: 50%;
   transform: translate(-50%);
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .raccroche {
@@ -316,8 +330,8 @@ html {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 100px 100px;
-  column-gap: 30px;
-  row-gap: 0px;
+  column-gap: 40px;
+  row-gap: 10px;
   position: absolute;
   left: 50%;
   transform: translate(-50%,-50%);
@@ -339,7 +353,7 @@ html {
 }
 
 .phoneSleep{
-  display: block;
+  display: none;
   background-color: black;
   position: fixed;
   color: white;
@@ -382,12 +396,11 @@ html {
           </div>
           <div class="box box--2">
             <div class="appTitre">
-            <div class="appIcone"><img src="img/courriel.png" alt=""></div>
-            <h4 class="appInfo">Courriel</br>
-              <span class="titrePLus">École TIM</span></h4></div>
-            <div class="appTexte"><p>Bonjour, c’est pour vous aviser que Sasha Ipsum à couler son examen de
-              mathématique à 45%. Ça va très mal pour elle ces temps-ci. Est-ce que
-              vous seriez disponible la semaine prochaine pour une rencontre?</p></div>
+            <div class="appIcone"><img src="img/appel.png" alt=""></div>
+            <h4 class="appInfo">Appel</br>
+              <span class="titrePLus">Père</span></h4></div>
+            <div class="appTexte"><p>3 nouveaux messages vocales de la part de Père.
+              </p></div>
           </div>
           <div class="box box--3">
             <div class="appTitre">
@@ -401,6 +414,37 @@ html {
             <h4 class="appInfo">Smileorama</h4></div>
             <div class="appTexte"><p>Vous avez 20 notifications en attente. <br>
               Cliquez pour en savoir plus.</p></div>
+          </div>
+          <div class="box box--5">
+            <div class="appTitre">
+            <div class="appIcone"><img src="img/courriel.png" alt=""></div>
+            <h4 class="appInfo">Courriel</br>
+              <span class="titrePLus">École TIM</span></h4></div>
+            <div class="appTexte"><p>Bonjour, ça serait vraiment important d’avoir une 
+              rencontre avec vous par rapport à la réussite de votre enfant, car à ce stade, Sasha risque 
+              d’avoir un échec au bulletin. Si elle coule, elle va devoir s’inscrire pour des cours d’été ou reprendre son année.</p></div>
+          </div> 
+          <div class="box box--5">
+            <div class="appTitre">
+            <div class="appIcone"><img src="img/smileorama.png" alt=""></div>
+            <h4 class="appInfo">Smileorama</h4></div>
+            <div class="appTexte"><p>DANDAN69 À laisser un commentaire : « ferme ta crisse de gueule… »<br>
+              Cliquez pour en savoir plus.</p></div>
+          </div>
+          <div class="box box--5">
+            <div class="appTitre">
+            <div class="appIcone"><img src="img/photobia.png" alt=""></div>
+            <h4 class="appInfo">Photobia</h4></div>
+            <div class="appTexte"><p>Jw-licorne À laisser un commentaire : « tu fais dure »<br>Cliquez pour en savoir plus.</p></div>
+          </div> 
+          <div class="box box--5">
+            <div class="appTitre">
+            <div class="appIcone"><img src="img/courriel.png" alt=""></div>
+            <h4 class="appInfo">Courriel</br>
+              <span class="titrePLus">École TIM</span></h4></div>
+            <div class="appTexte"><p>Bonjour, c’est pour vous aviser que Sasha Ipsum à couler son examen de
+              mathématique à 45%. Ça va très mal pour elle ces temps-ci. Est-ce que
+              vous seriez disponible la semaine prochaine pour une rencontre?</p></div>
           </div>
         </div>    
     </div>
@@ -505,7 +549,6 @@ html {
         </div>
       </div>
       <div class="phoneDecline">
-        -__-
       </div>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js'></script>
     <script src="/js/MaxWSClient.js"></script>

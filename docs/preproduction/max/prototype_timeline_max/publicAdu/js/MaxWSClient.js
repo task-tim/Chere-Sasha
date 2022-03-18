@@ -21,30 +21,38 @@ let secondeAppel = 0;
 let minuteAppel = 0;
 let appelTemps;
 let timer;
-const notif = new Audio('img/notif.wav');
-const sonnerie = new Audio('img/sonnerieAdulte.wav');
+const notif = new Audio();
+const sonnerie = new Audio();
+notif.autoplay = true;
+sonnerie.autoplay = true;
+phone.addEventListener('click', function () {
+	notif.src = 'img/silence.wav';
+	sonnerie.src = 'img/silence.wav';
+	console.log('jai jouer du son');
+	
+},{once: true});
 
-function horloge(){
+function horloge() {
 	let date = new Date();
 	let mois = moisArr[date.getMonth()];
 	let jour = date.getDate();
 	let semaine = jourArr[date.getDay()];
 	let heure = date.getHours();
 	let minute = date.getMinutes();
-	
-	if (minute < 10){
-	  temps.innerText = heure + ":0" + minute; 
-	  temps2.innerText = heure + ":0" + minute; 
-	  temps3.innerText = heure + ":0" + minute; 
-	}else{
-	  temps.innerText = heure + ":" + minute; 
-	  temps2.innerText = heure + ":" + minute;
-	  temps3.innerText = heure + ":" + minute;  
+
+	if (minute < 10) {
+		temps.innerText = heure + ":0" + minute;
+		temps2.innerText = heure + ":0" + minute;
+		temps3.innerText = heure + ":0" + minute;
+	} else {
+		temps.innerText = heure + ":" + minute;
+		temps2.innerText = heure + ":" + minute;
+		temps3.innerText = heure + ":" + minute;
 	}
 	journee.innerText = semaine + " " + jour + " " + mois;
-	}
-	setInterval(horloge, 1000);
-	
+}
+setInterval(horloge, 1000);
+
 // ÉTABLIR UNE CONNEXION WEBSOCKET
 let ws = new WebSocket("ws://192.168.1.176:7575");
 
@@ -54,108 +62,116 @@ ws.onopen = function (event) {
 };
 
 // FERMER LA CONNEXION
-window.onbeforeunload = function(){
-  ws.close();
+window.onbeforeunload = function () {
+	ws.close();
 };
+
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
 	// SELON LES ESPACES (' ') ENTRE LES MOTS
 	let messageArray = event.data.split(' ');
-	
+
 	// messageArray[0] -> LE PREMIER MOT ASCII
 	// messageArray[1] -> LE DEUXIÈME MOT ASCII
 
-	 if ( messageArray[0] == "/bouton" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
-	     // parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
-		 phoneSleep.style.display = "none";
-		 phone.style.display="block";
-		 //si on ignore l'appel
-		 const ignoreAppel = function(){
-		   raccroche.style.display="block";  
-		   sonnerie.pause();
-		   phoneCall.style.display="none";
-		   document.body.style.backgroundColor= "black";
-		   ws.send("/raccroche 1");
-		   setTimeout(function(){
-			window.location.reload(true);
-		   }, 2000)
-		   }
-		 timer = setTimeout(ignoreAppel, 50000);
-		 
-		 //notification, appel
-		 setTimeout(function() {
-			box4.style.display="block";
+	if (messageArray[0] == "/bouton") { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
+		// parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
+		//si on ignore l'appel
+
+		//notification, appel
+		setTimeout(function () {
+			box4.style.display = "block";
+			notif.src = 'img/notif.wav';
+		}, 1000);
+
+		setTimeout(function () {
+			box3.style.display = "block";
 			notif.play();
-		  }, 3000);
+		}, 3000);
 
-		 setTimeout(function() {
-		   box3.style.display="block";
-		   notif.play();
-		 }, 7000);
-		 
-		 setTimeout(function() {
-		   box2.style.display="block";
-		   notif.play();
-		 }, 9000);
-		 
-		 setTimeout(function() {
-		   box1.style.display="block";  
-		   notif.play();
-		 }, 11000);
-		 
-		 setTimeout(function() {
-		   phoneCall.style.display="block";  
-		   phone.style.display="none";
-		   box2.style.display="none";
-		   box3.style.display="none";
-		   box1.style.display="none";
-		   document.body.style.backgroundColor= "purple";
-		   sonnerie.play();
-		 }, 17000);
-		 
-		 //click du bouton raccrocher
-		 btnraccrocher.addEventListener("click", function(){
-		   raccroche.style.display="block";
-		   phoneCall.style.display="none";
-		   document.body.style.backgroundColor= "black";
-		   sonnerie.pause();
-		   clearTimeout(timer);
-		   ws.send("/raccroche 1");
-		   setTimeout(function(){
-			window.location.reload(true);
-		   }, 2000)
-		 })
-		 
-		 
-};
-//click du bouton répondre
-		 btnrepondre.addEventListener("click", function(){
-			repondu.style.display="block";
-			phoneCall.style.display="none";
-			document.body.style.backgroundColor= "black";
+		setTimeout(function () {
+			box2.style.display = "block";
+			notif.play();
+		}, 6000);
+
+		setTimeout(function () {
+			box1.style.display = "block";
+			notif.play();
+		}, 10000);
+
+		setTimeout(function () {
+			phoneCall.style.display = "block";
+			phone.style.display = "none";
+			box2.style.display = "none";
+			box3.style.display = "none";
+			box4.style.display = "none";
+			box1.style.display = "none";
+			sonnerie.src = 'img/sonnerieAdulte.wav';
+			sonnerie.onended = function () {
+				raccroche.style.display = "block";
+				phoneCall.style.display = "none";
+				document.body.style.backgroundColor = "black";
+				ws.send("/raccroche 1");
+				console.log('vous avez ignorer');
+				setTimeout(function(){
+					console.log('la boite vocale est fini');
+					raccroche.style.display = 'none';
+					phone.style.display = "block";
+					document.body.style.backgroundColor = '#C3B5E0';
+					clearTimeout();
+				},16000);
+			}
+		}, 40000);
+
+
+}
+		//click du bouton raccrocher
+		btnraccrocher.addEventListener("click", function () {
+			raccroche.style.display = "block";
+			phoneCall.style.display = "none";
 			sonnerie.pause();
+			document.body.style.backgroundColor = "black";
+			ws.send("/raccroche 1");
+			console.log('vous avez raccrocher');
+			setTimeout(function(){
+				console.log('la boite vocale est fini');
+				raccroche.style.display = 'none';
+				phone.style.display = "block";
+				document.body.style.backgroundColor = '#C3B5E0';
+				clearTimeout();
+			},16000);
+		})
+	};
+	//click du bouton répondre
+	btnrepondre.addEventListener("click", function () {
+		repondu.style.display = "block";
+		phoneCall.style.display = "none";
+		document.body.style.backgroundColor = "black";
+		sonnerie.pause();
+		appelTemps = setInterval(() => {
+			console.log(secondeAppel);
+			secondeAppel++;
+			if (secondeAppel == 60) {
+				secondeAppel = 0;
+				minuteAppel++;
+			}
+			if (secondeAppel < 10) {
+				tempsAppel.innerText = "0" + minuteAppel + ":0" + secondeAppel;
+			} else {
+				tempsAppel.innerText = "0" + minuteAppel + ":" + secondeAppel;
+			}
+		}, 1000);
 			ws.send("/repond 1");
-			appelTemps = setInterval(() => {
-				console.log(secondeAppel);
-				secondeAppel++;
-				if(secondeAppel == 60){
-				  secondeAppel = 0;
-				  minuteAppel++;
-				}
-				if(secondeAppel < 10){
-				  tempsAppel.innerText = "0" + minuteAppel + ":0" + secondeAppel;
-				}else{   
-				  tempsAppel.innerText = "0" + minuteAppel + ":" + secondeAppel;
-				}
-				}, 1000);
-				clearTimeout(timer);
-		   setTimeout(function(){
-			window.location.reload(true);
-		   }, 4000)
-		 })
-		}
-
-
-
-
+		console.log('vous avez répondu');
+		setTimeout(function(){
+			repondu.style.display = 'none';
+			phone.style.display = "block";
+			document.body.style.backgroundColor = '#C3B5E0';
+			clearInterval(appelTemps);
+			secondeAppel = 0;
+			minuteAppel = 0;
+			tempsAppel.innerText = "00:00";
+			clearTimeout();
+		},17000);
+	})

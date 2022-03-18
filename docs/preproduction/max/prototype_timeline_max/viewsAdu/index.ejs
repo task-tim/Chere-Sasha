@@ -35,7 +35,7 @@ html {
 .phone {
   position: relative;
   width: 100%;
-  display: none;  
+  display: block;  
 
 } 
 .phone .phoneIcone{
@@ -91,13 +91,27 @@ html {
   font-size: 22px;
   font-weight: 100;
 }
+.box--1{
+  display: none;
+}
+.box--2{
+  display: none;
+}
+.box--3{
+  display: none;
+}
+.box--4{
+  display: none;
+}
+.box--5{
+  display: block;
+}
 .notif__boxes > .box {
   position: relative;
   background-color: rgba(255, 255, 255, 0.5);
   color: black;
   width: 100%;
   height: fit-content;
-  display: none;
   border-radius: 15px;
   margin-bottom: 15px;
   padding: 12px;
@@ -340,7 +354,7 @@ html {
 }
 
 .phoneSleep{
-  display: block;
+  display: none;
   background-color: black;
   position: fixed;
   color: white;
@@ -356,7 +370,7 @@ html {
    </style>
    <meta charset="UTF-8">
    <title>webtest6</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   </head>
   <body>
    <div class="phoneSleep">
@@ -378,7 +392,7 @@ html {
             <div class="appIcone"><img src="img/appel.png" alt=""></div>
             <h4 class="appInfo">Appel</br>
               <span class="titrePLus">Père</span></h4></div>
-            <div class="appTexte"><p>Vous avez un appel manqué de la part de Papa.
+            <div class="appTexte"><p>Vous avez un appel manqué de la part de Père.
               </p></div>
           </div>
           <div class="box box--2">
@@ -405,7 +419,31 @@ html {
             <div class="appTexte"><p>omg, tu sais pas quoi, hayley kiyoko fait une autre tournée et elle vient à
               montréal!!!!!!! ça y est .... on va faire faillite 😭😭😭😭</p></div>
           </div>
-        </div>    
+        <div class="box box--5">
+          <div class="appTitre">
+          <div class="appIcone"><img src="img/courriel.png" alt=""></div>
+          <h4 class="appInfo">Courriel</br>
+            <span class="titrePLus">Collège Wang</span></h4></div>
+          <div class="appTexte"><p>Bonjour, félicitation pour l’obtention de votre diplôme. Nous sommes fières de vous.
+            Vous pouvez venir le chercher lorsque vous allez être disponible au registrariat du Collège.            
+            Merci, bonne journée.</p></div>
+        </div> 
+        <div class="box box--5">
+          <div class="appTitre">
+          <div class="appIcone"><img src="img/message.png" alt=""></div>
+          <h4 class="appInfo">Message</br>
+            <span class="titrePLus">Loïc</span></h4></div>
+          <div class="appTexte"><p>DUDE, y’a aussi hayley kiyoko qui s’en vient à Montréal !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p></div>
+        </div> 
+        <div class="box box--5">
+          <div class="appTitre">
+          <div class="appIcone"><img src="img/message.png" alt=""></div>
+          <h4 class="appInfo">Message</br>
+            <span class="titrePLus">Nina ❤</span></h4></div>
+          <div class="appTexte"><p>Heyo, est-ce que tu veux faire quelque chose demain? J’ai découvert ce petit restaurant pas loin de Montréal que je voulais te faire découvrir. Vu que t’aime la nourriture coréenne, j’ai pensé à toi. ❤️
+          </p></div>
+        </div> 
+        </div> 
     </div>
     <div class="phoneCall">
       <div class="interface">

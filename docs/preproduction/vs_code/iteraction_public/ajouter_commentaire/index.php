@@ -19,11 +19,14 @@ plus fréquent que l’on pense. Si Sasha était quelqu’un de ton
 entourage, qu’aimerais-tu lui dire?</p>
  </div>
  <form action="commenter.php" method="POST">
-<input type='text' class="espaceCommentaire" rows = "5" cols = "25" name = "commentaire" placeholder="Écrivez un message à Sasha …">
+<input type='text' id='espaceCommentaire' class="espaceCommentaire" rows = "5" cols = "25" name = "commentaire" placeholder="Écrivez un message à Sasha …">
 <input class="btnEnvoyer" type="submit" name="commenter" value="Envoyer"/>
 </input><br>
 
 </form>
 </div>  
+<script>
+document.getElementById('espaceCommentaire').focus();
+</script>
 </body>
 </html> 

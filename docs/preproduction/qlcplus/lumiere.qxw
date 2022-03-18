@@ -90,13 +90,13 @@
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <FixtureVal ID="2">0,255</FixtureVal>
   </Function>
-  <Function ID="3" Type="Scene" Name="coteAdulte">
+  <Function ID="3" Type="Scene" Name="coteAdo">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="3">0,251,1,236,2,70,3,66,4,0,5,0</FixtureVal>
+   <FixtureVal ID="3">0,127,1,73,2,234,3,0,4,214,5,0</FixtureVal>
   </Function>
-  <Function ID="4" Type="Scene" Name="coteAdo">
+  <Function ID="4" Type="Scene" Name="coteAdulte">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="4">0,127,1,73,2,234,3,0,4,214,5,0</FixtureVal>
+   <FixtureVal ID="4">0,251,1,236,2,70,3,66,4,0,5,0</FixtureVal>
   </Function>
   <Function ID="5" Type="Scene" Name="portable">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -117,6 +117,66 @@
   <Function ID="8" Type="Scene" Name="journal/telephone-adulte">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <FixtureVal ID="0">1,255</FixtureVal>
+  </Function>
+  <Function ID="9" Type="Chaser" Name="chaser_poubelle">
+   <Speed FadeIn="2500" FadeOut="2500" Duration="2500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>PingPong</RunOrder>
+   <SpeedModes FadeIn="Common" FadeOut="Common" Duration="Common"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="500">1</Step>
+   <Step Number="1" FadeIn="0" Hold="0" FadeOut="0">10</Step>
+  </Function>
+  <Function ID="10" Type="Scene" Name="poubelle fade">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="1">0,100</FixtureVal>
+  </Function>
+  <Function ID="11" Type="Chaser" Name="chaser_cellulaireAdo">
+   <Speed FadeIn="2500" FadeOut="2500" Duration="2500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>PingPong</RunOrder>
+   <SpeedModes FadeIn="Common" FadeOut="Common" Duration="Common"/>
+   <Step Number="0" FadeIn="300" Hold="1000" FadeOut="500">7</Step>
+   <Step Number="1" FadeIn="0" Hold="200" FadeOut="0">12</Step>
+  </Function>
+  <Function ID="12" Type="Scene" Name="telephoneAdo fade">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0,1,0,2,0,3,71</FixtureVal>
+  </Function>
+  <Function ID="13" Type="Scene" Name="journalAdo fade">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="2">0,59</FixtureVal>
+  </Function>
+  <Function ID="14" Type="Chaser" Name="chaser_journalAdo">
+   <Speed FadeIn="2500" FadeOut="2500" Duration="2500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>PingPong</RunOrder>
+   <SpeedModes FadeIn="Common" FadeOut="Common" Duration="Common"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0">2</Step>
+   <Step Number="1" FadeIn="0" Hold="0" FadeOut="0">13</Step>
+  </Function>
+  <Function ID="15" Type="Chaser" Name="chaser_lavalamp">
+   <Speed FadeIn="2500" FadeOut="2500" Duration="2500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn="Common" FadeOut="Common" Duration="Common"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0">0</Step>
+   <Step Number="1" FadeIn="0" Hold="0" FadeOut="0">16</Step>
+  </Function>
+  <Function ID="16" Type="Scene" Name="lavalamp fade">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,90</FixtureVal>
+  </Function>
+  <Function ID="17" Type="Chaser" Name="chaser_journalAdulte">
+   <Speed FadeIn="2500" FadeOut="2500" Duration="2500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>PingPong</RunOrder>
+   <SpeedModes FadeIn="Common" FadeOut="Common" Duration="Common"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0">8</Step>
+   <Step Number="1" FadeIn="0" Hold="0" FadeOut="0">18</Step>
+  </Function>
+  <Function ID="18" Type="Scene" Name="journal/telephone-adulte fade">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">1,83</FixtureVal>
   </Function>
  </Engine>
  <VirtualConsole>
@@ -157,7 +217,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>7</Function>
+     <Function>11</Function>
     </Playback>
    </Slider>
    <Slider Caption="poubelleAdo" ID="2" WidgetStyle="Slider" InvertedAppearance="false">
@@ -173,7 +233,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>1</Function>
+     <Function>9</Function>
     </Playback>
    </Slider>
    <Slider Caption="journalAdo" ID="3" WidgetStyle="Slider" InvertedAppearance="false">
@@ -189,7 +249,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>2</Function>
+     <Function>14</Function>
     </Playback>
    </Slider>
    <Slider Caption="coteAdulte" ID="4" WidgetStyle="Slider" InvertedAppearance="false">
@@ -205,7 +265,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>3</Function>
+     <Function>4</Function>
     </Playback>
    </Slider>
    <Slider Caption="boiteSouvenir" ID="5" WidgetStyle="Slider" InvertedAppearance="false">
@@ -221,7 +281,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>0</Function>
+     <Function>15</Function>
     </Playback>
    </Slider>
    <Slider Caption="journal/telephone-Adulte" ID="7" WidgetStyle="Slider" InvertedAppearance="false">
@@ -237,7 +297,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>8</Function>
+     <Function>17</Function>
     </Playback>
    </Slider>
    <Slider Caption="portable" ID="8" WidgetStyle="Slider" InvertedAppearance="false">
@@ -269,7 +329,7 @@
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None">Playback</SliderMode>
     <Level LowLimit="0" HighLimit="255" Value="0"/>
     <Playback>
-     <Function>4</Function>
+     <Function>3</Function>
     </Playback>
    </Slider>
   </Frame>
