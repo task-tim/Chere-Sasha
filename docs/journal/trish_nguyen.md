@@ -1,5 +1,5 @@
 # Journal de Trish Nguyen
-![portrait du participant ](../web/medias/participants/profil_trish.jfif)
+![portrait du participant ](../web/medias/participants/profil_trish.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
