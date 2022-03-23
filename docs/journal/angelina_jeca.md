@@ -1,5 +1,5 @@
 # Journal de Angelina De Silva Jeca
-![portrait du participant ](../web/medias/participants/adsj.png)
+![portrait du participant ](../web/medias/participants/profil_angie.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)

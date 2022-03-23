@@ -1,5 +1,5 @@
 # Journal de Trish Nguyen
-![portrait du participant ](../web/medias/participants/profil_trish.jfif)
+![portrait du participant ](../web/medias/participants/profil_trish.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -376,7 +376,3 @@ J'ai atteint mon objectif, car moi et mon équipe, nous sommes venues au grand s
 - Filmer la vidéo
 - Faire des dessins pour le journal
 
-## Semaine 8
-
-
-## Semaine 9
